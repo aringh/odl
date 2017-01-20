@@ -1,0 +1,6 @@
+RegularGrid.max_pt
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.max_pt

@@ -1,0 +1,6 @@
+RegularGrid.is_uniform
+=====================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.is_uniform

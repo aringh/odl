@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.approx_equals
+========================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.approx_equals

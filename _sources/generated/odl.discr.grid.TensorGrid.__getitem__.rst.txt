@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.__getitem__
+=====================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.__getitem__

@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.contains_all
+=======================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.contains_all

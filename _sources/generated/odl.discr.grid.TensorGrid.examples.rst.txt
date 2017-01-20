@@ -1,0 +1,6 @@
+TensorGrid.examples
+==================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.examples

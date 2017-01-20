@@ -1,0 +1,6 @@
+TensorGrid.meshgrid
+==================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.meshgrid

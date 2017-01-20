@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.extent
+================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.extent

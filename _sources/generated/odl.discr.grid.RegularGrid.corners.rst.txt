@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.corners
+==================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.corners

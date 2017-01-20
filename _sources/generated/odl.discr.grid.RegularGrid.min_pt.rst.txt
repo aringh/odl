@@ -1,0 +1,6 @@
+RegularGrid.min_pt
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.min_pt

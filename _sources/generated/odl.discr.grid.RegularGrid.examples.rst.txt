@@ -1,0 +1,6 @@
+RegularGrid.examples
+===================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.examples

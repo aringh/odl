@@ -1,0 +1,58 @@
+RegularGrid
+==========================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoclass:: RegularGrid
+   :show-inheritance:
+   
+   
+   .. automethod:: __init__
+   
+      
+   
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         RegularGrid.__contains__
+         RegularGrid.__eq__
+         RegularGrid.__getitem__
+         RegularGrid.append
+         RegularGrid.approx_contains
+         RegularGrid.approx_equals
+         RegularGrid.contains_all
+         RegularGrid.contains_set
+         RegularGrid.convex_hull
+         RegularGrid.corner_grid
+         RegularGrid.corners
+         RegularGrid.element
+         RegularGrid.extent
+         RegularGrid.insert
+         RegularGrid.is_subgrid
+         RegularGrid.max
+         RegularGrid.min
+         RegularGrid.points
+         RegularGrid.squeeze
+   
+
+    
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         RegularGrid.coord_vectors
+         RegularGrid.examples
+         RegularGrid.ideg
+         RegularGrid.inondeg
+         RegularGrid.is_uniform
+         RegularGrid.max_pt
+         RegularGrid.meshgrid
+         RegularGrid.mid_pt
+         RegularGrid.min_pt
+         RegularGrid.ndim
+         RegularGrid.shape
+         RegularGrid.size
+         RegularGrid.stride
+   
+   

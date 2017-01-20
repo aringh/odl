@@ -1,0 +1,6 @@
+TensorGrid.is_uniform
+====================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.is_uniform

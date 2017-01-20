@@ -1,0 +1,6 @@
+uniform_sampling_fromintv
+========================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autofunction:: uniform_sampling_fromintv

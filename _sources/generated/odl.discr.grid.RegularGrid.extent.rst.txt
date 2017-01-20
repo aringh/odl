@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.extent
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.extent

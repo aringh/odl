@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.approx_equals
+=======================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.approx_equals

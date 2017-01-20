@@ -1,0 +1,56 @@
+TensorGrid
+=========================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoclass:: TensorGrid
+   :show-inheritance:
+   
+   
+   .. automethod:: __init__
+   
+      
+   
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         TensorGrid.__contains__
+         TensorGrid.__eq__
+         TensorGrid.__getitem__
+         TensorGrid.append
+         TensorGrid.approx_contains
+         TensorGrid.approx_equals
+         TensorGrid.contains_all
+         TensorGrid.contains_set
+         TensorGrid.convex_hull
+         TensorGrid.corner_grid
+         TensorGrid.corners
+         TensorGrid.element
+         TensorGrid.extent
+         TensorGrid.insert
+         TensorGrid.is_subgrid
+         TensorGrid.max
+         TensorGrid.min
+         TensorGrid.points
+         TensorGrid.squeeze
+   
+
+    
+   .. HACK -- the point here is that we don't want this to appear in the output, but the autosummary should still generate the pages.
+      .. autosummary::
+         :toctree:
+      
+         TensorGrid.coord_vectors
+         TensorGrid.examples
+         TensorGrid.ideg
+         TensorGrid.inondeg
+         TensorGrid.is_uniform
+         TensorGrid.max_pt
+         TensorGrid.meshgrid
+         TensorGrid.min_pt
+         TensorGrid.ndim
+         TensorGrid.shape
+         TensorGrid.size
+   
+   

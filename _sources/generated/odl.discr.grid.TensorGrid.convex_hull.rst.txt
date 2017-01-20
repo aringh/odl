@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.convex_hull
+=====================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.convex_hull

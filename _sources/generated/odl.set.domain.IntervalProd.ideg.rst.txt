@@ -1,0 +1,6 @@
+IntervalProd.ideg
+================================
+
+.. currentmodule:: odl.set.domain
+
+.. autoattribute:: IntervalProd.ideg

@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.is_subgrid
+=====================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.is_subgrid

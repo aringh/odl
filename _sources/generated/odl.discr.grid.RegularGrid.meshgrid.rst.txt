@@ -1,0 +1,6 @@
+RegularGrid.meshgrid
+===================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.meshgrid

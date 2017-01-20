@@ -1,0 +1,6 @@
+RegularGrid.shape
+================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.shape

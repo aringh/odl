@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.__contains__
+=======================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.__contains__

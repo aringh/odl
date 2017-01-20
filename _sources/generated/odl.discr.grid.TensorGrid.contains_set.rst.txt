@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.contains_set
+======================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.contains_set

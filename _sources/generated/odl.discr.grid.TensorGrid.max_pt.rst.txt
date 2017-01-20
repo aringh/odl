@@ -1,0 +1,6 @@
+TensorGrid.max_pt
+================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.max_pt

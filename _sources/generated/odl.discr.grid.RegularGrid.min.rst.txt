@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.min
+==============================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.min

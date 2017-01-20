@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.element
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.element

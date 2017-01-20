@@ -1,0 +1,6 @@
+RegularGrid.size
+===============================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.size

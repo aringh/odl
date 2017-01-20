@@ -1,0 +1,6 @@
+RegularGrid.inondeg
+==================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.inondeg

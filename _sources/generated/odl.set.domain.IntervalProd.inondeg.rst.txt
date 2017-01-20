@@ -1,0 +1,6 @@
+IntervalProd.inondeg
+===================================
+
+.. currentmodule:: odl.set.domain
+
+.. autoattribute:: IntervalProd.inondeg

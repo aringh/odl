@@ -1,0 +1,6 @@
+RegularGrid.ndim
+===============================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.ndim

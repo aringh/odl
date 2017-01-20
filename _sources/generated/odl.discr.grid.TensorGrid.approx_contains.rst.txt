@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.approx_contains
+=========================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.approx_contains

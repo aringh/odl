@@ -1,0 +1,6 @@
+TensorGrid.inondeg
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.inondeg

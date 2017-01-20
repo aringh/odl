@@ -1,0 +1,6 @@
+TensorGrid.shape
+===============================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.shape

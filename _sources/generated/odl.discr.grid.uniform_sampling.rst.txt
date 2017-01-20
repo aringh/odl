@@ -1,0 +1,6 @@
+uniform_sampling
+===============================
+
+.. currentmodule:: odl.discr.grid
+
+.. autofunction:: uniform_sampling

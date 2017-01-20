@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.__getitem__
+======================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.__getitem__

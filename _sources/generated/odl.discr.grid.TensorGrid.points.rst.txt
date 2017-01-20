@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.points
+================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.points

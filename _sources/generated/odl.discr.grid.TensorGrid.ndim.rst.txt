@@ -1,0 +1,6 @@
+TensorGrid.ndim
+==============================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.ndim

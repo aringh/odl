@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.corners
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.corners

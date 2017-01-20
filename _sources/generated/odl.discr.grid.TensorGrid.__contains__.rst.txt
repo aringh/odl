@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.__contains__
+======================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.__contains__

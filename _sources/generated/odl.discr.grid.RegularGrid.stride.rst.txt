@@ -1,0 +1,6 @@
+RegularGrid.stride
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.stride

@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.is_subgrid
+====================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.is_subgrid

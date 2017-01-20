@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.squeeze
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.squeeze

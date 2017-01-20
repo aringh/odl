@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.insert
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.insert

@@ -1,0 +1,6 @@
+RegularGrid.coord_vectors
+========================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.coord_vectors

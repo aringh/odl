@@ -1,0 +1,6 @@
+RegularGrid.mid_pt
+=================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.mid_pt

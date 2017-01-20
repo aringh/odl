@@ -1,0 +1,6 @@
+TensorGrid.size
+==============================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.size

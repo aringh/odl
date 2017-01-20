@@ -1,0 +1,8 @@
+:orphan:
+
+TensorGrid.min
+=============================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: TensorGrid.min

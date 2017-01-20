@@ -1,0 +1,8 @@
+:orphan:
+
+RegularGrid.approx_contains
+==========================================
+
+.. currentmodule:: odl.discr.grid
+
+.. automethod:: RegularGrid.approx_contains

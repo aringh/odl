@@ -1,0 +1,6 @@
+RegularGrid.ideg
+===============================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: RegularGrid.ideg

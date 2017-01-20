@@ -1,0 +1,6 @@
+TensorGrid.coord_vectors
+=======================================
+
+.. currentmodule:: odl.discr.grid
+
+.. autoattribute:: TensorGrid.coord_vectors
