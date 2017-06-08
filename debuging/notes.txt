@@ -1,0 +1,30 @@
+--------------------
+2017_06_08__16_58_50
+--------------------
+- Running on Shepp-Logan phantom: 50x50x50 volume and 100x100 detector.
+- Memory seems to increase to about iteration 130. After that it stagnates.
+- Around iteration 1000, programs in the background were closed.
+- running from current master of odl (commit 7be5579)
+
+=> error seems to not be reproduced
+
+
+--------------------
+2017_06_08__17_18_31
+--------------------
+- Running on larger Shepp-Logan phantom: 100x100x100 volume and 200x200 detector.
+- Again, memory seems to increase to about iteration 130. After that it stagnates.
+- Also running from current master of odl (commit 7be5579)
+
+=> error seems to not be reproduced
+
+
+--------------------
+2017_06_08__19_03_30
+--------------------
+- Running on Davids data for AD-project.
+- Running on a subset, but without rebinning.
+- Crashed (kernel died), and it looks like the same kind of "out of memory" (swap full and very little RAM left). But the crash occured before iteration 130, so given the above observations it is still inconclusive.
+- Running from commit 3fd52ace, see issue #35 in the repo https://github.com/davlars/ad-skull-reconstruction
+
+=> inconclusive
