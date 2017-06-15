@@ -23,7 +23,7 @@ __all__ = ('CallbackStore', 'CallbackApply',
            'CallbackPrintTiming', 'CallbackPrintIteration',
            'CallbackPrint', 'CallbackPrintNorm', 'CallbackShow',
            'CallbackSaveToDisk', 'CallbackSleep', 'CallbackShowConvergence',
-           'CallbackPrintHardwareUsage')
+           'CallbackPrintHardwareUsage', 'CallbackPrintObjectInMemoeryDiff')
 
 
 class SolverCallback(object):
@@ -942,6 +942,55 @@ class CallbackPrintHardwareUsage(SolverCallback):
                    ('fmt_cpu', self.fmt_cpu, 'CPU usage (% each core): {}'),
                    ('fmt_mem', self.fmt_mem, 'RAM usage: {}'),
                    ('fmt_swap', self.fmt_swap, 'SWAP usage: {}')]
+        inner_str = signature_string([], optargs)
+        return '{}({})'.format(self.__class__.__name__, inner_str)
+
+
+class CallbackPrintObjectInMemoeryDiff(SolverCallback):
+
+    """Callback for printing new objects in memory.
+
+    This callback requires the ``pympler`` package.
+    """
+
+    def __init__(self, step=1):
+        """Initialize a new instance.
+
+        Parameters
+        ----------
+        step : positive int, optional
+            Number of iterations between output. Default: 1
+
+        Examples
+        --------
+        Print new objects in memory every iteration
+
+        >>> callback = CallbackPrintObjectInMemoeryDiff()
+
+        Only print every tenth step
+
+        >>> callback = CallbackPrintObjectInMemoeryDiff(step=10)
+        """
+        self.step = int(step)
+        self.iter = 0
+
+        from pympler.tracker import SummaryTracker
+        self.tracker = SummaryTracker()
+
+    def __call__(self, _):
+        """Print new objects in memory."""
+        if self.iter % self.step == 0:
+            self.tracker.print_diff()
+
+        self.iter += 1
+
+    def reset(self):
+        """Set `iter` to 0."""
+        self.iter = 0
+
+    def __repr__(self):
+        """Return ``repr(self)``."""
+        optargs = [('step', self.step, 1)]
         inner_str = signature_string([], optargs)
         return '{}({})'.format(self.__class__.__name__, inner_str)
 
