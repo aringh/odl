@@ -46,10 +46,10 @@ sys.stdout = Logger(savePath + output_filename)
 space = adutils.get_discretization()
 
 # Forward operator (in the form of a broadcast operator)
-A = adutils.get_ray_trafo(space, use_subset=True, use_rebin=False, rebin_factor=100)
+A = adutils.get_ray_trafo(space, use_subset=False, use_rebin=True, rebin_factor=10)
 
 # Data
-rhs = adutils.get_data(A, use_subset=True, use_rebin=False, rebin_factor=100)
+rhs = adutils.get_data(A, use_subset=False, use_rebin=True, rebin_factor=10)
 
 
 # ----------------------------------------------------------------------------
@@ -187,9 +187,12 @@ class CallbackMySecondCallback(odl.solvers.util.callback.SolverCallback):
         return '{}({})'.format(self.__class__.__name__, inner_str)
 
 
+#callback = (odl.solvers.CallbackPrintIteration() &
+#            CallbackMyCallback() &
+#            CallbackMySecondCallback())
+
 callback = (odl.solvers.CallbackPrintIteration() &
-            CallbackMyCallback() &
-            CallbackMySecondCallback())
+            CallbackMyCallback())
 
 #callback = odl.solvers.CallbackPrintIteration()
 

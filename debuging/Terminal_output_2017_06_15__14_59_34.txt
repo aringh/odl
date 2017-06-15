@@ -1,0 +1,491 @@
+Loading geometry for turn number 1 out of 23
+Loading geometry for turn number 2 out of 23
+Loading geometry for turn number 3 out of 23
+Loading geometry for turn number 4 out of 23
+Loading geometry for turn number 5 out of 23
+Loading geometry for turn number 6 out of 23
+Loading geometry for turn number 7 out of 23
+Loading geometry for turn number 8 out of 23
+Loading geometry for turn number 9 out of 23
+Loading geometry for turn number 10 out of 23
+Loading geometry for turn number 11 out of 23
+Loading geometry for turn number 12 out of 23
+Loading geometry for turn number 13 out of 23
+Loading geometry for turn number 14 out of 23
+Loading geometry for turn number 15 out of 23
+Loading geometry for turn number 16 out of 23
+Loading geometry for turn number 17 out of 23
+Loading geometry for turn number 18 out of 23
+Loading geometry for turn number 19 out of 23
+Loading geometry for turn number 20 out of 23
+Loading geometry for turn number 21 out of 23
+Loading geometry for turn number 22 out of 23
+Loading geometry for turn number 23 out of 23
+Loading data for turn number 1 out of 23
+Loading data for turn number 2 out of 23
+Loading data for turn number 3 out of 23
+Loading data for turn number 4 out of 23
+Loading data for turn number 5 out of 23
+Loading data for turn number 6 out of 23
+Loading data for turn number 7 out of 23
+Loading data for turn number 8 out of 23
+Loading data for turn number 9 out of 23
+Loading data for turn number 10 out of 23
+Loading data for turn number 11 out of 23
+Loading data for turn number 12 out of 23
+Loading data for turn number 13 out of 23
+Loading data for turn number 14 out of 23
+Loading data for turn number 15 out of 23
+Loading data for turn number 16 out of 23
+Loading data for turn number 17 out of 23
+Loading data for turn number 18 out of 23
+Loading data for turn number 19 out of 23
+Loading data for turn number 20 out of 23
+Loading data for turn number 21 out of 23
+Loading data for turn number 22 out of 23
+Loading data for turn number 23 out of 23
+Norm of the product space operator: 21.495493487232476
+iter = 0
+CPU usage (% each core): [34.0, 40.1, 30.8, 35.7, 33.7, 32.6, 34.1, 60.6]
+RAM usage: svmem(total=67514511360, available=41934614528, percent=37.9, used=24819290112, free=40814796800, active=23390511104, inactive=2352058368, buffers=56246272, cached=1824178176, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122615808, free=172347392, percent=96.0, sin=34058645504, sout=56827965440)
+iter = 1
+CPU usage (% each core): [54.7, 64.6, 54.8, 52.5, 47.5, 61.6, 46.7, 55.5]
+RAM usage: svmem(total=67514511360, available=41229287424, percent=38.9, used=25524609024, free=40109391872, active=24094617600, inactive=2352087040, buffers=56311808, cached=1824198656, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122587136, free=172376064, percent=96.0, sin=34058682368, sout=56827965440)
+iter = 2
+CPU usage (% each core): [53.1, 79.6, 51.0, 47.4, 44.9, 60.2, 49.0, 48.0]
+RAM usage: svmem(total=67514511360, available=40859516928, percent=39.5, used=25894387712, free=39739535360, active=24464687104, inactive=2352132096, buffers=56332288, cached=1824256000, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122566656, free=172396544, percent=96.0, sin=34058686464, sout=56827965440)
+iter = 3
+CPU usage (% each core): [64.7, 48.8, 48.0, 48.5, 77.1, 46.6, 48.6, 46.8]
+RAM usage: svmem(total=67514511360, available=40475320320, percent=40.0, used=26278572032, free=39355305984, active=24848830464, inactive=2352136192, buffers=56356864, cached=1824276480, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122566656, free=172396544, percent=96.0, sin=34058686464, sout=56827965440)
+iter = 4
+CPU usage (% each core): [52.9, 68.5, 49.5, 49.7, 53.7, 62.1, 52.2, 47.5]
+RAM usage: svmem(total=67514511360, available=39791656960, percent=41.1, used=26962243584, free=38671609856, active=25529991168, inactive=2352209920, buffers=56381440, cached=1824276480, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122529792, free=172433408, percent=96.0, sin=34058772480, sout=56827965440)
+iter = 5
+CPU usage (% each core): [58.9, 50.8, 58.7, 59.9, 62.4, 45.8, 49.3, 51.3]
+RAM usage: svmem(total=67514511360, available=39752916992, percent=41.1, used=27000975360, free=38632787968, active=25569222656, inactive=2352168960, buffers=56471552, cached=1824276480, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122497024, free=172466176, percent=96.0, sin=34058809344, sout=56827965440)
+iter = 6
+CPU usage (% each core): [51.0, 48.7, 49.4, 52.7, 65.9, 50.7, 49.4, 72.7]
+RAM usage: svmem(total=67514511360, available=39374761984, percent=41.7, used=27379142656, free=38254587904, active=25946431488, inactive=2352181248, buffers=56496128, cached=1824284672, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122484736, free=172478464, percent=96.0, sin=34058825728, sout=56827965440)
+iter = 7
+CPU usage (% each core): [61.6, 65.8, 57.2, 53.7, 57.0, 55.5, 49.8, 49.0]
+RAM usage: svmem(total=67514511360, available=39004979200, percent=42.2, used=27748921344, free=37884776448, active=26315411456, inactive=2351939584, buffers=56520704, cached=1824292864, shared=85827584)
+SWAP usage: sswap(total=4294963200, used=4122267648, free=172695552, percent=96.0, sin=34059108352, sout=56827965440)
+iter = 8
+CPU usage (% each core): [60.5, 50.0, 56.3, 54.2, 57.9, 47.0, 48.0, 63.0]
+RAM usage: svmem(total=67514511360, available=38633820160, percent=42.8, used=28120084480, free=37512790016, active=26685542400, inactive=2352766976, buffers=56545280, cached=1825091584, shared=85827584)
+SWAP usage: sswap(total=4294963200, used=4122210304, free=172752896, percent=96.0, sin=34059161600, sout=56827965440)
+iter = 9
+CPU usage (% each core): [51.9, 73.3, 51.1, 53.2, 46.9, 58.8, 48.7, 53.8]
+RAM usage: svmem(total=67514511360, available=38252130304, percent=43.3, used=28501770240, free=37131042816, active=27067633664, inactive=2352799744, buffers=56602624, cached=1825095680, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122177536, free=172785664, percent=96.0, sin=34059223040, sout=56827965440)
+iter = 10
+CPU usage (% each core): [50.5, 65.2, 52.8, 50.5, 49.5, 61.2, 47.7, 58.1]
+RAM usage: svmem(total=67514511360, available=37882929152, percent=43.9, used=28870967296, free=36761718784, active=27435864064, inactive=2352803840, buffers=56717312, cached=1825107968, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4122140672, free=172822528, percent=96.0, sin=34059259904, sout=56827965440)
+iter = 11
+CPU usage (% each core): [54.8, 58.8, 59.9, 56.2, 53.5, 53.4, 49.2, 45.6]
+RAM usage: svmem(total=67514511360, available=37513076736, percent=44.4, used=29240819712, free=36391837696, active=27804196864, inactive=2353049600, buffers=56741888, cached=1825112064, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121739264, free=173223936, percent=96.0, sin=34059730944, sout=56827965440)
+iter = 12
+CPU usage (% each core): [72.6, 48.9, 52.0, 49.7, 59.8, 44.1, 51.3, 50.2]
+RAM usage: svmem(total=67514511360, available=37144698880, percent=45.0, used=29609197568, free=36023435264, active=28172247040, inactive=2353049600, buffers=56766464, cached=1825112064, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121739264, free=173223936, percent=96.0, sin=34059730944, sout=56827965440)
+iter = 13
+CPU usage (% each core): [47.0, 62.1, 54.5, 55.5, 44.7, 54.3, 50.2, 59.2]
+RAM usage: svmem(total=67514511360, available=36773183488, percent=45.5, used=29980712960, free=35651895296, active=28542320640, inactive=2353078272, buffers=56782848, cached=1825120256, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121731072, free=173232128, percent=96.0, sin=34059755520, sout=56827965440)
+iter = 14
+CPU usage (% each core): [57.5, 69.2, 57.6, 51.4, 52.5, 51.8, 49.7, 48.9]
+RAM usage: svmem(total=67514511360, available=36414447616, percent=46.1, used=30339432448, free=35293151232, active=28901036032, inactive=2353086464, buffers=56807424, cached=1825120256, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121710592, free=173252608, percent=96.0, sin=34059788288, sout=56827965440)
+iter = 15
+CPU usage (% each core): [54.0, 65.0, 50.2, 52.5, 56.6, 62.4, 50.4, 45.5]
+RAM usage: svmem(total=67514511360, available=35377524736, percent=47.6, used=31376371712, free=34256187392, active=29936312320, inactive=2353401856, buffers=56832000, cached=1825120256, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121522176, free=173441024, percent=96.0, sin=34060275712, sout=56827965440)
+iter = 16
+CPU usage (% each core): [69.3, 48.2, 57.0, 48.7, 66.0, 47.6, 50.1, 48.2]
+RAM usage: svmem(total=67514511360, available=35336187904, percent=47.7, used=31417708544, free=34214813696, active=29977485312, inactive=2353668096, buffers=56856576, cached=1825132544, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121124864, free=173838336, percent=96.0, sin=34060918784, sout=56827965440)
+iter = 17
+CPU usage (% each core): [48.7, 64.9, 60.6, 55.7, 50.2, 58.7, 47.4, 52.9]
+RAM usage: svmem(total=67514511360, available=35284770816, percent=47.7, used=31469121536, free=34163376128, active=30027931648, inactive=2353668096, buffers=56872960, cached=1825140736, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121120768, free=173842432, percent=96.0, sin=34060922880, sout=56827965440)
+iter = 18
+CPU usage (% each core): [53.2, 69.0, 57.1, 51.0, 49.8, 58.5, 49.9, 49.5]
+RAM usage: svmem(total=67514511360, available=34263846912, percent=49.2, used=32490049536, free=33142431744, active=31047737344, inactive=2353754112, buffers=56889344, cached=1825140736, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121018368, free=173944832, percent=96.0, sin=34061033472, sout=56827965440)
+iter = 19
+CPU usage (% each core): [50.7, 68.8, 48.0, 45.7, 50.0, 52.9, 49.1, 64.8]
+RAM usage: svmem(total=67514511360, available=34222944256, percent=49.3, used=32530952192, free=33101410304, active=31088484352, inactive=2353856512, buffers=56913920, cached=1825234944, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121010176, free=173953024, percent=95.9, sin=34061049856, sout=56827965440)
+iter = 20
+CPU usage (% each core): [71.2, 48.4, 56.6, 49.7, 63.1, 44.8, 48.7, 42.9]
+RAM usage: svmem(total=67514511360, available=34170507264, percent=49.4, used=32583380992, free=33048965120, active=31138762752, inactive=2353856512, buffers=56930304, cached=1825234944, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4121006080, free=173957120, percent=95.9, sin=34061053952, sout=56827965440)
+iter = 21
+CPU usage (% each core): [45.8, 63.8, 53.6, 48.7, 50.1, 74.6, 50.3, 49.9]
+RAM usage: svmem(total=67514511360, available=33150873600, percent=50.9, used=33603018752, free=32029294592, active=32158633984, inactive=2353876992, buffers=56954880, cached=1825243136, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4120989696, free=173973504, percent=95.9, sin=34061070336, sout=56827965440)
+iter = 22
+CPU usage (% each core): [52.0, 47.0, 55.7, 77.7, 45.0, 47.5, 50.2, 57.4]
+RAM usage: svmem(total=67514511360, available=33108336640, percent=51.0, used=33645473792, free=31986671616, active=32199970816, inactive=2353999872, buffers=56971264, cached=1825394688, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4120805376, free=174157824, percent=95.9, sin=34061225984, sout=56827965440)
+iter = 23
+CPU usage (% each core): [59.6, 57.9, 54.7, 48.3, 58.8, 53.7, 51.3, 48.8]
+RAM usage: svmem(total=67514511360, available=33056964608, percent=51.0, used=33696841728, free=31935270912, active=32250249216, inactive=2354020352, buffers=56995840, cached=1825402880, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4120788992, free=174174208, percent=95.9, sin=34061242368, sout=56827965440)
+iter = 24
+CPU usage (% each core): [70.2, 49.3, 52.1, 50.0, 58.4, 56.6, 49.9, 54.8]
+RAM usage: svmem(total=67514511360, available=32036532224, percent=52.5, used=34717286400, free=30914781184, active=33269780480, inactive=2354044928, buffers=57032704, cached=1825411072, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4120780800, free=174182400, percent=95.9, sin=34061250560, sout=56827965440)
+iter = 25
+CPU usage (% each core): [48.0, 67.9, 56.0, 50.0, 46.4, 62.7, 48.4, 56.7]
+RAM usage: svmem(total=67514511360, available=31995613184, percent=52.6, used=34758205440, free=30873845760, active=33310453760, inactive=2354061312, buffers=57049088, cached=1825411072, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4120768512, free=174194688, percent=95.9, sin=34061271040, sout=56827965440)
+iter = 26
+CPU usage (% each core): [66.6, 48.8, 52.0, 52.6, 51.6, 55.3, 49.0, 57.6]
+RAM usage: svmem(total=67514511360, available=31945814016, percent=52.7, used=34807992320, free=30824030208, active=33360162816, inactive=2354061312, buffers=57073664, cached=1825415168, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4120760320, free=174202880, percent=95.9, sin=34061283328, sout=56827965440)
+iter = 27
+CPU usage (% each core): [56.2, 47.0, 56.1, 52.5, 55.2, 48.0, 47.9, 68.7]
+RAM usage: svmem(total=67514511360, available=30923816960, percent=54.2, used=35830001664, free=29801992192, active=34380124160, inactive=2354118656, buffers=57098240, cached=1825419264, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4120686592, free=174276608, percent=95.9, sin=34061373440, sout=56827965440)
+iter = 28
+CPU usage (% each core): [51.9, 66.8, 55.3, 50.8, 52.3, 60.5, 47.0, 50.4]
+RAM usage: svmem(total=67514511360, available=30841798656, percent=54.3, used=35910856704, free=29710352384, active=34463821824, inactive=2359119872, buffers=60571648, cached=1832730624, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4119023616, free=175939584, percent=95.9, sin=34063237120, sout=56827965440)
+iter = 29
+CPU usage (% each core): [51.3, 64.4, 62.0, 51.5, 53.5, 55.6, 50.0, 48.8]
+RAM usage: svmem(total=67514511360, available=30791110656, percent=54.4, used=35961524224, free=29659529216, active=34514108416, inactive=2359226368, buffers=60596224, cached=1832861696, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4119015424, free=175947776, percent=95.9, sin=34063241216, sout=56827965440)
+iter = 30
+CPU usage (% each core): [48.6, 66.7, 56.5, 57.8, 44.9, 60.2, 49.1, 54.0]
+RAM usage: svmem(total=67514511360, available=29770231808, percent=55.9, used=36982411264, free=28638621696, active=35534123008, inactive=2359242752, buffers=60612608, cached=1832865792, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118990848, free=175972352, percent=95.9, sin=34063278080, sout=56827965440)
+iter = 31
+CPU usage (% each core): [65.4, 52.1, 55.9, 48.9, 73.8, 62.2, 51.4, 57.4]
+RAM usage: svmem(total=67514511360, available=29725089792, percent=56.0, used=37027524608, free=28592779264, active=35578843136, inactive=2359529472, buffers=60952576, cached=1833254912, shared=85839872)
+SWAP usage: sswap(total=4294963200, used=4118937600, free=176025600, percent=95.9, sin=34063347712, sout=56827965440)
+iter = 32
+CPU usage (% each core): [49.7, 58.0, 64.1, 54.0, 46.1, 55.7, 48.1, 67.1]
+RAM usage: svmem(total=67514511360, available=29678477312, percent=56.0, used=37074178048, free=28546195456, active=35625787392, inactive=2359353344, buffers=60968960, cached=1833168896, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118933504, free=176029696, percent=95.9, sin=34063351808, sout=56827965440)
+iter = 33
+CPU usage (% each core): [67.5, 48.8, 48.2, 47.6, 72.4, 54.8, 48.2, 55.3]
+RAM usage: svmem(total=67514511360, available=28655767552, percent=57.6, used=38096887808, free=27523457024, active=36645691392, inactive=2359357440, buffers=60993536, cached=1833172992, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118929408, free=176033792, percent=95.9, sin=34063351808, sout=56827965440)
+iter = 34
+CPU usage (% each core): [62.1, 61.5, 65.4, 54.7, 60.5, 47.6, 49.0, 54.8]
+RAM usage: svmem(total=67514511360, available=28614782976, percent=57.6, used=38137884672, free=27482447872, active=36687179776, inactive=2359382016, buffers=61009920, cached=1833168896, shared=85831680)
+SWAP usage: sswap(total=4294963200, used=4118908928, free=176054272, percent=95.9, sin=34063396864, sout=56827965440)
+iter = 35
+CPU usage (% each core): [46.1, 72.8, 63.8, 55.7, 44.1, 58.8, 50.0, 49.0]
+RAM usage: svmem(total=67514511360, available=28563234816, percent=57.7, used=38189428736, free=27430871040, active=36737404928, inactive=2359390208, buffers=61034496, cached=1833177088, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118900736, free=176062464, percent=95.9, sin=34063405056, sout=56827965440)
+iter = 36
+CPU usage (% each core): [46.8, 65.2, 45.8, 58.5, 53.6, 55.3, 46.9, 63.2]
+RAM usage: svmem(total=67514511360, available=27543547904, percent=59.2, used=39209115648, free=26411155456, active=37757263872, inactive=2359410688, buffers=61050880, cached=1833189376, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118888448, free=176074752, percent=95.9, sin=34063417344, sout=56827965440)
+iter = 37
+CPU usage (% each core): [54.5, 67.0, 57.0, 49.1, 59.7, 47.4, 49.9, 54.3]
+RAM usage: svmem(total=67514511360, available=27501404160, percent=59.3, used=39251259392, free=26368987136, active=37798535168, inactive=2359422976, buffers=61075456, cached=1833189376, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118876160, free=176087040, percent=95.9, sin=34063429632, sout=56827965440)
+iter = 38
+CPU usage (% each core): [47.0, 72.2, 56.8, 53.0, 51.3, 66.7, 47.8, 44.4]
+RAM usage: svmem(total=67514511360, available=27451506688, percent=59.3, used=39301156864, free=26319069184, active=37848473600, inactive=2359435264, buffers=61091840, cached=1833193472, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118851584, free=176111616, percent=95.9, sin=34063462400, sout=56827965440)
+iter = 39
+CPU usage (% each core): [49.2, 51.6, 48.3, 75.9, 49.5, 45.0, 47.7, 63.3]
+RAM usage: svmem(total=67514511360, available=26429812736, percent=60.9, used=40322850816, free=25297342464, active=38868152320, inactive=2359443456, buffers=61116416, cached=1833201664, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118794240, free=176168960, percent=95.9, sin=34063507456, sout=56827965440)
+iter = 40
+CPU usage (% each core): [54.5, 60.6, 49.3, 54.6, 60.1, 59.6, 48.4, 52.7]
+RAM usage: svmem(total=67514511360, available=26388754432, percent=60.9, used=40363909120, free=25256255488, active=38908837888, inactive=2359369728, buffers=61140992, cached=1833205760, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118769664, free=176193536, percent=95.9, sin=34063548416, sout=56827965440)
+iter = 41
+CPU usage (% each core): [57.8, 57.9, 61.6, 50.1, 57.6, 60.5, 50.1, 55.0]
+RAM usage: svmem(total=67514511360, available=26336575488, percent=61.0, used=40416088064, free=25204035584, active=38960316416, inactive=2359365632, buffers=61181952, cached=1833205760, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118753280, free=176209920, percent=95.9, sin=34063564800, sout=56827965440)
+iter = 42
+CPU usage (% each core): [67.6, 59.3, 53.6, 50.9, 58.1, 51.5, 49.4, 49.0]
+RAM usage: svmem(total=67514511360, available=25315950592, percent=62.5, used=41436704768, free=24183390208, active=39980060672, inactive=2359410688, buffers=61206528, cached=1833209856, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118745088, free=176218112, percent=95.9, sin=34063609856, sout=56827965440)
+iter = 43
+CPU usage (% each core): [60.2, 52.7, 51.3, 55.4, 63.7, 51.3, 46.8, 50.8]
+RAM usage: svmem(total=67514511360, available=25274236928, percent=62.6, used=41478426624, free=24141631488, active=40021127168, inactive=2359427072, buffers=61239296, cached=1833213952, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118720512, free=176242688, percent=95.9, sin=34063646720, sout=56827965440)
+iter = 44
+CPU usage (% each core): [66.6, 55.9, 69.7, 54.6, 46.2, 60.9, 48.8, 54.2]
+RAM usage: svmem(total=67514511360, available=25224097792, percent=62.6, used=41528557568, free=24091484160, active=40071364608, inactive=2359447552, buffers=61255680, cached=1833213952, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118691840, free=176271360, percent=95.9, sin=34063695872, sout=56827965440)
+iter = 45
+CPU usage (% each core): [49.3, 68.6, 54.2, 48.6, 52.5, 67.6, 51.7, 53.7]
+RAM usage: svmem(total=67514511360, available=24202379264, percent=64.2, used=42550284288, free=23069728768, active=41091153920, inactive=2359451648, buffers=61280256, cached=1833218048, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118687744, free=176275456, percent=95.9, sin=34063695872, sout=56827965440)
+iter = 46
+CPU usage (% each core): [48.4, 55.5, 57.1, 58.5, 47.7, 47.9, 49.6, 72.6]
+RAM usage: svmem(total=67514511360, available=24161386496, percent=64.2, used=42591268864, free=23028715520, active=41131663360, inactive=2359455744, buffers=61304832, cached=1833222144, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118679552, free=176283648, percent=95.9, sin=34063704064, sout=56827965440)
+iter = 47
+CPU usage (% each core): [52.5, 69.9, 51.5, 50.4, 51.1, 66.1, 49.2, 55.1]
+RAM usage: svmem(total=67514511360, available=24110960640, percent=64.3, used=42641702912, free=22978265088, active=41181810688, inactive=2359447552, buffers=61321216, cached=1833222144, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118679552, free=176283648, percent=95.9, sin=34063704064, sout=56827965440)
+iter = 48
+CPU usage (% each core): [50.8, 69.2, 65.3, 50.7, 48.7, 58.7, 51.3, 48.6]
+RAM usage: svmem(total=67514511360, available=23089471488, percent=65.8, used=43663183872, free=21956755456, active=42201948160, inactive=2359476224, buffers=61345792, cached=1833226240, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118654976, free=176308224, percent=95.9, sin=34063728640, sout=56827965440)
+iter = 49
+CPU usage (% each core): [55.8, 64.1, 47.6, 46.7, 49.4, 69.8, 47.8, 48.4]
+RAM usage: svmem(total=67514511360, available=23047389184, percent=65.9, used=43705274368, free=21914644480, active=42243203072, inactive=2359492608, buffers=61362176, cached=1833230336, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118642688, free=176320512, percent=95.9, sin=34063740928, sout=56827965440)
+iter = 50
+CPU usage (% each core): [53.9, 60.5, 53.4, 57.4, 46.8, 65.4, 48.4, 47.4]
+RAM usage: svmem(total=67514511360, available=22997626880, percent=65.9, used=43755028480, free=21864865792, active=42292858880, inactive=2359500800, buffers=61386752, cached=1833230336, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118622208, free=176340992, percent=95.9, sin=34063765504, sout=56827965440)
+iter = 51
+CPU usage (% each core): [69.6, 49.7, 61.6, 47.3, 56.2, 57.7, 51.9, 59.1]
+RAM usage: svmem(total=67514511360, available=21976346624, percent=67.4, used=44776316928, free=20843548672, active=43312918528, inactive=2359562240, buffers=61411328, cached=1833234432, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118573056, free=176390144, percent=95.9, sin=34063818752, sout=56827965440)
+iter = 52
+CPU usage (% each core): [47.8, 74.1, 49.5, 48.3, 52.8, 65.9, 48.5, 54.1]
+RAM usage: svmem(total=67514511360, available=21935767552, percent=67.5, used=44816896000, free=20802940928, active=43353989120, inactive=2359566336, buffers=61435904, cached=1833238528, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118573056, free=176390144, percent=95.9, sin=34063818752, sout=56827965440)
+iter = 53
+CPU usage (% each core): [49.6, 74.2, 50.6, 45.5, 45.1, 65.9, 48.6, 54.9]
+RAM usage: svmem(total=67514511360, available=21884825600, percent=67.6, used=44867817472, free=20751921152, active=43404193792, inactive=2359455744, buffers=61468672, cached=1833304064, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118568960, free=176394240, percent=95.9, sin=34063835136, sout=56827965440)
+iter = 54
+CPU usage (% each core): [72.0, 69.2, 56.8, 56.9, 52.1, 48.3, 48.5, 50.6]
+RAM usage: svmem(total=67514511360, available=20864278528, percent=69.1, used=45888385024, free=19731333120, active=44423827456, inactive=2359476224, buffers=61485056, cached=1833308160, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118544384, free=176418816, percent=95.9, sin=34063859712, sout=56827965440)
+iter = 55
+CPU usage (% each core): [77.7, 48.6, 51.0, 50.8, 62.7, 49.8, 50.3, 50.4]
+RAM usage: svmem(total=67514511360, available=20822798336, percent=69.2, used=45929865216, free=19689828352, active=44464807936, inactive=2359508992, buffers=61501440, cached=1833316352, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118515712, free=176447488, percent=95.9, sin=34063904768, sout=56827965440)
+iter = 56
+CPU usage (% each core): [48.8, 56.8, 57.4, 54.3, 60.5, 49.0, 48.8, 58.6]
+RAM usage: svmem(total=67514511360, available=20770983936, percent=69.2, used=45981675520, free=19637981184, active=44514959360, inactive=2359525376, buffers=61526016, cached=1833328640, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118507520, free=176455680, percent=95.9, sin=34063912960, sout=56827965440)
+iter = 57
+CPU usage (% each core): [54.4, 74.0, 48.9, 46.1, 48.7, 66.5, 49.4, 57.1]
+RAM usage: svmem(total=67514511360, available=19751153664, percent=70.7, used=47001509888, free=18617114624, active=45534670848, inactive=2360283136, buffers=61825024, cached=1834061824, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118487040, free=176476160, percent=95.9, sin=34063945728, sout=56827965440)
+iter = 58
+CPU usage (% each core): [52.8, 52.2, 46.3, 64.5, 53.5, 45.6, 47.5, 67.4]
+RAM usage: svmem(total=67514511360, available=19710328832, percent=70.8, used=47042334720, free=18576261120, active=45575323648, inactive=2360283136, buffers=61849600, cached=1834065920, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118487040, free=176476160, percent=95.9, sin=34063945728, sout=56827965440)
+iter = 59
+CPU usage (% each core): [48.5, 54.6, 46.4, 61.7, 49.8, 51.3, 47.1, 69.6]
+RAM usage: svmem(total=67514511360, available=19659038720, percent=70.9, used=47093624832, free=18524946432, active=45625434112, inactive=2360287232, buffers=61865984, cached=1834074112, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118482944, free=176480256, percent=95.9, sin=34063949824, sout=56827965440)
+iter = 60
+CPU usage (% each core): [67.1, 54.9, 47.2, 56.2, 56.9, 45.6, 49.9, 56.6]
+RAM usage: svmem(total=67514511360, available=18638848000, percent=72.4, used=48113815552, free=17504731136, active=46645018624, inactive=2360307712, buffers=61890560, cached=1834074112, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118454272, free=176508928, percent=95.9, sin=34063986688, sout=56827965440)
+iter = 61
+CPU usage (% each core): [50.2, 60.6, 66.5, 53.5, 54.0, 54.5, 49.0, 57.4]
+RAM usage: svmem(total=67514511360, available=18597224448, percent=72.5, used=48155422720, free=17463078912, active=46686343168, inactive=2360315904, buffers=61915136, cached=1834094592, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118429696, free=176533504, percent=95.9, sin=34064015360, sout=56827965440)
+iter = 62
+CPU usage (% each core): [46.6, 46.9, 64.3, 61.3, 51.3, 47.5, 47.9, 67.9]
+RAM usage: svmem(total=67514511360, available=18547228672, percent=72.5, used=48205414400, free=17413038080, active=46736543744, inactive=2360524800, buffers=61956096, cached=1834102784, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118200320, free=176762880, percent=95.9, sin=34064257024, sout=56827965440)
+iter = 63
+CPU usage (% each core): [49.1, 78.9, 55.0, 47.6, 50.4, 62.7, 47.7, 44.9]
+RAM usage: svmem(total=67514511360, available=17526087680, percent=74.0, used=49226563584, free=16391864320, active=47756165120, inactive=2360520704, buffers=61980672, cached=1834102784, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118196224, free=176766976, percent=95.9, sin=34064257024, sout=56827965440)
+iter = 64
+CPU usage (% each core): [49.2, 72.9, 54.7, 56.6, 48.8, 58.9, 50.1, 53.8]
+RAM usage: svmem(total=67514511360, available=17484394496, percent=74.1, used=49268256768, free=16350150656, active=47796695040, inactive=2360528896, buffers=61997056, cached=1834106880, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118192128, free=176771072, percent=95.9, sin=34064265216, sout=56827965440)
+iter = 65
+CPU usage (% each core): [48.4, 58.7, 48.9, 62.5, 45.1, 50.6, 54.9, 66.5]
+RAM usage: svmem(total=67514511360, available=17433403392, percent=74.2, used=49319239680, free=16299139072, active=47846912000, inactive=2360569856, buffers=62021632, cached=1834110976, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118126592, free=176836608, percent=95.9, sin=34064334848, sout=56827965440)
+iter = 66
+CPU usage (% each core): [56.0, 67.0, 49.9, 50.2, 58.4, 61.0, 48.9, 47.7]
+RAM usage: svmem(total=67514511360, available=16413003776, percent=75.7, used=50339647488, free=15278714880, active=48867278848, inactive=2360578048, buffers=62038016, cached=1834110976, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118122496, free=176840704, percent=95.9, sin=34064347136, sout=56827965440)
+iter = 67
+CPU usage (% each core): [47.8, 72.3, 66.2, 48.4, 51.5, 52.4, 50.0, 57.1]
+RAM usage: svmem(total=67514511360, available=16371449856, percent=75.8, used=50381201408, free=15237132288, active=48908509184, inactive=2360582144, buffers=62062592, cached=1834115072, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118114304, free=176848896, percent=95.9, sin=34064359424, sout=56827965440)
+iter = 68
+CPU usage (% each core): [52.9, 64.2, 61.5, 52.3, 56.1, 53.6, 48.6, 47.2]
+RAM usage: svmem(total=67514511360, available=16320442368, percent=75.8, used=50432208896, free=15186104320, active=48958840832, inactive=2360594432, buffers=62078976, cached=1834119168, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118102016, free=176861184, percent=95.9, sin=34064375808, sout=56827965440)
+iter = 69
+CPU usage (% each core): [61.8, 60.0, 46.9, 47.9, 64.9, 51.9, 48.5, 48.9]
+RAM usage: svmem(total=67514511360, available=15300280320, percent=77.3, used=51452370944, free=14165913600, active=49978310656, inactive=2360614912, buffers=62103552, cached=1834123264, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4118085632, free=176877568, percent=95.9, sin=34064392192, sout=56827965440)
+iter = 70
+CPU usage (% each core): [48.2, 55.2, 59.1, 59.4, 42.4, 47.4, 49.6, 65.5]
+RAM usage: svmem(total=67514511360, available=15258079232, percent=77.4, used=51494572032, free=14123433984, active=50019733504, inactive=2360926208, buffers=62128128, cached=1834377216, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117991424, free=176971776, percent=95.9, sin=34064510976, sout=56827965440)
+iter = 71
+CPU usage (% each core): [55.9, 50.6, 47.7, 66.0, 45.7, 51.6, 47.9, 75.9]
+RAM usage: svmem(total=67514511360, available=15208452096, percent=77.5, used=51544199168, free=14073778176, active=50069172224, inactive=2360926208, buffers=62152704, cached=1834381312, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117958656, free=177004544, percent=95.9, sin=34064527360, sout=56827965440)
+iter = 72
+CPU usage (% each core): [56.4, 59.9, 48.1, 48.4, 58.1, 54.0, 46.6, 52.1]
+RAM usage: svmem(total=67514511360, available=14187425792, percent=79.0, used=52565225472, free=13052723200, active=51089043456, inactive=2360930304, buffers=62177280, cached=1834385408, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117958656, free=177004544, percent=95.9, sin=34064527360, sout=56827965440)
+iter = 73
+CPU usage (% each core): [49.8, 67.5, 49.6, 52.5, 47.7, 56.2, 45.5, 56.0]
+RAM usage: svmem(total=67514511360, available=14145396736, percent=79.0, used=52607250432, free=13010657280, active=51130200064, inactive=2360950784, buffers=62210048, cached=1834393600, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117942272, free=177020928, percent=95.9, sin=34064560128, sout=56827965440)
+iter = 74
+CPU usage (% each core): [50.3, 72.1, 59.0, 47.2, 43.2, 55.6, 47.1, 43.4]
+RAM usage: svmem(total=67514511360, available=14094319616, percent=79.1, used=52658327552, free=12959559680, active=51180384256, inactive=2360946688, buffers=62226432, cached=1834397696, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117938176, free=177025024, percent=95.9, sin=34064560128, sout=56827965440)
+iter = 75
+CPU usage (% each core): [52.4, 69.6, 53.0, 52.8, 44.6, 60.0, 49.9, 43.2]
+RAM usage: svmem(total=67514511360, available=13073457152, percent=80.6, used=53679190016, free=11938672640, active=52200083456, inactive=2360967168, buffers=62251008, cached=1834397696, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117913600, free=177049600, percent=95.9, sin=34064588800, sout=56827965440)
+iter = 76
+CPU usage (% each core): [53.4, 55.5, 56.9, 48.2, 64.4, 54.1, 46.1, 57.9]
+RAM usage: svmem(total=67514511360, available=13032415232, percent=80.7, used=53720231936, free=11897602048, active=52241260544, inactive=2360967168, buffers=62275584, cached=1834401792, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117909504, free=177053696, percent=95.9, sin=34064605184, sout=56827965440)
+iter = 77
+CPU usage (% each core): [56.9, 78.1, 46.8, 47.5, 48.0, 49.8, 45.6, 44.2]
+RAM usage: svmem(total=67514511360, available=12981395456, percent=80.8, used=53771243520, free=11846545408, active=52290854912, inactive=2360983552, buffers=62308352, cached=1834414080, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117893120, free=177070080, percent=95.9, sin=34064629760, sout=56827965440)
+iter = 78
+CPU usage (% each core): [47.8, 49.2, 52.2, 51.9, 68.9, 45.5, 48.3, 54.9]
+RAM usage: svmem(total=67514511360, available=11961626624, percent=82.3, used=54791020544, free=10826739712, active=53310320640, inactive=2360987648, buffers=62332928, cached=1834418176, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117880832, free=177082368, percent=95.9, sin=34064637952, sout=56827965440)
+iter = 79
+CPU usage (% each core): [57.7, 83.7, 44.9, 53.3, 44.6, 57.6, 46.3, 54.0]
+RAM usage: svmem(total=67514511360, available=11919388672, percent=82.3, used=54833250304, free=10784481280, active=53351690240, inactive=2361024512, buffers=62357504, cached=1834422272, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117848064, free=177115136, percent=95.9, sin=34064687104, sout=56827965440)
+iter = 80
+CPU usage (% each core): [59.3, 69.7, 44.5, 50.2, 48.1, 57.4, 45.4, 48.4]
+RAM usage: svmem(total=67514511360, available=11868831744, percent=82.4, used=54883807232, free=10733899776, active=53401759744, inactive=2361008128, buffers=62382080, cached=1834422272, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117848064, free=177115136, percent=95.9, sin=34064687104, sout=56827965440)
+iter = 81
+CPU usage (% each core): [60.1, 58.4, 58.3, 49.7, 48.0, 50.0, 47.4, 47.7]
+RAM usage: svmem(total=67514511360, available=10848096256, percent=83.9, used=55904542720, free=9712951296, active=54421446656, inactive=2361356288, buffers=62406656, cached=1834610688, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117663744, free=177299456, percent=95.9, sin=34064912384, sout=56827965440)
+iter = 82
+CPU usage (% each core): [49.3, 69.3, 47.9, 48.0, 48.8, 57.4, 45.8, 57.7]
+RAM usage: svmem(total=67514511360, available=10806472704, percent=84.0, used=55946174464, free=9671290880, active=54462484480, inactive=2361376768, buffers=62431232, cached=1834614784, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117639168, free=177324032, percent=95.9, sin=34064932864, sout=56827965440)
+iter = 83
+CPU usage (% each core): [45.6, 47.3, 50.9, 64.7, 54.3, 42.7, 47.4, 66.0]
+RAM usage: svmem(total=67514511360, available=10756636672, percent=84.1, used=55996010496, free=9621426176, active=54512295936, inactive=2361401344, buffers=62455808, cached=1834618880, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117618688, free=177344512, percent=95.9, sin=34064965632, sout=56827965440)
+iter = 84
+CPU usage (% each core): [56.4, 48.5, 52.4, 56.6, 56.8, 55.5, 47.8, 49.0]
+RAM usage: svmem(total=67514511360, available=9735487488, percent=85.6, used=57017159680, free=8600244224, active=55531896832, inactive=2361401344, buffers=62480384, cached=1834627072, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117618688, free=177344512, percent=95.9, sin=34064965632, sout=56827965440)
+iter = 85
+CPU usage (% each core): [51.0, 80.9, 54.8, 52.1, 42.6, 52.9, 45.1, 44.9]
+RAM usage: svmem(total=67514511360, available=9694171136, percent=85.6, used=57058471936, free=8558907392, active=55573004288, inactive=2361430016, buffers=62504960, cached=1834627072, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117581824, free=177381376, percent=95.9, sin=34065010688, sout=56827965440)
+iter = 86
+CPU usage (% each core): [55.4, 49.6, 48.6, 59.5, 53.2, 42.6, 45.8, 66.8]
+RAM usage: svmem(total=67514511360, available=9642582016, percent=85.7, used=57110040576, free=8507293696, active=55623315456, inactive=2361438208, buffers=62529536, cached=1834647552, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117549056, free=177414144, percent=95.9, sin=34065055744, sout=56827965440)
+iter = 87
+CPU usage (% each core): [51.1, 51.3, 58.8, 52.7, 61.1, 47.4, 47.0, 60.1]
+RAM usage: svmem(total=67514511360, available=8621731840, percent=87.2, used=58130903040, free=7486390272, active=56643039232, inactive=2361470976, buffers=62562304, cached=1834655744, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117528576, free=177434624, percent=95.9, sin=34065080320, sout=56827965440)
+iter = 88
+CPU usage (% each core): [48.2, 50.3, 53.3, 61.0, 43.5, 51.7, 47.2, 74.1]
+RAM usage: svmem(total=67514511360, available=8580530176, percent=87.3, used=58172108800, free=7445159936, active=56683888640, inactive=2361470976, buffers=62586880, cached=1834655744, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117528576, free=177434624, percent=95.9, sin=34065080320, sout=56827965440)
+iter = 89
+CPU usage (% each core): [43.2, 68.0, 53.3, 49.1, 52.4, 54.3, 47.5, 51.2]
+RAM usage: svmem(total=67514511360, available=8529125376, percent=87.4, used=58223513600, free=7393726464, active=56733990912, inactive=2361475072, buffers=62611456, cached=1834659840, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117528576, free=177434624, percent=95.9, sin=34065080320, sout=56827965440)
+iter = 90
+CPU usage (% each core): [51.1, 67.6, 50.2, 51.1, 61.5, 55.2, 46.8, 48.7]
+RAM usage: svmem(total=67514511360, available=7509262336, percent=88.9, used=59243356160, free=6373814272, active=57753985024, inactive=2361499648, buffers=62636032, cached=1834704896, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117487616, free=177475584, percent=95.9, sin=34065133568, sout=56827965440)
+iter = 91
+CPU usage (% each core): [48.4, 62.0, 45.8, 47.0, 44.4, 55.6, 46.3, 67.2]
+RAM usage: svmem(total=67514511360, available=7468199936, percent=88.9, used=59284418560, free=6332727296, active=57794576384, inactive=2361495552, buffers=62660608, cached=1834704896, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117483520, free=177479680, percent=95.9, sin=34065141760, sout=56827965440)
+iter = 92
+CPU usage (% each core): [60.2, 47.9, 52.4, 44.5, 70.3, 42.2, 46.3, 52.6]
+RAM usage: svmem(total=67514511360, available=7417241600, percent=89.0, used=59335364608, free=6281707520, active=57844744192, inactive=2361573376, buffers=62713856, cached=1834725376, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117397504, free=177565696, percent=95.9, sin=34065301504, sout=56827965440)
+iter = 93
+CPU usage (% each core): [54.0, 57.4, 50.0, 54.4, 69.3, 44.3, 47.1, 55.0]
+RAM usage: svmem(total=67514511360, available=6396354560, percent=90.5, used=60356263936, free=5260791808, active=58864611328, inactive=2361573376, buffers=62730240, cached=1834725376, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117397504, free=177565696, percent=95.9, sin=34065301504, sout=56827965440)
+iter = 94
+CPU usage (% each core): [48.1, 70.9, 54.8, 54.5, 40.9, 50.1, 47.8, 49.7]
+RAM usage: svmem(total=67514511360, available=6355300352, percent=90.6, used=60397318144, free=5219708928, active=58905825280, inactive=2361614336, buffers=62754816, cached=1834729472, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117368832, free=177594368, percent=95.9, sin=34065346560, sout=56827965440)
+iter = 95
+CPU usage (% each core): [49.8, 70.7, 52.6, 45.5, 47.4, 56.0, 46.3, 46.4]
+RAM usage: svmem(total=67514511360, available=6302744576, percent=90.7, used=60449861632, free=5167136768, active=58956132352, inactive=2361626624, buffers=62779392, cached=1834733568, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117344256, free=177618944, percent=95.9, sin=34065371136, sout=56827965440)
+iter = 96
+CPU usage (% each core): [55.1, 55.3, 57.5, 61.3, 50.7, 59.4, 47.0, 56.0]
+RAM usage: svmem(total=67514511360, available=5281472512, percent=92.2, used=61471145984, free=4145827840, active=59976220672, inactive=2361643008, buffers=62803968, cached=1834733568, shared=85835776)
+
+
+
+
+-------------------------------------------------
+Copied after kernal died
+-------------------------------------------------
+
+
+SWAP usage: sswap(total=4294963200, used=4117307392, free=177655808, percent=95.9, sin=34065416192, sout=56827965440)
+iter = 97
+CPU usage (% each core): [48.1, 70.1, 46.4, 56.3, 46.8, 61.5, 45.0, 50.9]
+RAM usage: svmem(total=67514511360, available=5240885248, percent=92.2, used=61511733248, free=4105203712, active=60017418240, inactive=2361671680, buffers=62828544, cached=1834745856, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117299200, free=177664000, percent=95.9, sin=34065440768, sout=56827965440)
+iter = 98
+CPU usage (% each core): [47.6, 44.2, 47.2, 60.1, 41.3, 53.3, 50.7, 76.7]
+RAM usage: svmem(total=67514511360, available=5190619136, percent=92.3, used=61561999360, free=4054896640, active=60066963456, inactive=2361700352, buffers=62861312, cached=1834754048, shared=85835776)
+SWAP usage: sswap(total=4294963200, used=4117282816, free=177680384, percent=95.9, sin=34065457152, sout=56827965440)
+iter = 99
+CPU usage (% each core): [51.0, 80.5, 51.2, 48.7, 48.2, 54.5, 47.1, 62.5]
+RAM usage: svmem(total=67514511360, available=4179709952, percent=93.8, used=62577983488, free=3066155008, active=61073305600, inactive=2352549888, buffers=63037440, cached=1807335424, shared=85258240)
+SWAP usage: sswap(total=4294963200, used=4117716992, free=177246208, percent=95.9, sin=34065604608, sout=56828542976)
+iter = 100
+CPU usage (% each core): [45.5, 66.6, 46.7, 44.5, 53.0, 62.0, 52.0, 52.3]
+RAM usage: svmem(total=67514511360, available=4138745856, percent=93.9, used=62618943488, free=3025166336, active=61114667008, inactive=2352549888, buffers=63062016, cached=1807339520, shared=85258240)
+SWAP usage: sswap(total=4294963200, used=4117716992, free=177246208, percent=95.9, sin=34065604608, sout=56828542976)
+iter = 101
+CPU usage (% each core): [46.7, 49.8, 57.3, 57.1, 48.9, 51.6, 45.2, 64.1]
+RAM usage: svmem(total=67514511360, available=4087787520, percent=93.9, used=62670458880, free=2995781632, active=61164670976, inactive=2330509312, buffers=63094784, cached=1785176064, shared=84742144)
+SWAP usage: sswap(total=4294963200, used=4118233088, free=176730112, percent=95.9, sin=34065604608, sout=56829059072)
+iter = 102
+CPU usage (% each core): [60.6, 52.0, 51.1, 48.0, 71.1, 43.7, 45.6, 50.7]
+RAM usage: svmem(total=67514511360, available=3066798080, percent=95.5, used=63691452416, free=1974763520, active=62184660992, inactive=2330529792, buffers=63111168, cached=1785184256, shared=84742144)
+SWAP usage: sswap(total=4294963200, used=4118204416, free=176758784, percent=95.9, sin=34065649664, sout=56829059072)
+iter = 103
+CPU usage (% each core): [48.0, 53.9, 62.3, 56.6, 45.3, 48.5, 46.5, 58.8]
+RAM usage: svmem(total=67514511360, available=3028852736, percent=95.5, used=63732330496, free=2173313024, active=62192906240, inactive=2124238848, buffers=63143936, cached=1545723904, shared=81952768)
+SWAP usage: sswap(total=4294963200, used=4120993792, free=173969408, percent=95.9, sin=34065649664, sout=56831848448)
+iter = 104
+CPU usage (% each core): [54.6, 60.9, 48.7, 46.3, 60.4, 59.1, 46.3, 48.4]
+RAM usage: svmem(total=67514511360, available=2990895104, percent=95.6, used=63771799552, free=2533588992, active=62162669568, inactive=1795928064, buffers=63168512, cached=1145954304, shared=81948672)
+SWAP usage: sswap(total=4294963200, used=4131360768, free=163602432, percent=96.2, sin=34065682432, sout=56842268672)
+iter = 105
+CPU usage (% each core): [59.6, 45.7, 57.7, 55.3, 46.2, 53.3, 46.7, 58.7]
+RAM usage: svmem(total=67514511360, available=1972203520, percent=97.1, used=64791400448, free=1794797568, active=63056789504, inactive=1639677952, buffers=55373824, cached=872939520, shared=81948672)
+SWAP usage: sswap(total=4294963200, used=4133683200, free=161280000, percent=96.2, sin=34065682432, sout=56844591104)
+iter = 106
+CPU usage (% each core): [48.4, 48.2, 44.4, 65.5, 53.1, 49.5, 45.0, 66.7]
+RAM usage: svmem(total=67514511360, available=1938636800, percent=97.1, used=64826052608, free=2145222656, active=61045653504, inactive=3303268352, buffers=29216768, cached=514019328, shared=81805312)
+SWAP usage: sswap(total=4294963200, used=4139864064, free=155099136, percent=96.4, sin=34065707008, sout=56850784256)
+iter = 107
+CPU usage (% each core): [43.0, 65.6, 49.7, 50.2, 60.0, 56.8, 47.5, 62.0]
+RAM usage: svmem(total=67514511360, available=1990672384, percent=97.1, used=64861024256, free=2369413120, active=60444684288, inactive=3684061184, buffers=1675264, cached=282398720, shared=81014784)
+SWAP usage: sswap(total=4294963200, used=4164153344, free=130809856, percent=97.0, sin=34065715200, sout=56875077632)
+
+Kernel died, restarting
+

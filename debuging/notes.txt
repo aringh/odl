@@ -28,3 +28,72 @@
 - Running from commit 3fd52ace, see issue #35 in the repo https://github.com/davlars/ad-skull-reconstruction
 
 => inconclusive
+
+
+
+--------------------------------------------
+--------------------------------------------
+Previous three tests were run on Gelfand.
+The current tests below are run on Tikhonov.
+--------------------------------------------
+--------------------------------------------
+
+
+
+--------------------
+2017_06_14__20_02_39
+--------------------
+- Running on Shepp-Logan phantom: 100x100x100 volume and 200x200 detector.
+- Again, memory seems to increase to about iteration 130. After that it stagnates.
+- Also running from odl commit 3fd52ace
+
+=> error seems to not be reproduced
+
+
+--------------------
+2017_06_14__20_14_25
+--------------------
+- Running on full AD skull data.
+- Also running from odl commit 3fd52ace
+- Kernel died in iteration 4 (unexpectadly early) after seeming to have filled the memory.
+
+=> this is before iteration 130, so again it is hard to say anything.
+   Do not know why this happens... this code is more or less identical with
+   the TV-code that crashed at iteration 935 (which agrees more or less with the
+   original Bregman-TV that crashed after about 3*200 + 100 = 700 iterations).
+
+
+--------------------
+2017_06_15__13_56_48
+--------------------
+- Running on downsampled AD skull data (factor 10).
+- Also running from odl commit 3fd52ace
+- constant increase in memory until iter 107, when it died. Again this is much
+  earlier than expected...
+
+=> basically same conclusion as above.
+
+
+--------------------
+2017_06_15__14_59_34
+--------------------
+- Running on downsampled AD skull data (factor 10).
+- Also running from odl commit 3fd52ace
+- Running without printing the diff on what is in memory
+  (the other runs are using pympler, which is technically still imported but not
+  called)
+- also died on iter 107
+
+=> pympler does not seem to be the reason why it crashes now.
+
+
+--------------------
+2017_06_15__14_59_34
+--------------------
+- Running on TV-code from Chong (that started this issue)
+- Running on AD skull data (full size).
+- Also running from odl commit 3fd52ace
+- Kernel died after iteration 4...
+
+=> I do not seem to be able to get the same results as the original problem...
+

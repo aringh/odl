@@ -1,0 +1,161 @@
+Loading geometry for turn number 1 out of 23
+Loading geometry for turn number 2 out of 23
+Loading geometry for turn number 3 out of 23
+Loading geometry for turn number 4 out of 23
+Loading geometry for turn number 5 out of 23
+Loading geometry for turn number 6 out of 23
+Loading geometry for turn number 7 out of 23
+Loading geometry for turn number 8 out of 23
+Loading geometry for turn number 9 out of 23
+Loading geometry for turn number 10 out of 23
+Loading geometry for turn number 11 out of 23
+Loading geometry for turn number 12 out of 23
+Loading geometry for turn number 13 out of 23
+Loading geometry for turn number 14 out of 23
+Loading geometry for turn number 15 out of 23
+Loading geometry for turn number 16 out of 23
+Loading geometry for turn number 17 out of 23
+Loading geometry for turn number 18 out of 23
+Loading geometry for turn number 19 out of 23
+Loading geometry for turn number 20 out of 23
+Loading geometry for turn number 21 out of 23
+Loading geometry for turn number 22 out of 23
+Loading geometry for turn number 23 out of 23
+Loading data for turn number 1 out of 23
+Loading data for turn number 2 out of 23
+Loading data for turn number 3 out of 23
+Loading data for turn number 4 out of 23
+Loading data for turn number 5 out of 23
+Loading data for turn number 6 out of 23
+Loading data for turn number 7 out of 23
+Loading data for turn number 8 out of 23
+Loading data for turn number 9 out of 23
+Loading data for turn number 10 out of 23
+Loading data for turn number 11 out of 23
+Loading data for turn number 12 out of 23
+Loading data for turn number 13 out of 23
+Loading data for turn number 14 out of 23
+Loading data for turn number 15 out of 23
+Loading data for turn number 16 out of 23
+Loading data for turn number 17 out of 23
+Loading data for turn number 18 out of 23
+Loading data for turn number 19 out of 23
+Loading data for turn number 20 out of 23
+Loading data for turn number 21 out of 23
+Loading data for turn number 22 out of 23
+Loading data for turn number 23 out of 23
+Norm of the product space operator: 28.208476240221355
+iter = 0
+CPU usage (% each core): [22.8, 18.6, 13.5, 39.9, 23.7, 14.3, 12.3, 47.3]
+RAM usage: svmem(total=67514511360, available=19384774656, percent=71.3, used=46757462016, free=6211887104, active=55080144896, inactive=4520185856, buffers=773099520, cached=13772062720, shared=618725376)
+SWAP usage: sswap(total=4294963200, used=1442627584, free=2852335616, percent=33.6, sin=33061625856, sout=53113171968)
+                                           types |   # objects |   total size
+================================================ | =========== | ============
+                           <class 'numpy.ndarray |          78 |     13.04 GB
+                                    <class 'list |       11457 |      1.06 MB
+                                     <class 'str |       11605 |    837.87 KB
+                    <class 'sip.methoddescriptor |        9038 |    494.27 KB
+                                    <class 'dict |         367 |    141.67 KB
+                                     <class 'int |        2547 |     69.71 KB
+           <class 'PyQt5.QtCore.QLocale.Language |         355 |     18.02 KB
+                  <class 'sip.variabledescriptor |         203 |     14.27 KB
+            <class 'PyQt5.QtCore.QLocale.Country |         265 |     13.45 KB
+                 <class 'PyQt5.QtCore.pyqtSignal |         141 |     11.02 KB
+                <class 'PyQt5.QtCore.QEvent.Type |         147 |      7.46 KB
+             <class 'PyQt5.QtCore.QLocale.Script |         130 |      6.60 KB
+        <class 'PyQt5.QtGui.QPageSize.PageSizeId |         127 |      6.45 KB
+  <class 'PyQt5.QtGui.QPagedPaintDevice.PageSize |         126 |      6.39 KB
+        <class 'PyQt5.QtWidgets.QStyle.StyleHint |         113 |      5.73 KB
+iter = 1
+CPU usage (% each core): [35.8, 37.1, 20.9, 42.2, 29.6, 20.9, 21.3, 30.7]
+RAM usage: svmem(total=67514511360, available=15856402432, percent=76.5, used=50286383104, free=7952089088, active=53059141632, inactive=5021691904, buffers=33148928, cached=9242890240, shared=618176512)
+SWAP usage: sswap(total=4294963200, used=1445273600, free=2849689600, percent=33.7, sin=33061658624, sout=53133656064)
+                                         types |   # objects |   total size
+============================================== | =========== | ============
+                         <class 'numpy.ndarray |          23 |      3.43 GB
+                                   <class 'str |         463 |     43.83 KB
+                                  <class 'list |         467 |     40.43 KB
+                                  <class 'dict |          60 |      7.34 KB
+                                   <class 'int |         135 |      3.69 KB
+                                 <class 'bytes |          21 |      2.35 KB
+                                  <class 'type |           2 |      2.06 KB
+   <class 'odl.space.npy_ntuples.NumpyFnVector |          23 |      1.26 KB
+  <class 'odl.discr.lp_discr.DiscreteLpElement |          23 |      1.26 KB
+                                 <class 'tuple |          13 |   1016     B
+                                  <class 'cell |           9 |    432     B
+              <class 'functools._lru_list_elem |           4 |    320     B
+                           function (__init__) |           2 |    272     B
+                              function (_call) |           2 |    272     B
+                   <class 'inspect.FullArgSpec |           2 |    208     B
+iter = 2
+CPU usage (% each core): [34.5, 23.5, 47.0, 21.9, 30.6, 20.1, 38.0, 19.5]
+RAM usage: svmem(total=67514511360, available=12148514816, percent=82.0, used=53994545152, free=7853551616, active=54026936320, inactive=4458221568, buffers=3178496, cached=5663236096, shared=617902080)
+SWAP usage: sswap(total=4294963200, used=1445548032, free=2849415168, percent=33.7, sin=33061658624, sout=53133930496)
+                                                 types |   # objects |   total size
+====================================================== | =========== | ============
+                                 <class 'numpy.ndarray |          23 |      3.43 GB
+                                          <class 'dict |          60 |      7.34 KB
+                                         <class 'bytes |          21 |      2.31 KB
+                                          <class 'type |           2 |      2.06 KB
+           <class 'odl.space.npy_ntuples.NumpyFnVector |          23 |      1.26 KB
+          <class 'odl.discr.lp_discr.DiscreteLpElement |          23 |      1.26 KB
+                                         <class 'tuple |          13 |   1016     B
+                                          <class 'list |           4 |    744     B
+                                          <class 'cell |           9 |    432     B
+                      <class 'functools._lru_list_elem |           4 |    320     B
+                                   function (__init__) |           2 |    272     B
+                                      function (_call) |           2 |    272     B
+                           <class 'inspect.FullArgSpec |           2 |    208     B
+                                         <class 'float |           8 |    192     B
+  <class 'odl.operator.operator.OperatorLeftScalarMult |           3 |    168     B
+iter = 3
+CPU usage (% each core): [42.5, 26.9, 29.0, 35.0, 30.8, 20.2, 26.1, 31.1]
+RAM usage: svmem(total=67514511360, available=8663232512, percent=87.2, used=57613369344, free=8969121792, active=53769396224, inactive=3765342208, buffers=13963264, cached=918056960, shared=583319552)
+SWAP usage: sswap(total=4294963200, used=1583841280, free=2711121920, percent=36.9, sin=33064017920, sout=53273448448)
+                                                 types |   # objects |   total size
+====================================================== | =========== | ============
+                                 <class 'numpy.ndarray |          23 |      3.43 GB
+                                          <class 'dict |          60 |      7.34 KB
+                                         <class 'bytes |          21 |      2.45 KB
+                                          <class 'type |           2 |      2.06 KB
+                                          
+
+                                          
+----------------------------------------------------------
+Kernel died so this is pasted from the terminal afterwards
+----------------------------------------------------------
+
+
+
+           <class 'odl.space.npy_ntuples.NumpyFnVector |          23 |      1.26 KB
+          <class 'odl.discr.lp_discr.DiscreteLpElement |          23 |      1.26 KB
+                                         <class 'tuple |          13 |   1016     B
+                                          <class 'list |           4 |    576     B
+                                          <class 'cell |           9 |    432     B
+                      <class 'functools._lru_list_elem |           4 |    320     B
+                                   function (__init__) |           2 |    272     B
+                                      function (_call) |           2 |    272     B
+                           <class 'inspect.FullArgSpec |           2 |    208     B
+                                         <class 'float |           8 |    192     B
+  <class 'odl.operator.operator.OperatorLeftScalarMult |           3 |    168     B
+iter = 4
+CPU usage (% each core): [39.9, 24.5, 26.7, 42.7, 38.3, 21.6, 33.3, 19.9]
+RAM usage: svmem(total=67514511360, available=7157686272, percent=89.4, used=59664080896, free=7523979264, active=55454887936, inactive=3544956928, buffers=3084288, cached=323366912, shared=98566144)
+SWAP usage: sswap(total=4294963200, used=3812782080, free=482181120, percent=88.8, sin=33507332096, sout=55925772288)
+                                                 types |   # objects |   total size
+====================================================== | =========== | ============
+                                 <class 'numpy.ndarray |          23 |      3.43 GB
+                                          <class 'dict |          60 |      7.34 KB
+                                          <class 'type |           2 |      2.06 KB
+           <class 'odl.space.npy_ntuples.NumpyFnVector |          23 |      1.26 KB
+          <class 'odl.discr.lp_discr.DiscreteLpElement |          23 |      1.26 KB
+                                         <class 'tuple |          13 |   1016     B
+                                          <class 'cell |           9 |    432     B
+                      <class 'functools._lru_list_elem |           4 |    320     B
+                                   function (__init__) |           2 |    272     B
+                                      function (_call) |           2 |    272     B
+                           <class 'inspect.FullArgSpec |           2 |    208     B
+                                         <class 'float |           8 |    192     B
+  <class 'odl.operator.operator.OperatorLeftScalarMult |           3 |    168     B
+                                       <class 'weakref |           2 |    160     B
+                                           <class 'int |           3 |     84     B

@@ -11,32 +11,32 @@ import psutil
 from pympler.tracker import SummaryTracker
 
 
-## ----------------------------------------------------------------------------
-## Create a text file and write everything both in terminal and in file
-## ----------------------------------------------------------------------------
-#savePath = '/home/aringh/Documents/'
-#
-#if not os.path.exists(savePath):
-#    os.makedirs(savePath)
-#
-#time_now = time.strftime("%Y_%m_%d__%H_%M_%S")
-#output_filename = 'Terminal_output_' + time_now + '.txt'
-#
-#
-#class Logger(object):
-#    def __init__(self, filename="Default.log"):
-#        self.terminal = sys.stdout
-#        self.log = open(filename, "a")
-#
-#    def write(self, message):
-#        self.terminal.write(message)
-#        self.log.write(message)
-#
-#    def flush(self):
-#        self.terminal.flush()
-#        self.log.flush()
-#
-#sys.stdout = Logger(savePath + output_filename)
+# ----------------------------------------------------------------------------
+# Create a text file and write everything both in terminal and in file
+# ----------------------------------------------------------------------------
+savePath = '/home/aringh/Documents/'
+
+if not os.path.exists(savePath):
+    os.makedirs(savePath)
+
+time_now = time.strftime("%Y_%m_%d__%H_%M_%S")
+output_filename = 'Terminal_output_' + time_now + '.txt'
+
+
+class Logger(object):
+    def __init__(self, filename="Default.log"):
+        self.terminal = sys.stdout
+        self.log = open(filename, "a")
+
+    def write(self, message):
+        self.terminal.write(message)
+        self.log.write(message)
+
+    def flush(self):
+        self.terminal.flush()
+        self.log.flush()
+
+sys.stdout = Logger(savePath + output_filename)
 
 
 # ----------------------------------------------------------------------------
