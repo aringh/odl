@@ -1,0 +1,315 @@
+Loading geometry for turn number 1 out of 23
+Loading geometry for turn number 2 out of 23
+Loading geometry for turn number 3 out of 23
+Loading geometry for turn number 4 out of 23
+Loading geometry for turn number 5 out of 23
+Loading geometry for turn number 6 out of 23
+Loading geometry for turn number 7 out of 23
+Loading geometry for turn number 8 out of 23
+Loading geometry for turn number 9 out of 23
+Loading geometry for turn number 10 out of 23
+Loading geometry for turn number 11 out of 23
+Loading geometry for turn number 12 out of 23
+Loading geometry for turn number 13 out of 23
+Loading geometry for turn number 14 out of 23
+Loading geometry for turn number 15 out of 23
+Loading geometry for turn number 16 out of 23
+Loading geometry for turn number 17 out of 23
+Loading geometry for turn number 18 out of 23
+Loading geometry for turn number 19 out of 23
+Loading geometry for turn number 20 out of 23
+Loading geometry for turn number 21 out of 23
+Loading geometry for turn number 22 out of 23
+Loading geometry for turn number 23 out of 23
+Loading data for turn number 1 out of 23
+Loading data for turn number 2 out of 23
+Loading data for turn number 3 out of 23
+Loading data for turn number 4 out of 23
+Loading data for turn number 5 out of 23
+Loading data for turn number 6 out of 23
+Loading data for turn number 7 out of 23
+Loading data for turn number 8 out of 23
+Loading data for turn number 9 out of 23
+Loading data for turn number 10 out of 23
+Loading data for turn number 11 out of 23
+Loading data for turn number 12 out of 23
+Loading data for turn number 13 out of 23
+Loading data for turn number 14 out of 23
+Loading data for turn number 15 out of 23
+Loading data for turn number 16 out of 23
+Loading data for turn number 17 out of 23
+Loading data for turn number 18 out of 23
+Loading data for turn number 19 out of 23
+Loading data for turn number 20 out of 23
+Loading data for turn number 21 out of 23
+Loading data for turn number 22 out of 23
+Loading data for turn number 23 out of 23
+Norm of the product space operator: 531.0185116901275
+iter = 0
+CPU usage: [30.8, 26.3, 24.0, 39.5, 27.6, 24.9, 17.1, 27.0]
+RAM usage: svmem(total=67514511360, available=25494904832, percent=62.2, used=41280155648, free=10501505024, active=39698276352, inactive=16310059008, buffers=63709184, cached=15669141504, shared=53350400)
+SWAP usage: sswap(total=4294963200, used=4080095232, free=214867968, percent=95.0, sin=35052687360, sout=57874616320)
+iter = 1
+CPU usage: [41.0, 31.5, 30.6, 35.8, 46.5, 26.8, 20.8, 30.7]
+RAM usage: svmem(total=67514511360, available=25446764544, percent=62.3, used=41330790400, free=11547127808, active=39819939840, inactive=15145771008, buffers=63864832, cached=14572728320, shared=53395456)
+SWAP usage: sswap(total=4294963200, used=4083470336, free=211492864, percent=95.1, sin=35053113344, sout=57878315008)
+iter = 2
+CPU usage: [38.3, 33.8, 27.7, 33.7, 45.8, 25.9, 21.4, 35.7]
+RAM usage: svmem(total=67514511360, available=25419546624, percent=62.3, used=41349619712, free=11519737856, active=39838466048, inactive=15154401280, buffers=64012288, cached=14581141504, shared=61784064)
+SWAP usage: sswap(total=4294963200, used=4082814976, free=212148224, percent=95.1, sin=35053854720, sout=57878315008)
+iter = 3
+CPU usage: [35.2, 45.8, 29.0, 38.9, 30.2, 37.0, 21.6, 20.1]
+RAM usage: svmem(total=67514511360, available=25401999360, percent=62.4, used=41367166976, free=11502022656, active=39856226304, inactive=15154442240, buffers=64159744, cached=14581161984, shared=61784064)
+SWAP usage: sswap(total=4294963200, used=4082749440, free=212213760, percent=95.1, sin=35053916160, sout=57878315008)
+iter = 4
+CPU usage: [32.0, 50.0, 30.4, 29.3, 26.1, 49.2, 20.9, 21.8]
+RAM usage: svmem(total=67514511360, available=25383800832, percent=62.4, used=41385353216, free=11463442432, active=39874818048, inactive=15174119424, buffers=64585728, cached=14601129984, shared=61792256)
+SWAP usage: sswap(total=4294963200, used=4082655232, free=212307968, percent=95.1, sin=35054026752, sout=57878315008)
+iter = 5
+CPU usage: [28.3, 26.0, 26.8, 58.5, 22.9, 24.4, 20.1, 49.6]
+RAM usage: svmem(total=67514511360, available=25365385216, percent=62.4, used=41403809792, free=11550363648, active=39887912960, inactive=15073763328, buffers=64733184, cached=14495604736, shared=61800448)
+SWAP usage: sswap(total=4294963200, used=4082987008, free=211976192, percent=95.1, sin=35054313472, sout=57878716416)
+iter = 6
+CPU usage: [38.2, 51.8, 29.5, 33.1, 36.5, 30.8, 21.8, 23.6]
+RAM usage: svmem(total=67514511360, available=25384521728, percent=62.4, used=41384652800, free=11568640000, active=39869116416, inactive=15074779136, buffers=64872448, cached=14496346112, shared=61808640)
+SWAP usage: sswap(total=4294963200, used=4082278400, free=212684800, percent=95.0, sin=35055116288, sout=57878716416)
+iter = 7
+CPU usage: [42.4, 37.7, 27.8, 29.8, 45.2, 32.9, 22.4, 22.6]
+RAM usage: svmem(total=67514511360, available=25365311488, percent=62.4, used=41403858944, free=11549274112, active=39887683584, inactive=15074930688, buffers=65011712, cached=14496366592, shared=61812736)
+SWAP usage: sswap(total=4294963200, used=4082196480, free=212766720, percent=95.0, sin=35055300608, sout=57878716416)
+iter = 8
+CPU usage: [26.6, 30.1, 28.6, 34.3, 28.0, 20.3, 21.6, 71.0]
+RAM usage: svmem(total=67514511360, available=25347600384, percent=62.5, used=41421553664, free=11526950912, active=39909498880, inactive=15077093376, buffers=67993600, cached=14498013184, shared=61812736)
+SWAP usage: sswap(total=4294963200, used=4080914432, free=214048768, percent=95.0, sin=35056906240, sout=57878716416)
+iter = 9
+CPU usage: [26.5, 35.5, 32.4, 45.0, 27.3, 39.1, 21.0, 33.2]
+RAM usage: svmem(total=67514511360, available=25288368128, percent=62.5, used=41480773632, free=11466522624, active=39966138368, inactive=15078219776, buffers=68141056, cached=14499074048, shared=61820928)
+SWAP usage: sswap(total=4294963200, used=4080758784, free=214204416, percent=95.0, sin=35057061888, sout=57878716416)
+iter = 10
+CPU usage: [36.8, 47.1, 29.5, 43.0, 25.6, 31.3, 21.0, 25.3]
+RAM usage: svmem(total=67514511360, available=25271685120, percent=62.6, used=41497513984, free=11554328576, active=39971774464, inactive=14985863168, buffers=68288512, cached=14394380288, shared=61829120)
+SWAP usage: sswap(total=4294963200, used=4081000448, free=213962752, percent=95.0, sin=35057168384, sout=57879023616)
+iter = 11
+CPU usage: [37.4, 28.9, 28.2, 46.1, 35.7, 34.5, 20.6, 29.1]
+RAM usage: svmem(total=67514511360, available=25253953536, percent=62.6, used=41515245568, free=11536424960, active=39990538240, inactive=14985945088, buffers=68444160, cached=14394396672, shared=61829120)
+SWAP usage: sswap(total=4294963200, used=4080902144, free=214061056, percent=95.0, sin=35057287168, sout=57879023616)
+iter = 12
+CPU usage: [29.7, 31.4, 27.6, 57.0, 21.1, 23.9, 21.4, 48.8]
+RAM usage: svmem(total=67514511360, available=25235963904, percent=62.6, used=41533243392, free=11518255104, active=40008900608, inactive=14985920512, buffers=68603904, cached=14394408960, shared=61829120)
+SWAP usage: sswap(total=4294963200, used=4080599040, free=214364160, percent=95.0, sin=35057582080, sout=57879023616)
+iter = 13
+CPU usage: [21.7, 61.5, 27.9, 34.7, 31.4, 47.0, 22.4, 18.4]
+RAM usage: svmem(total=67514511360, available=25217536000, percent=62.6, used=41551671296, free=11506339840, active=40024305664, inactive=14981758976, buffers=68775936, cached=14387724288, shared=61833216)
+SWAP usage: sswap(total=4294963200, used=4080504832, free=214458368, percent=95.0, sin=35057709056, sout=57879023616)
+iter = 14
+CPU usage: [26.3, 64.9, 31.0, 29.0, 27.1, 38.1, 23.4, 22.7]
+RAM usage: svmem(total=67514511360, available=25198469120, percent=62.7, used=41570729984, free=11487113216, active=40042369024, inactive=14981828608, buffers=68923392, cached=14387744768, shared=61841408)
+SWAP usage: sswap(total=4294963200, used=4080443392, free=214519808, percent=95.0, sin=35057803264, sout=57879023616)
+iter = 15
+CPU usage: [25.2, 31.1, 27.0, 50.4, 19.3, 22.1, 20.2, 60.8]
+RAM usage: svmem(total=67514511360, available=25179942912, percent=62.7, used=41589243904, free=11468361728, active=40060538880, inactive=14981976064, buffers=69120000, cached=14387785728, shared=61853696)
+SWAP usage: sswap(total=4294963200, used=4080189440, free=214773760, percent=95.0, sin=35058077696, sout=57879023616)
+iter = 16
+CPU usage: [29.8, 35.0, 30.3, 42.3, 28.4, 36.7, 21.6, 44.3]
+RAM usage: svmem(total=67514511360, available=25162768384, percent=62.7, used=41606557696, free=11554955264, active=40060481536, inactive=14896394240, buffers=69271552, cached=14283726848, shared=61853696)
+SWAP usage: sswap(total=4294963200, used=4080291840, free=214671360, percent=95.0, sin=35058348032, sout=57879351296)
+iter = 17
+CPU usage: [42.8, 37.3, 32.3, 26.2, 46.0, 26.3, 22.5, 29.7]
+RAM usage: svmem(total=67514511360, available=25144946688, percent=62.8, used=41624379392, free=11536973824, active=40078471168, inactive=14896443392, buffers=69410816, cached=14283747328, shared=61853696)
+SWAP usage: sswap(total=4294963200, used=4080242688, free=214720512, percent=95.0, sin=35058425856, sout=57879351296)
+iter = 18
+CPU usage: [30.7, 41.6, 26.4, 44.3, 27.5, 29.6, 22.3, 39.2]
+RAM usage: svmem(total=67514511360, available=25127489536, percent=62.8, used=41641832448, free=11519336448, active=40096411648, inactive=14896504832, buffers=69574656, cached=14283767808, shared=61853696)
+SWAP usage: sswap(total=4294963200, used=4080189440, free=214773760, percent=95.0, sin=35058520064, sout=57879351296)
+iter = 19
+CPU usage: [24.8, 26.9, 29.8, 60.6, 28.0, 27.9, 22.3, 49.4]
+RAM usage: svmem(total=67514511360, available=25109741568, percent=62.8, used=41659580416, free=11501420544, active=40114327552, inactive=14896627712, buffers=69713920, cached=14283796480, shared=61857792)
+SWAP usage: sswap(total=4294963200, used=4080058368, free=214904832, percent=95.0, sin=35058675712, sout=57879351296)
+iter = 20
+CPU usage: [28.0, 32.6, 27.9, 46.0, 29.5, 24.4, 21.8, 52.8]
+RAM usage: svmem(total=67514511360, available=25091293184, percent=62.8, used=41678016512, free=11482812416, active=40132206592, inactive=14896713728, buffers=69853184, cached=14283829248, shared=61870080)
+SWAP usage: sswap(total=4294963200, used=4079984640, free=214978560, percent=95.0, sin=35058778112, sout=57879351296)
+iter = 21
+CPU usage: [44.4, 27.0, 31.8, 40.8, 40.3, 23.2, 20.8, 31.7]
+RAM usage: svmem(total=67514511360, available=25073352704, percent=62.9, used=41696043008, free=11567869952, active=40132067328, inactive=14811725824, buffers=70008832, cached=14180589568, shared=61870080)
+SWAP usage: sswap(total=4294963200, used=4080197632, free=214765568, percent=95.0, sin=35058978816, sout=57879728128)
+iter = 22
+CPU usage: [57.3, 35.7, 31.2, 28.3, 45.6, 20.1, 21.9, 27.1]
+RAM usage: svmem(total=67514511360, available=25055768576, percent=62.9, used=41713627136, free=11550117888, active=40150609920, inactive=14811803648, buffers=70139904, cached=14180626432, shared=61874176)
+SWAP usage: sswap(total=4294963200, used=4080078848, free=214884352, percent=95.0, sin=35059105792, sout=57879728128)
+iter = 23
+CPU usage: [27.1, 48.7, 29.8, 25.3, 28.4, 53.9, 20.1, 23.6]
+RAM usage: svmem(total=67514511360, available=25037602816, percent=62.9, used=41731788800, free=11531665408, active=40168079360, inactive=14811639808, buffers=70279168, cached=14180777984, shared=61874176)
+SWAP usage: sswap(total=4294963200, used=4079747072, free=215216128, percent=95.0, sin=35059560448, sout=57879728128)
+iter = 24
+CPU usage: [33.6, 37.4, 24.9, 54.0, 35.3, 22.6, 20.8, 33.7]
+RAM usage: svmem(total=67514511360, available=25018675200, percent=62.9, used=41750712320, free=11512573952, active=40187842560, inactive=14811717632, buffers=70418432, cached=14180806656, shared=61878272)
+SWAP usage: sswap(total=4294963200, used=4079693824, free=215269376, percent=95.0, sin=35059658752, sout=57879728128)
+iter = 25
+CPU usage: [29.5, 54.2, 28.9, 27.3, 25.9, 46.9, 20.9, 31.8]
+RAM usage: svmem(total=67514511360, available=25002340352, percent=63.0, used=41767030784, free=11495075840, active=40204464128, inactive=14812540928, buffers=70832128, cached=14181572608, shared=61894656)
+SWAP usage: sswap(total=4294963200, used=4079628288, free=215334912, percent=95.0, sin=35059802112, sout=57879728128)
+iter = 26
+CPU usage: [49.7, 41.5, 29.0, 27.3, 37.5, 26.3, 21.3, 25.2]
+RAM usage: svmem(total=67514511360, available=24983298048, percent=63.0, used=41786064896, free=11475849216, active=40222945280, inactive=14812651520, buffers=71020544, cached=14181576704, shared=61894656)
+SWAP usage: sswap(total=4294963200, used=4079427584, free=215535616, percent=95.0, sin=35060105216, sout=57879728128)
+iter = 27
+CPU usage: [60.4, 32.9, 30.2, 27.2, 47.7, 21.8, 21.6, 24.2]
+RAM usage: svmem(total=67514511360, available=24965808128, percent=63.0, used=41803653120, free=11560579072, active=40232067072, inactive=14720315392, buffers=71159808, cached=14079119360, shared=61890560)
+SWAP usage: sswap(total=4294963200, used=4079603712, free=215359488, percent=95.0, sin=35060195328, sout=57879973888)
+iter = 28
+CPU usage: [29.8, 46.2, 30.2, 37.2, 39.7, 35.8, 23.2, 21.1]
+RAM usage: svmem(total=67514511360, available=24946360320, percent=63.1, used=41823109120, free=11540934656, active=40250544128, inactive=14720364544, buffers=71323648, cached=14079143936, shared=61894656)
+SWAP usage: sswap(total=4294963200, used=4079394816, free=215568384, percent=95.0, sin=35060445184, sout=57879973888)
+iter = 29
+CPU usage: [37.5, 34.5, 27.1, 28.7, 53.9, 33.0, 21.6, 21.9]
+RAM usage: svmem(total=67514511360, available=24928608256, percent=63.1, used=41840861184, free=11523006464, active=40268513280, inactive=14720520192, buffers=71487488, cached=14079156224, shared=61894656)
+SWAP usage: sswap(total=4294963200, used=4079177728, free=215785472, percent=95.0, sin=35060707328, sout=57879973888)
+iter = 30
+CPU usage: [30.8, 34.1, 26.0, 57.5, 29.7, 21.6, 20.9, 40.1]
+RAM usage: svmem(total=67514511360, available=24910970880, percent=63.1, used=41858478080, free=11505197056, active=40286195712, inactive=14720598016, buffers=71626752, cached=14079209472, shared=61915136)
+SWAP usage: sswap(total=4294963200, used=4079067136, free=215896064, percent=95.0, sin=35060834304, sout=57879973888)
+iter = 31
+CPU usage: [38.0, 29.7, 26.8, 45.1, 35.5, 21.0, 21.5, 40.0]
+RAM usage: svmem(total=67514511360, available=24892256256, percent=63.1, used=41877192704, free=11486334976, active=40304668672, inactive=14720663552, buffers=71757824, cached=14079225856, shared=61915136)
+SWAP usage: sswap(total=4294963200, used=4078985216, free=215977984, percent=95.0, sin=35060953088, sout=57879973888)
+iter = 32
+CPU usage: [29.7, 29.1, 30.0, 44.1, 34.1, 20.5, 21.2, 50.0]
+RAM usage: svmem(total=67514511360, available=24874352640, percent=63.2, used=41895096320, free=11468263424, active=40322719744, inactive=14720712704, buffers=71905280, cached=14079246336, shared=61915136)
+SWAP usage: sswap(total=4294963200, used=4078952448, free=216010752, percent=95.0, sin=35061006336, sout=57879973888)
+iter = 33
+CPU usage: [41.1, 48.5, 29.9, 28.1, 34.4, 27.5, 21.5, 30.5]
+RAM usage: svmem(total=67514511360, available=24855961600, percent=63.2, used=41913544704, free=11547914240, active=40339660800, inactive=14623793152, buffers=72413184, cached=13980639232, shared=61919232)
+SWAP usage: sswap(total=4294963200, used=4082089984, free=212873216, percent=95.0, sin=35062689792, sout=57884344320)
+iter = 34
+CPU usage: [30.0, 40.8, 27.1, 42.4, 19.4, 26.1, 21.8, 51.7]
+RAM usage: svmem(total=67514511360, available=24838033408, percent=63.2, used=41931472896, free=11529822208, active=40357355520, inactive=14623850496, buffers=72560640, cached=13980655616, shared=61919232)
+SWAP usage: sswap(total=4294963200, used=4082040832, free=212922368, percent=95.0, sin=35062759424, sout=57884344320)
+iter = 35
+CPU usage: [30.1, 65.6, 28.1, 29.4, 21.9, 34.1, 21.4, 28.5]
+RAM usage: svmem(total=67514511360, available=24820412416, percent=63.2, used=41949077504, free=11511914496, active=40375177216, inactive=14624067584, buffers=72736768, cached=13980782592, shared=61931520)
+SWAP usage: sswap(total=4294963200, used=4081905664, free=213057536, percent=95.0, sin=35062972416, sout=57884344320)
+iter = 36
+CPU usage: [54.8, 31.1, 31.8, 29.1, 54.9, 21.6, 21.4, 20.7]
+RAM usage: svmem(total=67514511360, available=24801939456, percent=63.3, used=41967542272, free=11492962304, active=40394174464, inactive=14624120832, buffers=73125888, cached=13980880896, shared=61935616)
+SWAP usage: sswap(total=4294963200, used=4081766400, free=213196800, percent=95.0, sin=35063164928, sout=57884344320)
+iter = 37
+CPU usage: [41.7, 49.1, 27.8, 28.3, 32.0, 40.0, 21.2, 20.7]
+RAM usage: svmem(total=67514511360, available=24785010688, percent=63.3, used=41984462848, free=11475230720, active=40412082176, inactive=14624047104, buffers=73773056, cached=13981044736, shared=61935616)
+SWAP usage: sswap(total=4294963200, used=4081618944, free=213344256, percent=95.0, sin=35063279616, sout=57884344320)
+iter = 38
+CPU usage: [24.1, 54.4, 27.0, 42.9, 26.8, 37.3, 21.8, 28.0]
+RAM usage: svmem(total=67514511360, available=24767655936, percent=63.3, used=42001862656, free=11464257536, active=40429666304, inactive=14617767936, buffers=73936896, cached=13974454272, shared=61935616)
+SWAP usage: sswap(total=4294963200, used=4081577984, free=213385216, percent=95.0, sin=35063332864, sout=57884344320)
+iter = 39
+CPU usage: [27.8, 54.3, 30.3, 32.3, 25.5, 39.9, 22.5, 28.4]
+RAM usage: svmem(total=67514511360, available=24750432256, percent=63.3, used=42019180544, free=11547377664, active=40446853120, inactive=14517501952, buffers=74321920, cached=13873631232, shared=61939712)
+SWAP usage: sswap(total=4294963200, used=4081487872, free=213475328, percent=95.0, sin=35063468032, sout=57884344320)
+iter = 40
+CPU usage: [25.5, 43.5, 28.7, 42.4, 23.8, 41.8, 20.9, 30.8]
+RAM usage: svmem(total=67514511360, available=24731488256, percent=63.4, used=42038087680, free=11527356416, active=40466354176, inactive=14517473280, buffers=75128832, cached=13873938432, shared=61952000)
+SWAP usage: sswap(total=4294963200, used=4081336320, free=213626880, percent=95.0, sin=35063619584, sout=57884344320)
+iter = 41
+CPU usage: [27.9, 25.1, 27.0, 64.2, 22.9, 25.7, 22.2, 42.0]
+RAM usage: svmem(total=67514511360, available=24713830400, percent=63.4, used=42055716864, free=11509207040, active=40484503552, inactive=14517616640, buffers=75501568, cached=13874085888, shared=61956096)
+SWAP usage: sswap(total=4294963200, used=4081201152, free=213762048, percent=95.0, sin=35063787520, sout=57884344320)
+iter = 42
+CPU usage: [29.4, 56.3, 28.6, 25.8, 16.5, 48.7, 21.1, 29.2]
+RAM usage: svmem(total=67514511360, available=24695701504, percent=63.4, used=42073845760, free=11490914304, active=40502513664, inactive=14517661696, buffers=75640832, cached=13874110464, shared=61956096)
+SWAP usage: sswap(total=4294963200, used=4081160192, free=213803008, percent=95.0, sin=35063832576, sout=57884344320)
+iter = 43
+CPU usage: [27.4, 60.9, 31.2, 27.9, 23.5, 47.0, 20.1, 22.6]
+RAM usage: svmem(total=67514511360, available=24677576704, percent=63.4, used=42091966464, free=11472580608, active=40520769536, inactive=14517751808, buffers=75829248, cached=13874135040, shared=61956096)
+SWAP usage: sswap(total=4294963200, used=4081053696, free=213909504, percent=95.0, sin=35063959552, sout=57884344320)
+iter = 44
+CPU usage: [30.8, 38.9, 26.4, 38.3, 16.6, 21.4, 21.9, 67.8]
+RAM usage: svmem(total=67514511360, available=24658849792, percent=63.5, used=42110701568, free=11552731136, active=40538550272, inactive=14418714624, buffers=76615680, cached=13774462976, shared=61956096)
+SWAP usage: sswap(total=4294963200, used=4081233920, free=213729280, percent=95.0, sin=35064156160, sout=57884717056)
+iter = 45
+CPU usage: [25.9, 24.1, 26.5, 63.4, 24.8, 25.1, 20.7, 47.1]
+RAM usage: svmem(total=67514511360, available=24641990656, percent=63.5, used=42127544320, free=11535368192, active=40556630016, inactive=14418808832, buffers=77004800, cached=13774594048, shared=61968384)
+SWAP usage: sswap(total=4294963200, used=4081131520, free=213831680, percent=95.0, sin=35064287232, sout=57884717056)
+iter = 46
+CPU usage: [56.6, 29.5, 30.0, 46.0, 22.6, 24.8, 20.7, 32.1]
+RAM usage: svmem(total=67514511360, available=24623566848, percent=63.5, used=42145964032, free=11516788736, active=40575066112, inactive=14418845696, buffers=77144064, cached=13774614528, shared=61972480)
+SWAP usage: sswap(total=4294963200, used=4081065984, free=213897216, percent=95.0, sin=35064381440, sout=57884717056)
+iter = 47
+CPU usage: [45.2, 36.2, 28.8, 35.5, 37.4, 29.6, 20.5, 28.3]
+RAM usage: svmem(total=67514511360, available=24604966912, percent=63.6, used=42164559872, free=11497746432, active=40593260544, inactive=14418911232, buffers=77500416, cached=13774704640, shared=61976576)
+SWAP usage: sswap(total=4294963200, used=4080943104, free=214020096, percent=95.0, sin=35064524800, sout=57884717056)
+iter = 48
+CPU usage: [28.7, 60.9, 29.7, 24.6, 29.6, 39.9, 20.8, 25.2]
+RAM usage: svmem(total=67514511360, available=24587984896, percent=63.6, used=42181537792, free=11480600576, active=40611328000, inactive=14418890752, buffers=77639680, cached=13774733312, shared=61976576)
+SWAP usage: sswap(total=4294963200, used=4080873472, free=214089728, percent=95.0, sin=35064553472, sout=57884717056)
+iter = 49
+CPU usage: [50.1, 39.2, 34.5, 25.2, 43.5, 25.8, 20.9, 24.6]
+RAM usage: svmem(total=67514511360, available=24570511360, percent=63.6, used=42199093248, free=11562364928, active=40627785728, inactive=14320726016, buffers=77787136, cached=13675266048, shared=61976576)
+SWAP usage: sswap(total=4294963200, used=4081106944, free=213856256, percent=95.0, sin=35064729600, sout=57885089792)
+iter = 50
+CPU usage: [37.1, 48.1, 30.5, 29.7, 32.7, 41.1, 21.0, 19.7]
+RAM usage: svmem(total=67514511360, available=24550760448, percent=63.6, used=42218823680, free=11542147072, active=40646516736, inactive=14320754688, buffers=78163968, cached=13675376640, shared=61988864)
+SWAP usage: sswap(total=4294963200, used=4081033216, free=213929984, percent=95.0, sin=35064811520, sout=57885089792)
+iter = 51
+CPU usage: [43.6, 36.3, 26.5, 30.3, 42.1, 38.6, 20.9, 20.4]
+RAM usage: svmem(total=67514511360, available=24533491712, percent=63.7, used=42236084224, free=11524689920, active=40664580096, inactive=14321008640, buffers=78319616, cached=13675417600, shared=61992960)
+SWAP usage: sswap(total=4294963200, used=4080721920, free=214241280, percent=95.0, sin=35065171968, sout=57885089792)
+iter = 52
+CPU usage: [50.3, 32.1, 24.6, 27.2, 48.1, 30.2, 21.3, 30.2]
+RAM usage: svmem(total=67514511360, available=24515305472, percent=63.7, used=42254270464, free=11506339840, active=40682946560, inactive=14321070080, buffers=78458880, cached=13675442176, shared=61992960)
+SWAP usage: sswap(total=4294963200, used=4080623616, free=214339584, percent=95.0, sin=35065286656, sout=57885089792)
+iter = 53
+CPU usage: [30.4, 27.3, 29.8, 63.9, 23.7, 28.3, 21.5, 34.6]
+RAM usage: svmem(total=67514511360, available=24497266688, percent=63.7, used=42272284672, free=11487870976, active=40701132800, inactive=14321147904, buffers=78815232, cached=13675540480, shared=61992960)
+SWAP usage: sswap(total=4294963200, used=4080549888, free=214413312, percent=95.0, sin=35065421824, sout=57885089792)
+iter = 54
+CPU usage: [38.6, 53.0, 29.6, 30.7, 31.7, 23.4, 22.5, 30.2]
+RAM usage: svmem(total=67514511360, available=24479744000, percent=63.7, used=42289803264, free=11469578240, active=40719331328, inactive=14321184768, buffers=79409152, cached=13675720704, shared=61992960)
+SWAP usage: sswap(total=4294963200, used=4080349184, free=214614016, percent=95.0, sin=35065647104, sout=57885089792)
+iter = 55
+CPU usage: [28.5, 35.4, 29.1, 38.7, 29.6, 42.5, 20.8, 35.7]
+RAM usage: svmem(total=67514511360, available=24461524992, percent=63.8, used=42308009984, free=11549011968, active=40737554432, inactive=14223482880, buffers=80056320, cached=13577433088, shared=62005248)
+SWAP usage: sswap(total=4294963200, used=4080553984, free=214409216, percent=95.0, sin=35065761792, sout=57885503488)
+iter = 56
+CPU usage: [32.2, 25.4, 29.0, 44.8, 40.3, 27.1, 20.8, 39.9]
+RAM usage: svmem(total=67514511360, available=24443658240, percent=63.8, used=42325872640, free=11530960896, active=40755736576, inactive=14223355904, buffers=80220160, cached=13577457664, shared=62009344)
+SWAP usage: sswap(total=4294963200, used=4080320512, free=214642688, percent=95.0, sin=35065839616, sout=57885503488)
+iter = 57
+CPU usage: [28.4, 27.0, 27.1, 57.2, 23.5, 23.9, 20.3, 50.9]
+RAM usage: svmem(total=67514511360, available=24425418752, percent=63.8, used=42344112128, free=11512561664, active=40773734400, inactive=14223400960, buffers=80359424, cached=13577478144, shared=62009344)
+SWAP usage: sswap(total=4294963200, used=4080295936, free=214667264, percent=95.0, sin=35065888768, sout=57885503488)
+iter = 58
+CPU usage: [33.1, 61.2, 25.7, 33.0, 18.7, 40.5, 21.1, 26.7]
+RAM usage: svmem(total=67514511360, available=24407404544, percent=63.8, used=42362126336, free=11494354944, active=40791588864, inactive=14223527936, buffers=80523264, cached=13577506816, shared=62009344)
+SWAP usage: sswap(total=4294963200, used=4080156672, free=214806528, percent=95.0, sin=35066032128, sout=57885503488)
+iter = 59
+CPU usage: [28.1, 32.4, 27.2, 60.4, 22.0, 28.8, 20.8, 38.8]
+RAM usage: svmem(total=67514511360, available=24390639616, percent=63.9, used=42378891264, free=11477147648, active=40809312256, inactive=14223577088, buffers=80883712, cached=13577588736, shared=62009344)
+SWAP usage: sswap(total=4294963200, used=4080107520, free=214855680, percent=95.0, sin=35066085376, sout=57885503488)
+iter = 60
+CPU usage: [33.2, 43.4, 32.9, 48.5, 30.5, 23.6, 20.8, 27.6]
+RAM usage: svmem(total=67514511360, available=24372871168, percent=63.9, used=42396672000, free=11556974592, active=40826298368, inactive=14126813184, buffers=81022976, cached=13479841792, shared=62021632)
+SWAP usage: sswap(total=4294963200, used=4080390144, free=214573056, percent=95.0, sin=35066241024, sout=57885933568)
+iter = 61
+CPU usage: [29.2, 29.6, 29.6, 48.1, 26.0, 33.8, 20.5, 40.2]
+RAM usage: svmem(total=67514511360, available=24352444416, percent=63.9, used=42417012736, free=11533819904, active=40845762560, inactive=14130167808, buffers=81227776, cached=13482450944, shared=62025728)
+SWAP usage: sswap(total=4294963200, used=4078444544, free=216518656, percent=95.0, sin=35068444672, sout=57885933568)
+iter = 62
+CPU usage: [24.6, 26.1, 30.6, 61.4, 21.0, 28.2, 20.9, 46.6]
+RAM usage: svmem(total=67514511360, available=24333307904, percent=64.0, used=42436165632, free=11514433536, active=40864178176, inactive=14130106368, buffers=81375232, cached=13482536960, shared=62025728)
+SWAP usage: sswap(total=4294963200, used=4078411776, free=216551424, percent=95.0, sin=35068514304, sout=57885933568)
+iter = 63
+CPU usage: [26.0, 48.8, 28.0, 36.6, 21.1, 56.1, 20.3, 20.5]
+RAM usage: svmem(total=67514511360, available=24316682240, percent=64.0, used=42452787200, free=11497656320, active=40881553408, inactive=14130114560, buffers=81506304, cached=13482561536, shared=62025728)
+SWAP usage: sswap(total=4294963200, used=4078399488, free=216563712, percent=95.0, sin=35068514304, sout=57885933568)
+iter = 64
+CPU usage: [42.6, 29.2, 26.7, 33.4, 50.6, 23.4, 20.3, 33.7]
+RAM usage: svmem(total=67514511360, available=24298201088, percent=64.0, used=42471276544, free=11479015424, active=40899792896, inactive=14130163712, buffers=81645568, cached=13482573824, shared=62025728)
+SWAP usage: sswap(total=4294963200, used=4078366720, free=216596480, percent=95.0, sin=35068583936, sout=57885933568)
+iter = 65
+CPU usage: [26.7, 47.6, 26.9, 53.1, 23.0, 36.2, 20.8, 25.3]
+RAM usage: svmem(total=67514511360, available=24280961024, percent=64.0, used=42488496128, free=11558682624, active=40916463616, inactive=14034051072, buffers=81793024, cached=13385539584, shared=62038016)
+SWAP usage: sswap(total=4294963200, used=4078755840, free=216207360, percent=95.0, sin=35068616704, sout=57886355456)
+iter = 66
+CPU usage: [28.9, 65.4, 25.4, 24.9, 21.4, 48.0, 20.1, 23.9]
+RAM usage: svmem(total=67514511360, available=24262623232, percent=64.1, used=42506817536, free=11540168704, active=40934531072, inactive=14034219008, buffers=81956864, cached=13385568256, shared=62042112)
+SWAP usage: sswap(total=4294963200, used=4078546944, free=216416256, percent=95.0, sin=35068919808, sout=57886355456)

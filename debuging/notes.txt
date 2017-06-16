@@ -131,3 +131,13 @@ Each indicates which computer
 => Something between commit 7824dd2e (2/7 - 2017) and commit 3fd52ace (29/5 - 2017) seems to alter the behaviour of memory allocation.
 
 
+--------------------
+2017_06_16__14_38_25
+--------------------
+- Running on Tikhonov
+- Running AD skull full data, original TV-code from Chong
+- Running from odl commit 7824dd2e, which is the same commit as we ran when we ran the code on Tikhonov and reported the error.
+- THIS REPRODUCES THE ERROR EXACTLY!
+
+
+
