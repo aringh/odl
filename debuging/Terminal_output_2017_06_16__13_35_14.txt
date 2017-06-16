@@ -1,0 +1,74 @@
+-------------------------------------------------
+Copied after kernal died
+-------------------------------------------------
+
+
+Loading geometry for turn number 1 out of 23
+Loading geometry for turn number 2 out of 23
+Loading geometry for turn number 3 out of 23
+Loading geometry for turn number 4 out of 23
+Loading geometry for turn number 5 out of 23
+Loading geometry for turn number 6 out of 23
+Loading geometry for turn number 7 out of 23
+Loading geometry for turn number 8 out of 23
+Loading geometry for turn number 9 out of 23
+Loading geometry for turn number 10 out of 23
+Loading geometry for turn number 11 out of 23
+Loading geometry for turn number 12 out of 23
+Loading geometry for turn number 13 out of 23
+Loading geometry for turn number 14 out of 23
+Loading geometry for turn number 15 out of 23
+Loading geometry for turn number 16 out of 23
+Loading geometry for turn number 17 out of 23
+Loading geometry for turn number 18 out of 23
+Loading geometry for turn number 19 out of 23
+Loading geometry for turn number 20 out of 23
+Loading geometry for turn number 21 out of 23
+Loading geometry for turn number 22 out of 23
+Loading geometry for turn number 23 out of 23
+Loading data for turn number 1 out of 23
+Loading data for turn number 2 out of 23
+Loading data for turn number 3 out of 23
+Loading data for turn number 4 out of 23
+Loading data for turn number 5 out of 23
+Loading data for turn number 6 out of 23
+Loading data for turn number 7 out of 23
+Loading data for turn number 8 out of 23
+Loading data for turn number 9 out of 23
+Loading data for turn number 10 out of 23
+Loading data for turn number 11 out of 23
+Loading data for turn number 12 out of 23
+Loading data for turn number 13 out of 23
+Loading data for turn number 14 out of 23
+Loading data for turn number 15 out of 23
+Loading data for turn number 16 out of 23
+Loading data for turn number 17 out of 23
+Loading data for turn number 18 out of 23
+Loading data for turn number 19 out of 23
+Loading data for turn number 20 out of 23
+Loading data for turn number 21 out of 23
+Loading data for turn number 22 out of 23
+Loading data for turn number 23 out of 23
+Norm of the product space operator: 531.0185103292283
+iter = 0
+CPU usage: [47.5, 33.0, 17.7, 14.6, 30.8, 25.4, 14.6, 16.8]
+RAM usage: svmem(total=67514511360, available=21186895872, percent=68.6, used=45462167552, free=12072448000, active=52269395968, inactive=1910226944, buffers=778285056, cached=9201610752, shared=111898624)
+SWAP usage: sswap(total=4294963200, used=3585839104, free=709124096, percent=83.5, sin=34738163712, sout=57071083520)
+iter = 1
+CPU usage: [29.5, 55.5, 22.1, 26.9, 28.2, 43.2, 21.4, 20.2]
+RAM usage: svmem(total=67514511360, available=17481785344, percent=74.1, used=49167278080, free=8367304704, active=55967531008, inactive=1910243328, buffers=778293248, cached=9201635328, shared=111898624)
+SWAP usage: sswap(total=4294963200, used=3585830912, free=709132288, percent=83.5, sin=34738163712, sout=57071083520)
+iter = 2
+CPU usage: [23.9, 25.4, 22.0, 56.0, 25.1, 26.3, 20.6, 51.5]
+RAM usage: svmem(total=67514511360, available=13763108864, percent=79.6, used=52887048192, free=7798923264, active=53807890432, inactive=4681027584, buffers=338874368, cached=6489665536, shared=110804992)
+SWAP usage: sswap(total=4294963200, used=3596496896, free=698466304, percent=83.7, sin=34739650560, sout=57082515456)
+iter = 3
+CPU usage: [25.6, 42.0, 24.5, 43.3, 23.8, 27.7, 21.3, 45.1]
+RAM usage: svmem(total=67514511360, available=10148671488, percent=85.0, used=56577814528, free=7900684288, active=54252892160, inactive=4330680320, buffers=3956736, cached=3032055808, shared=110800896)
+SWAP usage: sswap(total=4294963200, used=3605848064, free=689115136, percent=84.0, sin=34739716096, sout=57091973120)
+iter = 4
+CPU usage: [43.9, 40.6, 25.0, 27.6, 35.5, 40.5, 21.2, 23.9]
+RAM usage: svmem(total=67514511360, available=7232450560, percent=89.3, used=59633025024, free=7598231552, active=55195058176, inactive=3713933312, buffers=3637248, cached=279617536, shared=54333440)
+SWAP usage: sswap(total=4294963200, used=4236288000, free=58675200, percent=98.6, sin=34809012224, sout=57807945728)
+
+Kernel died, restarting

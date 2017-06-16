@@ -1,0 +1,2229 @@
+Norm of the product space operator: 189.0296437557453
+iter = 0
+CPU usage (% each core): [97.2, 12.8, 10.8, 6.2, 4.8, 5.1, 4.7, 6.0]
+RAM usage: svmem(total=33615839232, available=17799139328, percent=47.1, used=15362170880, free=10135633920, active=18590658560, inactive=3667234816, buffers=833826816, cached=7284207616, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                                           types |   # objects |   total size
+================================================ | =========== | ============
+                           <class 'numpy.ndarray |          11 |     89.26 MB
+                                    <class 'list |       13641 |      1.25 MB
+                                     <class 'str |       13822 |   1002.30 KB
+                    <class 'sip.methoddescriptor |        9078 |    496.45 KB
+                                    <class 'dict |         222 |    162.94 KB
+                                     <class 'int |        2996 |     81.99 KB
+           <class 'PyQt5.QtCore.QLocale.Language |         355 |     18.02 KB
+                  <class 'sip.variabledescriptor |         203 |     14.27 KB
+            <class 'PyQt5.QtCore.QLocale.Country |         265 |     13.45 KB
+                 <class 'PyQt5.QtCore.pyqtSignal |         142 |     11.09 KB
+                <class 'PyQt5.QtCore.QEvent.Type |         147 |      7.46 KB
+             <class 'PyQt5.QtCore.QLocale.Script |         130 |      6.60 KB
+        <class 'PyQt5.QtGui.QPageSize.PageSizeId |         127 |      6.45 KB
+  <class 'PyQt5.QtGui.QPagedPaintDevice.PageSize |         126 |      6.39 KB
+        <class 'PyQt5.QtWidgets.QStyle.StyleHint |         113 |      5.73 KB
+iter = 1
+CPU usage (% each core): [40.2, 17.3, 26.8, 18.9, 74.8, 16.7, 19.5, 22.6]
+RAM usage: svmem(total=33615839232, available=17790464000, percent=47.1, used=15370854400, free=10126942208, active=18603991040, inactive=3667238912, buffers=833826816, cached=7284215808, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'list |         456 |     53.06 KB
+                      <class 'str |         453 |     42.52 KB
+                      <class 'int |         134 |      3.66 KB
+                    <class 'bytes |          21 |      2.35 KB
+                     <class 'dict |           3 |      2.25 KB
+                     <class 'type |           0 |    288     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+iter = 2
+CPU usage (% each core): [100.0, 23.9, 21.1, 19.5, 30.7, 21.4, 20.5, 18.5]
+RAM usage: svmem(total=33615839232, available=17796829184, percent=47.1, used=15364489216, free=10133307392, active=18597842944, inactive=3667238912, buffers=833826816, cached=7284215808, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          19 |      1.92 KB
+   <class 'list |          -1 |    296     B
+    <class 'str |          -1 |    -80     B
+iter = 3
+CPU usage (% each core): [100.0, 16.3, 16.9, 16.5, 21.3, 19.3, 15.6, 16.7]
+RAM usage: svmem(total=33615839232, available=17789964288, percent=47.1, used=15371354112, free=10126442496, active=18601222144, inactive=3667226624, buffers=833826816, cached=7284215808, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    160     B
+    <class 'int |          -1 |    -28     B
+iter = 4
+CPU usage (% each core): [23.8, 25.0, 16.9, 25.9, 91.6, 16.0, 16.4, 18.3]
+RAM usage: svmem(total=33615839232, available=17795108864, percent=47.1, used=15366205440, free=10131587072, active=18600996864, inactive=3667226624, buffers=833830912, cached=7284215808, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    920     B
+    <class 'int |           1 |     28     B
+iter = 5
+CPU usage (% each core): [100.0, 16.8, 20.2, 18.1, 19.8, 30.0, 18.3, 16.5]
+RAM usage: svmem(total=33615839232, available=17785978880, percent=47.1, used=15375335424, free=10122457088, active=18606911488, inactive=3667226624, buffers=833830912, cached=7284215808, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    176     B
+    <class 'int |          -1 |    -28     B
+iter = 6
+CPU usage (% each core): [99.4, 19.3, 20.6, 21.6, 16.5, 19.2, 19.3, 24.7]
+RAM usage: svmem(total=33615839232, available=17794789376, percent=47.1, used=15366529024, free=10131263488, active=18599518208, inactive=3667226624, buffers=833830912, cached=7284215808, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |           9 |     920     B
+                      <class 'str |           4 |     599     B
+                     <class 'list |           1 |     336     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                      <class 'int |           1 |      28     B
+                    <class 'float |           1 |      24     B
+                     <class 'dict |          -3 |   -2208     B
+iter = 7
+CPU usage (% each core): [100.0, 19.0, 17.3, 14.9, 19.0, 15.0, 14.8, 15.4]
+RAM usage: svmem(total=33615839232, available=17785651200, percent=47.1, used=15375667200, free=10122125312, active=18609709056, inactive=3667226624, buffers=833830912, cached=7284215808, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      2.16 KB
+                    <class 'bytes |          18 |      1.84 KB
+                     <class 'list |           0 |    176     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -519     B
+iter = 8
+CPU usage (% each core): [18.0, 22.1, 19.7, 100.0, 17.9, 17.3, 17.4, 12.2]
+RAM usage: svmem(total=33615839232, available=17788239872, percent=47.1, used=15373078528, free=10124713984, active=18605686784, inactive=3667226624, buffers=833830912, cached=7284215808, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |     total size
+================================= | =========== | ==============
+                      <class 'str |           3 |      520     B
+          function (null_wrapper) |           1 |      136     B
+                     <class 'cell |           2 |       96     B
+        <class 'functools.partial |           1 |       80     B
+                   <class 'method |           1 |       64     B
+                    <class 'tuple |           1 |       64     B
+  <class 'tornado.ioloop._Timeout |           1 |       64     B
+                    <class 'float |           1 |       24     B
+                     <class 'list |           0 |    -1496     B
+                     <class 'dict |          -3 |    -2208     B
+                    <class 'bytes |         -96 |   -10079     B
+iter = 9
+CPU usage (% each core): [22.6, 19.1, 18.9, 100.0, 14.3, 14.7, 14.7, 14.6]
+RAM usage: svmem(total=33615839232, available=17784487936, percent=47.1, used=15376830464, free=10120949760, active=18609164288, inactive=3667238912, buffers=833830912, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      2.16 KB
+                    <class 'bytes |          17 |      1.75 KB
+                     <class 'list |           0 |    256     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -520     B
+iter = 10
+CPU usage (% each core): [29.4, 22.2, 25.2, 13.5, 20.1, 18.5, 22.6, 100.0]
+RAM usage: svmem(total=33615839232, available=17789751296, percent=47.1, used=15371567104, free=10126213120, active=18604662784, inactive=3667238912, buffers=833830912, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          17 |      1.73 KB
+   <class 'list |          -1 |    248     B
+    <class 'int |          -1 |    -28     B
+    <class 'str |          -1 |    -80     B
+iter = 11
+CPU usage (% each core): [17.3, 18.7, 18.8, 15.2, 15.2, 19.0, 15.2, 100.0]
+RAM usage: svmem(total=33615839232, available=17781436416, percent=47.1, used=15379881984, free=10117898240, active=18612617216, inactive=3667238912, buffers=833830912, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          10 |    999     B
+   <class 'list |           0 |    144     B
+    <class 'int |           1 |     28     B
+iter = 12
+CPU usage (% each core): [100.0, 22.6, 17.2, 24.3, 16.1, 15.5, 16.6, 18.0]
+RAM usage: svmem(total=33615839232, available=17789587456, percent=47.1, used=15371730944, free=10126049280, active=18599837696, inactive=3667238912, buffers=833830912, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    160     B
+iter = 13
+CPU usage (% each core): [9.2, 18.8, 19.6, 17.3, 100.0, 18.6, 16.8, 16.1]
+RAM usage: svmem(total=33615839232, available=17782890496, percent=47.1, used=15378427904, free=10119352320, active=18608410624, inactive=3667238912, buffers=833830912, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    176     B
+iter = 14
+CPU usage (% each core): [13.1, 17.5, 20.8, 21.1, 99.4, 15.5, 15.5, 15.5]
+RAM usage: svmem(total=33615839232, available=17791655936, percent=47.1, used=15369662464, free=10128117760, active=18601959424, inactive=3667238912, buffers=833830912, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+    <class 'int |          -1 |    -28     B
+iter = 15
+CPU usage (% each core): [100.0, 15.5, 16.1, 20.5, 6.8, 18.5, 15.5, 14.8]
+RAM usage: svmem(total=33615839232, available=17786331136, percent=47.1, used=15374983168, free=10122792960, active=18606772224, inactive=3667238912, buffers=833835008, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    200     B
+    <class 'int |           1 |     28     B
+iter = 16
+CPU usage (% each core): [100.0, 19.2, 21.0, 17.6, 10.8, 15.1, 15.1, 15.7]
+RAM usage: svmem(total=33615839232, available=17789181952, percent=47.1, used=15372132352, free=10125643776, active=18604384256, inactive=3667238912, buffers=833835008, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    224     B
+iter = 17
+CPU usage (% each core): [100.0, 18.3, 20.9, 20.7, 14.0, 15.9, 15.9, 15.9]
+RAM usage: svmem(total=33615839232, available=17782181888, percent=47.1, used=15379136512, free=10118639616, active=18607730688, inactive=3667238912, buffers=833835008, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+iter = 18
+CPU usage (% each core): [100.0, 16.5, 22.1, 18.9, 13.4, 17.2, 16.4, 15.9]
+RAM usage: svmem(total=33615839232, available=17786527744, percent=47.1, used=15374790656, free=10122985472, active=18603229184, inactive=3667238912, buffers=833835008, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    256     B
+iter = 19
+CPU usage (% each core): [18.2, 23.3, 21.8, 23.9, 99.4, 20.5, 22.7, 20.5]
+RAM usage: svmem(total=33615839232, available=17780854784, percent=47.1, used=15380463616, free=10117312512, active=18609618944, inactive=3667238912, buffers=833835008, cached=7284228096, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |     total size
+================================= | =========== | ==============
+                      <class 'str |           4 |      600     B
+          function (null_wrapper) |           1 |      136     B
+                     <class 'cell |           2 |       96     B
+        <class 'functools.partial |           1 |       80     B
+                   <class 'method |           1 |       64     B
+                    <class 'tuple |           1 |       64     B
+  <class 'tornado.ioloop._Timeout |           1 |       64     B
+                    <class 'float |           1 |       24     B
+                     <class 'list |           1 |    -1696     B
+                     <class 'dict |          -3 |    -2208     B
+                    <class 'bytes |        -103 |   -10945     B
+iter = 20
+CPU usage (% each core): [12.6, 21.1, 15.5, 20.6, 100.0, 15.5, 15.5, 15.0]
+RAM usage: svmem(total=33615839232, available=17786884096, percent=47.1, used=15374426112, free=10123333632, active=18604855296, inactive=3667243008, buffers=833843200, cached=7284236288, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      2.16 KB
+                    <class 'bytes |          17 |      1.76 KB
+                     <class 'list |           0 |    200     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -520     B
+iter = 21
+CPU usage (% each core): [99.4, 17.6, 18.2, 19.2, 13.9, 14.5, 15.1, 15.7]
+RAM usage: svmem(total=33615839232, available=17782120448, percent=47.1, used=15379197952, free=10118561792, active=18608652288, inactive=3667243008, buffers=833843200, cached=7284236288, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          17 |      1.73 KB
+   <class 'dict |           0 |      1.50 KB
+   <class 'list |          -1 |    208     B
+    <class 'int |          -1 |    -28     B
+    <class 'str |          -1 |    -80     B
+iter = 22
+CPU usage (% each core): [19.9, 20.0, 26.1, 23.9, 100.0, 19.0, 19.3, 19.9]
+RAM usage: svmem(total=33615839232, available=17784786944, percent=47.1, used=15376531456, free=10121228288, active=18604920832, inactive=3667243008, buffers=833843200, cached=7284236288, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |          11 |       1.05 KB
+                      <class 'str |           4 |     601     B
+                     <class 'list |           1 |     408     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                      <class 'int |           1 |      28     B
+                    <class 'float |           1 |      24     B
+                     <class 'dict |          -3 |   -3744     B
+iter = 23
+CPU usage (% each core): [11.8, 16.8, 14.3, 20.6, 100.0, 16.1, 15.5, 14.2]
+RAM usage: svmem(total=33615839232, available=17781112832, percent=47.1, used=15380205568, free=10117554176, active=18608857088, inactive=3667243008, buffers=833843200, cached=7284236288, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      3.66 KB
+                    <class 'bytes |          18 |      1.84 KB
+                     <class 'list |           0 |    288     B
+                    <class 'float |          -1 |    -24     B
+                      <class 'int |          -1 |    -28     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -521     B
+iter = 24
+CPU usage (% each core): [100.0, 17.9, 16.7, 19.9, 14.1, 16.7, 15.4, 14.9]
+RAM usage: svmem(total=33615839232, available=17785208832, percent=47.1, used=15376109568, free=10121650176, active=18605191168, inactive=3667243008, buffers=833847296, cached=7284232192, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          18 |      1.82 KB
+   <class 'list |          -1 |    112     B
+    <class 'str |          -1 |    -80     B
+iter = 25
+CPU usage (% each core): [99.4, 21.0, 19.2, 20.7, 16.1, 17.9, 22.8, 18.5]
+RAM usage: svmem(total=33615839232, available=17785294848, percent=47.1, used=15376019456, free=10121736192, active=18608730112, inactive=3667243008, buffers=833847296, cached=7284236288, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |           9 |     921     B
+                      <class 'str |           4 |     600     B
+                     <class 'list |           1 |     360     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                      <class 'int |           1 |      28     B
+                    <class 'float |           1 |      24     B
+                     <class 'dict |          -3 |   -3744     B
+iter = 26
+CPU usage (% each core): [16.5, 15.3, 14.7, 15.3, 100.0, 15.8, 23.2, 15.9]
+RAM usage: svmem(total=33615839232, available=17790140416, percent=47.1, used=15371177984, free=10126577664, active=18604462080, inactive=3667243008, buffers=833847296, cached=7284236288, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      3.66 KB
+                    <class 'bytes |          18 |      1.84 KB
+                     <class 'list |           0 |    208     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -520     B
+iter = 27
+CPU usage (% each core): [8.1, 18.6, 19.1, 19.9, 100.0, 16.1, 21.3, 16.8]
+RAM usage: svmem(total=33615839232, available=17785135104, percent=47.1, used=15376183296, free=10121564160, active=18608939008, inactive=3667247104, buffers=833847296, cached=7284244480, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+    <class 'str |          -1 |      -80     B
+   <class 'list |          -1 |    -1752     B
+  <class 'bytes |         -99 |   -10184     B
+iter = 28
+CPU usage (% each core): [16.2, 21.0, 18.7, 22.3, 100.0, 18.7, 18.7, 18.0]
+RAM usage: svmem(total=33615839232, available=17789599744, percent=47.1, used=15371718656, free=10126028800, active=18604716032, inactive=3667247104, buffers=833847296, cached=7284244480, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |           9 |     932     B
+                      <class 'str |           4 |     601     B
+                     <class 'list |           1 |     304     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                    <class 'float |           1 |      24     B
+                     <class 'dict |          -3 |   -3744     B
+iter = 29
+CPU usage (% each core): [100.0, 20.4, 22.6, 25.9, 12.9, 16.0, 16.5, 16.0]
+RAM usage: svmem(total=33615839232, available=17785270272, percent=47.1, used=15376048128, free=10121699328, active=18606735360, inactive=3667247104, buffers=833847296, cached=7284244480, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      3.66 KB
+                    <class 'bytes |          17 |      1.74 KB
+                     <class 'list |           0 |    160     B
+                    <class 'float |          -1 |    -24     B
+                      <class 'int |          -1 |    -28     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -521     B
+iter = 30
+CPU usage (% each core): [100.0, 18.5, 17.2, 20.0, 7.9, 15.8, 16.0, 17.1]
+RAM usage: svmem(total=33615839232, available=17789190144, percent=47.1, used=15372128256, free=10125619200, active=18605195264, inactive=3667247104, buffers=833851392, cached=7284240384, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          18 |      1.82 KB
+   <class 'list |          -1 |    344     B
+    <class 'str |          -1 |    -80     B
+iter = 31
+CPU usage (% each core): [99.4, 17.1, 17.0, 15.4, 13.3, 15.3, 17.1, 14.6]
+RAM usage: svmem(total=33615839232, available=17786482688, percent=47.1, used=15374831616, free=10122911744, active=18608738304, inactive=3667247104, buffers=833851392, cached=7284244480, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+    <class 'int |           1 |     28     B
+iter = 32
+CPU usage (% each core): [17.8, 21.6, 22.0, 22.6, 100.0, 20.1, 19.0, 20.1]
+RAM usage: svmem(total=33615839232, available=17789775872, percent=47.1, used=15371538432, free=10126204928, active=18604474368, inactive=3667247104, buffers=833851392, cached=7284244480, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |           8 |     845     B
+                      <class 'str |           4 |     601     B
+                     <class 'list |           1 |     312     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                    <class 'float |           1 |      24     B
+                      <class 'int |          -1 |     -28     B
+                     <class 'dict |          -3 |   -3744     B
+iter = 33
+CPU usage (% each core): [12.7, 20.2, 20.7, 15.9, 100.0, 16.4, 16.2, 15.7]
+RAM usage: svmem(total=33615839232, available=17781403648, percent=47.1, used=15379914752, free=10117828608, active=18611044352, inactive=3667247104, buffers=833851392, cached=7284244480, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      3.66 KB
+                    <class 'bytes |          18 |      1.84 KB
+                     <class 'list |           0 |    376     B
+                      <class 'int |           1 |     28     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -521     B
+iter = 34
+CPU usage (% each core): [13.0, 20.2, 15.8, 20.9, 100.0, 15.2, 16.1, 15.3]
+RAM usage: svmem(total=33615839232, available=17784217600, percent=47.1, used=15377100800, free=10120642560, active=18608979968, inactive=3667247104, buffers=833859584, cached=7284236288, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          18 |      1.82 KB
+   <class 'list |          -1 |    168     B
+    <class 'str |          -1 |    -80     B
+iter = 35
+CPU usage (% each core): [100.0, 22.4, 24.9, 21.4, 14.5, 19.0, 19.0, 19.0]
+RAM usage: svmem(total=33615839232, available=17778925568, percent=47.1, used=15382384640, free=10115350528, active=18610831360, inactive=3667247104, buffers=833859584, cached=7284244480, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |     total size
+================================= | =========== | ==============
+                      <class 'str |           4 |      601     B
+          function (null_wrapper) |           1 |      136     B
+                     <class 'cell |           2 |       96     B
+        <class 'functools.partial |           1 |       80     B
+                   <class 'method |           1 |       64     B
+                    <class 'tuple |           1 |       64     B
+  <class 'tornado.ioloop._Timeout |           1 |       64     B
+                    <class 'float |           1 |       24     B
+                     <class 'list |           1 |    -1696     B
+                     <class 'dict |          -3 |    -3744     B
+                    <class 'bytes |        -105 |   -10957     B
+iter = 36
+CPU usage (% each core): [99.4, 16.8, 17.5, 16.1, 12.6, 15.0, 14.9, 15.0]
+RAM usage: svmem(total=33615839232, available=17782960128, percent=47.1, used=15378354176, free=10119372800, active=18608926720, inactive=3667251200, buffers=833859584, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      3.66 KB
+                    <class 'bytes |          17 |      1.75 KB
+                     <class 'list |           0 |    288     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -521     B
+iter = 37
+CPU usage (% each core): [100.0, 15.9, 16.6, 16.6, 12.9, 18.5, 15.8, 15.2]
+RAM usage: svmem(total=33615839232, available=17780817920, percent=47.1, used=15380496384, free=10117230592, active=18613374976, inactive=3667251200, buffers=833859584, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          17 |      1.73 KB
+    <class 'str |           2 |    463     B
+   <class 'list |          -1 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 38
+CPU usage (% each core): [13.8, 21.1, 24.1, 19.6, 100.0, 17.8, 18.0, 18.5]
+RAM usage: svmem(total=33615839232, available=17785372672, percent=47.1, used=15375941632, free=10121785344, active=18606755840, inactive=3667251200, buffers=833859584, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |          10 |     999     B
+                     <class 'list |           1 |     344     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                      <class 'str |           1 |      58     B
+                    <class 'float |           1 |      24     B
+                     <class 'dict |          -3 |   -3744     B
+iter = 39
+CPU usage (% each core): [9.8, 19.6, 18.4, 15.3, 100.0, 22.0, 15.9, 15.3]
+RAM usage: svmem(total=33615839232, available=17781866496, percent=47.1, used=15379447808, free=10118275072, active=18611269632, inactive=3667251200, buffers=833863680, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      3.66 KB
+                    <class 'bytes |          17 |      1.74 KB
+                     <class 'list |           0 |    112     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -521     B
+iter = 40
+CPU usage (% each core): [16.3, 19.4, 19.6, 15.8, 99.4, 15.1, 14.5, 14.5]
+RAM usage: svmem(total=33615839232, available=17783390208, percent=47.1, used=15377924096, free=10119798784, active=18607017984, inactive=3667251200, buffers=833863680, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          17 |      1.73 KB
+   <class 'list |          -1 |    288     B
+    <class 'str |          -1 |    -80     B
+iter = 41
+CPU usage (% each core): [19.4, 99.4, 20.1, 16.1, 14.9, 14.9, 15.4, 15.5]
+RAM usage: svmem(total=33615839232, available=17778790400, percent=47.1, used=15382528000, free=10115194880, active=18611179520, inactive=3667251200, buffers=833863680, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    224     B
+    <class 'int |           1 |     28     B
+iter = 42
+CPU usage (% each core): [19.8, 9.9, 18.7, 17.0, 15.2, 100.0, 15.2, 16.0]
+RAM usage: svmem(total=33615839232, available=17776726016, percent=47.1, used=15384592384, free=10113130496, active=18617221120, inactive=3667251200, buffers=833863680, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+iter = 43
+CPU usage (% each core): [22.8, 13.0, 21.3, 18.6, 14.9, 100.0, 28.2, 14.9]
+RAM usage: svmem(total=33615839232, available=17784291328, percent=47.1, used=15377027072, free=10120695808, active=18609446912, inactive=3667251200, buffers=833863680, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    256     B
+iter = 44
+CPU usage (% each core): [21.6, 100.0, 20.5, 16.4, 16.8, 9.1, 16.4, 17.5]
+RAM usage: svmem(total=33615839232, available=17780396032, percent=47.1, used=15380922368, free=10116800512, active=18610946048, inactive=3667251200, buffers=833863680, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |           8 |     844     B
+                      <class 'str |           4 |     600     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'list |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                    <class 'float |           1 |      24     B
+                     <class 'dict |          -3 |   -3744     B
+iter = 45
+CPU usage (% each core): [16.3, 100.0, 21.0, 16.8, 15.5, 13.0, 16.7, 24.8]
+RAM usage: svmem(total=33615839232, available=17782026240, percent=47.1, used=15379292160, free=10118430720, active=18609905664, inactive=3667251200, buffers=833863680, cached=7284252672, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |     total size
+================================= | =========== | ==============
+                     <class 'dict |           3 |        3.66 KB
+                    <class 'float |          -1 |      -24     B
+                   <class 'method |          -1 |      -64     B
+                    <class 'tuple |          -1 |      -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |      -64     B
+        <class 'functools.partial |          -1 |      -80     B
+                     <class 'cell |          -2 |      -96     B
+          function (null_wrapper) |          -1 |     -136     B
+                      <class 'str |          -3 |     -520     B
+                     <class 'list |           0 |    -1632     B
+                    <class 'bytes |         -96 |   -10039     B
+iter = 46
+CPU usage (% each core): [20.6, 100.0, 15.9, 15.9, 23.2, 14.7, 15.3, 16.6]
+RAM usage: svmem(total=33615839232, available=17780813824, percent=47.1, used=15380504576, free=10117210112, active=18613415936, inactive=3667255296, buffers=833863680, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          17 |      1.76 KB
+   <class 'list |          -1 |    208     B
+    <class 'int |          -1 |    -28     B
+    <class 'str |          -1 |    -80     B
+iter = 47
+CPU usage (% each core): [18.1, 100.0, 16.9, 15.7, 21.6, 17.0, 15.1, 15.7]
+RAM usage: svmem(total=33615839232, available=17784274944, percent=47.1, used=15377043456, free=10120671232, active=18609881088, inactive=3667255296, buffers=833863680, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          10 |    999     B
+   <class 'list |           0 |    128     B
+    <class 'int |           1 |     28     B
+iter = 48
+CPU usage (% each core): [18.7, 99.4, 19.3, 16.8, 15.0, 14.5, 17.3, 15.0]
+RAM usage: svmem(total=33615839232, available=17781112832, percent=47.1, used=15380205568, free=10117509120, active=18611003392, inactive=3667255296, buffers=833863680, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    144     B
+iter = 49
+CPU usage (% each core): [13.0, 9.2, 19.8, 20.5, 14.3, 100.0, 14.3, 15.4]
+RAM usage: svmem(total=33615839232, available=17783492608, percent=47.1, used=15377817600, free=10119888896, active=18609541120, inactive=3667255296, buffers=833871872, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    160     B
+iter = 50
+CPU usage (% each core): [19.1, 8.6, 19.9, 17.2, 15.3, 100.0, 15.3, 14.8]
+RAM usage: svmem(total=33615839232, available=17781911552, percent=47.1, used=15379398656, free=10118307840, active=18613149696, inactive=3667255296, buffers=833871872, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    176     B
+iter = 51
+CPU usage (% each core): [20.7, 11.7, 15.8, 17.1, 15.8, 99.4, 16.5, 15.8]
+RAM usage: svmem(total=33615839232, available=17785257984, percent=47.1, used=15376060416, free=10121646080, active=18607583232, inactive=3667255296, buffers=833871872, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    200     B
+iter = 52
+CPU usage (% each core): [14.9, 18.2, 19.0, 15.5, 15.6, 100.0, 16.6, 15.5]
+RAM usage: svmem(total=33615839232, available=17780453376, percent=47.1, used=15380865024, free=10116841472, active=18610946048, inactive=3667255296, buffers=833871872, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+iter = 53
+CPU usage (% each core): [27.4, 11.4, 30.7, 23.8, 27.4, 100.0, 22.9, 24.5]
+RAM usage: svmem(total=33615839232, available=17785868288, percent=47.1, used=15375450112, free=10122256384, active=18607099904, inactive=3667255296, buffers=833871872, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |           7 |     768     B
+                      <class 'str |           2 |     420     B
+                     <class 'list |           1 |     360     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                    <class 'float |           1 |      24     B
+                     <class 'dict |          -3 |   -3744     B
+iter = 54
+CPU usage (% each core): [25.0, 21.5, 26.2, 26.4, 24.4, 100.0, 24.3, 24.3]
+RAM usage: svmem(total=33615839232, available=17790021632, percent=47.1, used=15371296768, free=10126409728, active=18602561536, inactive=3667255296, buffers=833871872, cached=7284260864, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915767296, free=33347497984, percent=2.7, sin=32251817984, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          17 |      1.74 KB
+   <class 'list |           1 |    344     B
+    <class 'str |           3 |    261     B
+iter = 55
+CPU usage (% each core): [27.2, 15.9, 25.3, 22.9, 30.8, 100.0, 27.6, 22.4]
+RAM usage: svmem(total=33615839232, available=17777881088, percent=47.1, used=15383461888, free=10114269184, active=18612891648, inactive=3667255296, buffers=833871872, cached=7284236288, shared=41136128)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+                  types |   # objects |     total size
+======================= | =========== | ==============
+  <class 'list_iterator |           1 |       56     B
+           <class 'cell |          -1 |      -48     B
+          <class 'tuple |          -1 |      -64     B
+            <class 'str |          -4 |     -601     B
+           <class 'list |           2 |    -1768     B
+          <class 'bytes |        -107 |   -11186     B
+iter = 56
+CPU usage (% each core): [27.6, 24.9, 26.2, 29.0, 100.0, 24.6, 19.8, 20.8]
+RAM usage: svmem(total=33615839232, available=17774182400, percent=47.1, used=15387119616, free=10110435328, active=18620542976, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      3.66 KB
+                    <class 'bytes |          12 |      1.20 KB
+                     <class 'list |          -3 |     48     B
+                      <class 'int |           1 |     28     B
+                    <class 'float |          -1 |    -24     B
+                     <class 'cell |          -1 |    -48     B
+            <class 'list_iterator |          -1 |    -56     B
+                   <class 'method |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+          function (null_wrapper) |          -1 |   -136     B
+iter = 57
+CPU usage (% each core): [70.2, 34.1, 31.4, 33.3, 48.6, 24.4, 29.2, 30.1]
+RAM usage: svmem(total=33615839232, available=17755742208, percent=47.2, used=15405559808, free=10091995136, active=18637570048, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          17 |      1.73 KB
+   <class 'list |          -1 |    208     B
+    <class 'int |          -2 |    -56     B
+    <class 'str |          -1 |    -80     B
+iter = 58
+CPU usage (% each core): [9.9, 13.0, 15.4, 14.3, 100.0, 14.1, 13.6, 13.6]
+RAM usage: svmem(total=33615839232, available=17775513600, percent=47.1, used=15385788416, free=10111766528, active=18617667584, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          10 |    998     B
+   <class 'list |           0 |    128     B
+    <class 'int |           1 |     28     B
+iter = 59
+CPU usage (% each core): [8.0, 13.6, 13.5, 15.2, 100.0, 13.0, 13.4, 13.4]
+RAM usage: svmem(total=33615839232, available=17755643904, percent=47.2, used=15405658112, free=10091896832, active=18637856768, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    144     B
+iter = 60
+CPU usage (% each core): [13.5, 14.7, 14.8, 14.2, 100.0, 13.5, 13.0, 13.5]
+RAM usage: svmem(total=33615839232, available=17755136000, percent=47.2, used=15406166016, free=10091388928, active=18637856768, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    160     B
+iter = 61
+CPU usage (% each core): [100.0, 15.1, 14.4, 14.4, 13.6, 13.8, 14.1, 13.7]
+RAM usage: svmem(total=33615839232, available=17772736512, percent=47.1, used=15388565504, free=10108989440, active=18620801024, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    176     B
+iter = 62
+CPU usage (% each core): [13.1, 16.3, 15.5, 15.5, 100.0, 14.3, 13.9, 14.4]
+RAM usage: svmem(total=33615839232, available=17772523520, percent=47.1, used=15388778496, free=10108776448, active=18620956672, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+    <class 'int |          -1 |    -28     B
+iter = 63
+CPU usage (% each core): [7.3, 14.7, 16.4, 17.1, 100.0, 14.6, 14.5, 14.6]
+RAM usage: svmem(total=33615839232, available=17774039040, percent=47.1, used=15387262976, free=10110291968, active=18620645376, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    200     B
+    <class 'int |           1 |     28     B
+iter = 64
+CPU usage (% each core): [13.0, 14.8, 14.7, 14.2, 99.4, 13.5, 13.0, 13.0]
+RAM usage: svmem(total=33615839232, available=17772396544, percent=47.1, used=15388905472, free=10108649472, active=18621059072, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    224     B
+iter = 65
+CPU usage (% each core): [13.5, 14.2, 14.2, 17.1, 98.2, 13.5, 14.1, 14.5]
+RAM usage: svmem(total=33615839232, available=17777516544, percent=47.1, used=15383785472, free=10113769472, active=18616815616, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+iter = 66
+CPU usage (% each core): [99.4, 15.2, 13.5, 13.0, 8.6, 13.4, 13.3, 12.8]
+RAM usage: svmem(total=33615839232, available=17773776896, percent=47.1, used=15387525120, free=10110029824, active=18620903424, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    766     B
+   <class 'list |           0 |    256     B
+iter = 67
+CPU usage (% each core): [100.0, 13.9, 13.9, 13.5, 8.5, 13.5, 14.6, 13.4]
+RAM usage: svmem(total=33615839232, available=17778356224, percent=47.1, used=15382945792, free=10114609152, active=18616930304, inactive=3667300352, buffers=833871872, cached=7284412416, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -105 |   -10984     B
+iter = 68
+CPU usage (% each core): [100.0, 15.3, 13.5, 14.6, 8.5, 13.4, 14.0, 14.0]
+RAM usage: svmem(total=33615839232, available=17773694976, percent=47.1, used=15387607040, free=10109939712, active=18618896384, inactive=3667304448, buffers=833871872, cached=7284420608, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    852     B
+   <class 'list |           0 |    168     B
+iter = 69
+CPU usage (% each core): [100.0, 17.3, 15.2, 14.6, 12.3, 15.8, 16.0, 16.0]
+RAM usage: svmem(total=33615839232, available=17775517696, percent=47.1, used=15385784320, free=10111762432, active=18616582144, inactive=3667304448, buffers=833871872, cached=7284420608, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |     80     B
+iter = 70
+CPU usage (% each core): [100.0, 15.3, 14.1, 13.6, 8.1, 14.2, 13.6, 14.0]
+RAM usage: svmem(total=33615839232, available=17771495424, percent=47.1, used=15389806592, free=10107740160, active=18618564608, inactive=3667304448, buffers=833871872, cached=7284420608, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 71
+CPU usage (% each core): [100.0, 17.9, 16.0, 19.2, 12.3, 15.2, 14.5, 17.1]
+RAM usage: svmem(total=33615839232, available=17773899776, percent=47.1, used=15387402240, free=10110144512, active=18616754176, inactive=3667304448, buffers=833871872, cached=7284420608, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 72
+CPU usage (% each core): [100.0, 14.7, 13.5, 12.9, 7.9, 13.5, 13.5, 13.4]
+RAM usage: svmem(total=33615839232, available=17768763392, percent=47.1, used=15392538624, free=10105008128, active=18618892288, inactive=3667304448, buffers=833871872, cached=7284420608, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    128     B
+iter = 73
+CPU usage (% each core): [100.0, 15.2, 14.7, 14.5, 8.5, 13.9, 13.3, 13.4]
+RAM usage: svmem(total=33615839232, available=17770913792, percent=47.1, used=15390388224, free=10107158528, active=18617053184, inactive=3667304448, buffers=833871872, cached=7284420608, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    144     B
+iter = 74
+CPU usage (% each core): [100.0, 14.5, 13.8, 12.1, 9.0, 14.5, 13.8, 13.8]
+RAM usage: svmem(total=33615839232, available=17770987520, percent=47.1, used=15390318592, free=10107363328, active=18620305408, inactive=3667300352, buffers=833871872, cached=7284285440, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    160     B
+iter = 75
+CPU usage (% each core): [100.0, 15.3, 13.4, 14.5, 8.0, 14.0, 14.0, 14.0]
+RAM usage: svmem(total=33615839232, available=17775964160, percent=47.1, used=15385341952, free=10112339968, active=18616578048, inactive=3667300352, buffers=833871872, cached=7284285440, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    176     B
+iter = 76
+CPU usage (% each core): [100.0, 13.3, 14.5, 12.8, 7.9, 12.7, 13.3, 12.7]
+RAM usage: svmem(total=33615839232, available=17767096320, percent=47.1, used=15394209792, free=10103472128, active=18620215296, inactive=3667300352, buffers=833871872, cached=7284285440, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    200     B
+    <class 'int |          -1 |    -28     B
+iter = 77
+CPU usage (% each core): [100.0, 14.5, 13.3, 14.5, 7.2, 13.8, 13.3, 13.3]
+RAM usage: svmem(total=33615839232, available=17771642880, percent=47.1, used=15389655040, free=10108018688, active=18616602624, inactive=3667300352, buffers=833880064, cached=7284285440, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+    <class 'int |           1 |     28     B
+iter = 78
+CPU usage (% each core): [100.0, 13.5, 14.7, 14.7, 12.9, 13.5, 13.0, 13.5]
+RAM usage: svmem(total=33615839232, available=17771606016, percent=47.1, used=15389691904, free=10107981824, active=18618347520, inactive=3667300352, buffers=833880064, cached=7284285440, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    224     B
+iter = 79
+CPU usage (% each core): [100.0, 14.9, 13.0, 15.5, 8.0, 13.0, 14.1, 13.6]
+RAM usage: svmem(total=33615839232, available=17768976384, percent=47.1, used=15392329728, free=10105344000, active=18620764160, inactive=3667300352, buffers=833880064, cached=7284285440, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+iter = 80
+CPU usage (% each core): [100.0, 13.6, 14.7, 14.1, 7.4, 13.5, 13.0, 13.4]
+RAM usage: svmem(total=33615839232, available=17772724224, percent=47.1, used=15388581888, free=10109091840, active=18616918016, inactive=3667300352, buffers=833880064, cached=7284285440, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    767     B
+   <class 'list |           0 |    256     B
+iter = 81
+CPU usage (% each core): [100.0, 15.1, 13.9, 14.5, 13.2, 13.3, 13.3, 13.3]
+RAM usage: svmem(total=33615839232, available=17770946560, percent=47.1, used=15390359552, free=10107314176, active=18618482688, inactive=3667300352, buffers=833880064, cached=7284285440, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -105 |   -10986     B
+iter = 82
+CPU usage (% each core): [8.6, 15.3, 14.7, 12.5, 100.0, 14.1, 13.6, 13.6]
+RAM usage: svmem(total=33615839232, available=17766776832, percent=47.1, used=15394529280, free=10103136256, active=18620989440, inactive=3667304448, buffers=833880064, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    852     B
+   <class 'list |           0 |    168     B
+iter = 83
+CPU usage (% each core): [6.2, 14.9, 14.3, 13.6, 100.0, 13.0, 13.6, 13.6]
+RAM usage: svmem(total=33615839232, available=17768415232, percent=47.1, used=15392890880, free=10104774656, active=18619371520, inactive=3667304448, buffers=833880064, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |     80     B
+iter = 84
+CPU usage (% each core): [10.9, 13.9, 11.6, 14.5, 100.0, 13.3, 13.4, 13.4]
+RAM usage: svmem(total=33615839232, available=17768800256, percent=47.1, used=15392505856, free=10105159680, active=18618847232, inactive=3667304448, buffers=833880064, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 85
+CPU usage (% each core): [13.1, 16.2, 14.8, 15.0, 100.0, 13.7, 13.7, 13.7]
+RAM usage: svmem(total=33615839232, available=17767587840, percent=47.1, used=15393714176, free=10103947264, active=18622541824, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 86
+CPU usage (% each core): [15.0, 15.1, 100.0, 13.3, 13.2, 13.3, 13.3, 13.8]
+RAM usage: svmem(total=33615839232, available=17770397696, percent=47.1, used=15390908416, free=10106753024, active=18618937344, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    128     B
+iter = 87
+CPU usage (% each core): [13.7, 14.4, 100.0, 14.9, 13.7, 15.4, 14.2, 13.1]
+RAM usage: svmem(total=33615839232, available=17766637568, percent=47.1, used=15394668544, free=10102992896, active=18620653568, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    144     B
+iter = 88
+CPU usage (% each core): [17.2, 14.4, 99.4, 13.7, 13.7, 13.7, 13.7, 13.7]
+RAM usage: svmem(total=33615839232, available=17767759872, percent=47.1, used=15393546240, free=10104115200, active=18619396096, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    160     B
+    <class 'int |          -1 |    -28     B
+iter = 89
+CPU usage (% each core): [13.6, 14.2, 8.0, 14.1, 13.5, 14.1, 100.0, 13.6]
+RAM usage: svmem(total=33615839232, available=17761984512, percent=47.2, used=15399321600, free=10098339840, active=18622672896, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    176     B
+iter = 90
+CPU usage (% each core): [14.2, 14.3, 7.8, 13.8, 13.1, 12.6, 100.0, 13.0]
+RAM usage: svmem(total=33615839232, available=17737588736, percent=47.2, used=15423717376, free=10073944064, active=18647429120, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    200     B
+    <class 'int |           1 |     28     B
+iter = 91
+CPU usage (% each core): [14.2, 15.4, 14.1, 15.4, 13.7, 12.4, 99.4, 13.7]
+RAM usage: svmem(total=33615839232, available=17759629312, percent=47.2, used=15401676800, free=10095984640, active=18629476352, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+iter = 92
+CPU usage (% each core): [14.0, 13.3, 100.0, 14.5, 13.3, 15.0, 13.3, 13.3]
+RAM usage: svmem(total=33615839232, available=17743527936, percent=47.2, used=15417778176, free=10079883264, active=18649698304, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    224     B
+iter = 93
+CPU usage (% each core): [14.5, 14.0, 7.9, 13.4, 13.3, 12.7, 100.0, 12.7]
+RAM usage: svmem(total=33615839232, available=17763995648, percent=47.2, used=15397310464, free=10100350976, active=18629476352, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+iter = 94
+CPU usage (% each core): [13.7, 16.0, 13.6, 14.8, 14.2, 14.1, 99.4, 14.1]
+RAM usage: svmem(total=33615839232, available=17743716352, percent=47.2, used=15417589760, free=10080071680, active=18649698304, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    767     B
+   <class 'list |           0 |    256     B
+iter = 95
+CPU usage (% each core): [14.7, 14.2, 100.0, 13.0, 14.1, 13.7, 7.5, 13.6]
+RAM usage: svmem(total=33615839232, available=17763848192, percent=47.2, used=15397457920, free=10100203520, active=18629771264, inactive=3667304448, buffers=833884160, cached=7284293632, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -106 |   -11139     B
+iter = 96
+CPU usage (% each core): [12.8, 14.7, 99.4, 13.3, 14.5, 13.3, 12.7, 13.3]
+RAM usage: svmem(total=33615839232, available=17743880192, percent=47.2, used=15417425920, free=10080227328, active=18649784320, inactive=3667308544, buffers=833884160, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    852     B
+   <class 'list |           0 |    168     B
+iter = 97
+CPU usage (% each core): [13.7, 14.8, 13.7, 15.4, 13.2, 13.7, 100.0, 14.2]
+RAM usage: svmem(total=33615839232, available=17763950592, percent=47.2, used=15397355520, free=10100297728, active=18629476352, inactive=3667308544, buffers=833884160, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |     80     B
+iter = 98
+CPU usage (% each core): [13.3, 14.6, 7.9, 14.0, 11.6, 12.8, 100.0, 12.3]
+RAM usage: svmem(total=33615839232, available=17744179200, percent=47.2, used=15417126912, free=10080526336, active=18649526272, inactive=3667308544, buffers=833884160, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    844     B
+   <class 'list |           0 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 99
+CPU usage (% each core): [14.9, 15.0, 13.7, 14.4, 13.7, 13.6, 99.4, 14.2]
+RAM usage: svmem(total=33615839232, available=17763885056, percent=47.2, used=15397416960, free=10100232192, active=18629476352, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 100
+CPU usage (% each core): [16.0, 16.0, 100.0, 14.1, 13.6, 14.1, 14.2, 13.6]
+RAM usage: svmem(total=33615839232, available=17743101952, percent=47.2, used=15418204160, free=10079444992, active=18649706496, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    128     B
+iter = 101
+CPU usage (% each core): [13.9, 14.5, 12.7, 13.9, 13.3, 13.3, 100.0, 12.7]
+RAM usage: svmem(total=33615839232, available=17763155968, percent=47.2, used=15398150144, free=10099499008, active=18629775360, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    144     B
+iter = 102
+CPU usage (% each core): [14.0, 13.5, 100.0, 15.2, 12.9, 13.4, 7.9, 13.9]
+RAM usage: svmem(total=33615839232, available=17743306752, percent=47.2, used=15417999360, free=10079649792, active=18649534464, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    160     B
+    <class 'int |          -1 |    -28     B
+iter = 103
+CPU usage (% each core): [14.9, 13.7, 100.0, 13.6, 14.1, 13.6, 8.1, 13.1]
+RAM usage: svmem(total=33615839232, available=17761751040, percent=47.2, used=15399555072, free=10098094080, active=18629373952, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    176     B
+iter = 104
+CPU usage (% each core): [14.7, 14.8, 100.0, 12.9, 13.0, 13.0, 7.4, 13.5]
+RAM usage: svmem(total=33615839232, available=17742508032, percent=47.2, used=15418798080, free=10078851072, active=18649706496, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    200     B
+    <class 'int |           1 |     28     B
+iter = 105
+CPU usage (% each core): [14.7, 11.7, 100.0, 15.2, 12.9, 13.4, 9.1, 13.4]
+RAM usage: svmem(total=33615839232, available=17762308096, percent=47.2, used=15398998016, free=10098651136, active=18629484544, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+iter = 106
+CPU usage (% each core): [14.6, 14.2, 99.4, 14.1, 13.9, 13.5, 13.5, 13.5]
+RAM usage: svmem(total=33615839232, available=17741918208, percent=47.2, used=15419387904, free=10078261248, active=18649968640, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    224     B
+iter = 107
+CPU usage (% each core): [13.6, 15.2, 12.9, 14.2, 13.6, 13.4, 100.0, 13.4]
+RAM usage: svmem(total=33615839232, available=17762639872, percent=47.2, used=15398666240, free=10098982912, active=18629394432, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+iter = 108
+CPU usage (% each core): [15.2, 13.0, 100.0, 14.2, 13.5, 13.0, 8.0, 13.0]
+RAM usage: svmem(total=33615839232, available=17741901824, percent=47.2, used=15419404288, free=10078244864, active=18649796608, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    256     B
+iter = 109
+CPU usage (% each core): [14.5, 14.1, 100.0, 13.9, 13.3, 13.3, 7.3, 13.8]
+RAM usage: svmem(total=33615839232, available=17762426880, percent=47.2, used=15398879232, free=10098769920, active=18629779456, inactive=3667308544, buffers=833888256, cached=7284301824, shared=41148416)
+SWAP usage: sswap(total=34263265280, used=915755008, free=33347510272, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -106 |   -11147     B
+iter = 110
+CPU usage (% each core): [14.3, 14.0, 99.4, 13.7, 13.5, 13.5, 13.4, 13.0]
+RAM usage: svmem(total=33615839232, available=17742716928, percent=47.2, used=15418580992, free=10079051776, active=18649853952, inactive=3667316736, buffers=833888256, cached=7284318208, shared=41156608)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    853     B
+   <class 'list |           0 |    168     B
+iter = 111
+CPU usage (% each core): [14.3, 15.6, 13.7, 16.0, 14.2, 14.3, 100.0, 14.2]
+RAM usage: svmem(total=33615839232, available=17763188736, percent=47.2, used=15398113280, free=10099523584, active=18629660672, inactive=3667312640, buffers=833888256, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |     80     B
+iter = 112
+CPU usage (% each core): [14.1, 14.6, 100.0, 13.5, 13.4, 12.9, 11.0, 12.9]
+RAM usage: svmem(total=33615839232, available=17742872576, percent=47.2, used=15418429440, free=10079207424, active=18649710592, inactive=3667312640, buffers=833888256, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 113
+CPU usage (% each core): [11.7, 14.2, 100.0, 14.7, 13.0, 13.9, 9.2, 13.5]
+RAM usage: svmem(total=33615839232, available=17763086336, percent=47.2, used=15398211584, free=10099421184, active=18629222400, inactive=3667312640, buffers=833892352, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 114
+CPU usage (% each core): [13.3, 13.9, 100.0, 14.5, 13.3, 13.3, 7.3, 13.8]
+RAM usage: svmem(total=33615839232, available=17742680064, percent=47.2, used=15418617856, free=10079014912, active=18649796608, inactive=3667312640, buffers=833892352, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    128     B
+iter = 115
+CPU usage (% each core): [14.7, 13.6, 100.0, 13.5, 13.4, 12.9, 8.6, 13.0]
+RAM usage: svmem(total=33615839232, available=17762639872, percent=47.2, used=15398658048, free=10098974720, active=18629660672, inactive=3667312640, buffers=833892352, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    144     B
+iter = 116
+CPU usage (% each core): [15.9, 15.3, 100.0, 14.7, 14.0, 14.1, 13.4, 14.0]
+RAM usage: svmem(total=33615839232, available=17741549568, percent=47.2, used=15419752448, free=10077880320, active=18649559040, inactive=3667312640, buffers=833892352, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    160     B
+    <class 'int |          -1 |    -28     B
+iter = 117
+CPU usage (% each core): [13.5, 13.6, 7.9, 15.2, 13.0, 13.4, 100.0, 13.5]
+RAM usage: svmem(total=33615839232, available=17762123776, percent=47.2, used=15399178240, free=10098454528, active=18629136384, inactive=3667312640, buffers=833892352, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    176     B
+iter = 118
+CPU usage (% each core): [14.8, 13.7, 9.3, 14.7, 13.6, 11.8, 100.0, 13.5]
+RAM usage: svmem(total=33615839232, available=17742372864, percent=47.2, used=15418929152, free=10078703616, active=18649821184, inactive=3667312640, buffers=833892352, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    200     B
+    <class 'int |           1 |     28     B
+iter = 119
+CPU usage (% each core): [12.3, 15.2, 8.0, 13.7, 13.5, 13.5, 100.0, 13.5]
+RAM usage: svmem(total=33615839232, available=17762045952, percent=47.2, used=15399256064, free=10098376704, active=18629419008, inactive=3667312640, buffers=833900544, cached=7284305920, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+iter = 120
+CPU usage (% each core): [12.7, 14.5, 7.2, 13.8, 13.3, 12.7, 100.0, 13.3]
+RAM usage: svmem(total=33615839232, available=17742417920, percent=47.2, used=15418875904, free=10078748672, active=18649559040, inactive=3667312640, buffers=833900544, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    224     B
+iter = 121
+CPU usage (% each core): [13.4, 13.0, 9.1, 14.6, 13.4, 13.4, 100.0, 12.9]
+RAM usage: svmem(total=33615839232, available=17762504704, percent=47.2, used=15398789120, free=10098835456, active=18629509120, inactive=3667312640, buffers=833900544, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+iter = 122
+CPU usage (% each core): [14.0, 14.6, 13.9, 14.1, 13.4, 13.4, 100.0, 13.4]
+RAM usage: svmem(total=33615839232, available=17741971456, percent=47.2, used=15419322368, free=10078302208, active=18649821184, inactive=3667312640, buffers=833900544, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    769     B
+   <class 'list |           0 |    256     B
+iter = 123
+CPU usage (% each core): [14.2, 13.6, 100.0, 14.1, 13.4, 13.4, 8.5, 13.4]
+RAM usage: svmem(total=33615839232, available=17762500608, percent=47.2, used=15398797312, free=10098827264, active=18629529600, inactive=3667312640, buffers=833900544, cached=7284314112, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -106 |   -11151     B
+iter = 124
+CPU usage (% each core): [14.4, 13.7, 100.0, 15.5, 13.7, 14.3, 13.7, 13.7]
+RAM usage: svmem(total=33615839232, available=17742553088, percent=47.2, used=15418744832, free=10078871552, active=18649739264, inactive=3667316736, buffers=833900544, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    854     B
+   <class 'list |           0 |    168     B
+iter = 125
+CPU usage (% each core): [12.5, 14.1, 8.0, 15.5, 14.2, 14.2, 100.0, 13.6]
+RAM usage: svmem(total=33615839232, available=17762717696, percent=47.2, used=15398580224, free=10099036160, active=18629513216, inactive=3667316736, buffers=833900544, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |     80     B
+iter = 126
+CPU usage (% each core): [12.2, 15.2, 10.4, 14.0, 13.4, 13.4, 100.0, 13.5]
+RAM usage: svmem(total=33615839232, available=17742725120, percent=47.2, used=15418572800, free=10079043584, active=18649825280, inactive=3667316736, buffers=833900544, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 127
+CPU usage (% each core): [14.2, 12.3, 7.4, 14.8, 13.5, 14.1, 100.0, 13.5]
+RAM usage: svmem(total=33615839232, available=17762906112, percent=47.2, used=15398383616, free=10099224576, active=18629513216, inactive=3667316736, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 128
+CPU usage (% each core): [14.0, 15.2, 12.7, 13.4, 13.9, 12.8, 99.4, 13.3]
+RAM usage: svmem(total=33615839232, available=17742753792, percent=47.2, used=15418535936, free=10079072256, active=18649739264, inactive=3667316736, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    128     B
+iter = 129
+CPU usage (% each core): [15.2, 14.7, 100.0, 13.9, 13.0, 13.9, 12.8, 13.4]
+RAM usage: svmem(total=33615839232, available=17762320384, percent=47.2, used=15398977536, free=10098630656, active=18629414912, inactive=3667316736, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    144     B
+iter = 130
+CPU usage (% each core): [14.7, 14.0, 9.7, 14.6, 13.9, 13.5, 100.0, 13.9]
+RAM usage: svmem(total=33615839232, available=17742585856, percent=47.2, used=15418712064, free=10078896128, active=18650009600, inactive=3667316736, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    160     B
+    <class 'int |          -1 |    -28     B
+iter = 131
+CPU usage (% each core): [14.9, 14.3, 15.4, 14.4, 13.7, 13.6, 100.0, 13.2]
+RAM usage: svmem(total=33615839232, available=17762017280, percent=47.2, used=15399284736, free=10098323456, active=18629062656, inactive=3667320832, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    176     B
+iter = 132
+CPU usage (% each core): [13.6, 13.7, 15.3, 14.8, 13.0, 13.6, 100.0, 13.6]
+RAM usage: svmem(total=33615839232, available=17742348288, percent=47.2, used=15418953728, free=10078654464, active=18649575424, inactive=3667320832, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    200     B
+    <class 'int |           1 |     28     B
+iter = 133
+CPU usage (% each core): [15.0, 13.8, 100.0, 13.8, 13.8, 13.3, 14.5, 13.7]
+RAM usage: svmem(total=33615839232, available=17761464320, percent=47.2, used=15399837696, free=10097770496, active=18629525504, inactive=3667320832, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+iter = 134
+CPU usage (% each core): [14.4, 13.3, 13.7, 12.7, 12.6, 13.2, 14.5, 100.0]
+RAM usage: svmem(total=33615839232, available=17741201408, percent=47.2, used=15420100608, free=10077507584, active=18650013696, inactive=3667320832, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    769     B
+   <class 'list |           0 |    224     B
+iter = 135
+CPU usage (% each core): [11.9, 15.1, 13.8, 13.7, 14.4, 15.5, 13.7, 100.0]
+RAM usage: svmem(total=33615839232, available=17761796096, percent=47.2, used=15399505920, free=10098102272, active=18629439488, inactive=3667320832, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+iter = 136
+CPU usage (% each core): [15.1, 16.9, 17.3, 100.0, 14.9, 15.0, 14.9, 13.9]
+RAM usage: svmem(total=33615839232, available=17741053952, percent=47.2, used=15420248064, free=10077360128, active=18647846912, inactive=3667320832, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    769     B
+   <class 'list |           0 |    256     B
+iter = 137
+CPU usage (% each core): [15.2, 14.0, 13.6, 12.8, 13.5, 13.9, 13.6, 100.0]
+RAM usage: svmem(total=33615839232, available=17762086912, percent=47.2, used=15399215104, free=10098393088, active=18627018752, inactive=3667320832, buffers=833908736, cached=7284322304, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -106 |   -11156     B
+iter = 138
+CPU usage (% each core): [14.1, 14.2, 13.4, 8.0, 13.0, 12.3, 12.9, 100.0]
+RAM usage: svmem(total=33615839232, available=17741504512, percent=47.2, used=15419797504, free=10077802496, active=18649841664, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    853     B
+   <class 'list |           0 |    168     B
+iter = 139
+CPU usage (% each core): [16.0, 14.2, 15.0, 14.2, 13.6, 14.3, 14.8, 100.0]
+RAM usage: svmem(total=33615839232, available=17761873920, percent=47.2, used=15399428096, free=10098171904, active=18630000640, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |     80     B
+iter = 140
+CPU usage (% each core): [14.6, 14.7, 13.5, 100.0, 13.4, 13.4, 14.0, 12.9]
+RAM usage: svmem(total=33615839232, available=17742405632, percent=47.2, used=15418896384, free=10078703616, active=18649759744, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 141
+CPU usage (% each core): [15.2, 14.5, 13.9, 99.4, 13.9, 13.9, 13.3, 7.4]
+RAM usage: svmem(total=33615839232, available=17762238464, percent=47.2, used=15399063552, free=10098536448, active=18629537792, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    921     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 142
+CPU usage (% each core): [13.3, 14.6, 13.8, 100.0, 13.7, 13.2, 13.2, 6.2]
+RAM usage: svmem(total=33615839232, available=17741578240, percent=47.2, used=15419723776, free=10077876224, active=18650025984, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                      <class 'str |          10 |      1.12 KB
+                    <class 'bytes |           9 |    922     B
+                     <class 'list |           1 |    400     B
+                    <class 'tuple |           5 |    328     B
+                     <class 'cell |           3 |    144     B
+                     <class 'code |           1 |    144     B
+              function (<lambda>) |           1 |    136     B
+          function (null_wrapper) |           1 |    136     B
+        <class 'functools.partial |           1 |     80     B
+                   <class 'method |           1 |     64     B
+  <class 'tornado.ioloop._Timeout |           1 |     64     B
+                    <class 'float |           1 |     24     B
+                     <class 'dict |          -1 |   -288     B
+iter = 143
+CPU usage (% each core): [15.5, 16.5, 14.3, 99.4, 13.6, 13.6, 14.2, 10.5]
+RAM usage: svmem(total=33615839232, available=17761918976, percent=47.2, used=15399383040, free=10098216960, active=18629451776, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |          19 |       1.92 KB
+                     <class 'dict |           1 |     288     B
+                     <class 'list |           0 |     120     B
+                    <class 'float |          -1 |     -24     B
+                   <class 'method |          -1 |     -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |     -64     B
+        <class 'functools.partial |          -1 |     -80     B
+              function (<lambda>) |          -1 |    -136     B
+          function (null_wrapper) |          -1 |    -136     B
+                     <class 'cell |          -3 |    -144     B
+                     <class 'code |          -1 |    -144     B
+                    <class 'tuple |          -5 |    -328     B
+                      <class 'str |          -9 |   -1068     B
+iter = 144
+CPU usage (% each core): [13.7, 14.5, 15.5, 13.1, 13.2, 13.2, 13.7, 99.4]
+RAM usage: svmem(total=33615839232, available=17741545472, percent=47.2, used=15419756544, free=10077843456, active=18649858048, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          19 |      1.93 KB
+   <class 'list |          -1 |    288     B
+    <class 'int |          -1 |    -28     B
+    <class 'str |          -1 |    -80     B
+iter = 145
+CPU usage (% each core): [13.6, 15.4, 13.6, 13.0, 13.6, 14.1, 14.8, 98.8]
+RAM usage: svmem(total=33615839232, available=17761308672, percent=47.2, used=15399993344, free=10097606656, active=18629562368, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          10 |    999     B
+   <class 'list |           0 |    224     B
+    <class 'int |           1 |     28     B
+iter = 146
+CPU usage (% each core): [15.8, 14.6, 12.7, 100.0, 14.5, 13.9, 13.9, 12.8]
+RAM usage: svmem(total=33615839232, available=17741828096, percent=47.2, used=15419473920, free=10078126080, active=18650030080, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+iter = 147
+CPU usage (% each core): [15.4, 14.2, 13.7, 12.9, 13.6, 14.1, 13.6, 95.7]
+RAM usage: svmem(total=33615839232, available=17762803712, percent=47.2, used=15398498304, free=10099101696, active=18629718016, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    256     B
+iter = 148
+CPU usage (% each core): [11.8, 14.1, 15.3, 10.4, 13.7, 13.6, 14.1, 100.0]
+RAM usage: svmem(total=33615839232, available=17743605760, percent=47.2, used=15417696256, free=10079903744, active=18650132480, inactive=3667324928, buffers=833908736, cached=7284330496, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -106 |   -11017     B
+iter = 149
+CPU usage (% each core): [14.1, 14.7, 13.5, 97.6, 14.5, 15.2, 14.1, 16.5]
+RAM usage: svmem(total=33615839232, available=17763201024, percent=47.2, used=15398092800, free=10099499008, active=18629722112, inactive=3667324928, buffers=833908736, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    853     B
+   <class 'list |           0 |    168     B
+iter = 150
+CPU usage (% each core): [15.3, 13.7, 14.2, 100.0, 13.6, 13.0, 13.0, 9.3]
+RAM usage: svmem(total=33615839232, available=17742557184, percent=47.2, used=15418736640, free=10078855168, active=18650034176, inactive=3667324928, buffers=833908736, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |     80     B
+iter = 151
+CPU usage (% each core): [14.7, 14.9, 13.6, 100.0, 13.0, 14.2, 13.6, 6.8]
+RAM usage: svmem(total=33615839232, available=17762648064, percent=47.2, used=15398645760, free=10098946048, active=18629722112, inactive=3667324928, buffers=833908736, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                      <class 'str |           9 |      1.03 KB
+                    <class 'bytes |           8 |    845     B
+                     <class 'list |           1 |    384     B
+                    <class 'tuple |           5 |    328     B
+                     <class 'cell |           3 |    144     B
+                     <class 'code |           1 |    144     B
+              function (<lambda>) |           1 |    136     B
+          function (null_wrapper) |           1 |    136     B
+        <class 'functools.partial |           1 |     80     B
+                   <class 'method |           1 |     64     B
+  <class 'tornado.ioloop._Timeout |           1 |     64     B
+                    <class 'float |           1 |     24     B
+                      <class 'int |          -1 |    -28     B
+                     <class 'dict |          -1 |   -288     B
+iter = 152
+CPU usage (% each core): [15.3, 14.6, 15.3, 100.0, 16.5, 13.8, 13.8, 3.1]
+RAM usage: svmem(total=33615839232, available=17742872576, percent=47.2, used=15418417152, free=10079170560, active=18650034176, inactive=3667324928, buffers=833912832, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                    <class 'bytes |          20 |      2.01 KB
+                     <class 'dict |           1 |    288     B
+                     <class 'list |           0 |    272     B
+                      <class 'int |           1 |     28     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+              function (<lambda>) |          -1 |   -136     B
+          function (null_wrapper) |          -1 |   -136     B
+                     <class 'cell |          -3 |   -144     B
+                     <class 'code |          -1 |   -144     B
+                    <class 'tuple |          -5 |   -328     B
+                      <class 'str |          -8 |   -975     B
+iter = 153
+CPU usage (% each core): [13.5, 12.9, 14.6, 100.0, 13.9, 12.9, 12.8, 7.4]
+RAM usage: svmem(total=33615839232, available=17763086336, percent=47.2, used=15398203392, free=10099384320, active=18629722112, inactive=3667324928, buffers=833912832, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          20 |      2.01 KB
+   <class 'list |          -1 |    248     B
+    <class 'int |          -1 |    -28     B
+    <class 'str |          -1 |    -80     B
+iter = 154
+CPU usage (% each core): [14.9, 13.8, 13.7, 100.0, 13.2, 13.7, 14.8, 6.9]
+RAM usage: svmem(total=33615839232, available=17743314944, percent=47.2, used=15417974784, free=10079612928, active=18650034176, inactive=3667324928, buffers=833912832, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |          10 |    999     B
+   <class 'list |           0 |    200     B
+iter = 155
+CPU usage (% each core): [13.5, 14.1, 14.1, 100.0, 13.5, 13.5, 13.5, 7.4]
+RAM usage: svmem(total=33615839232, available=17762893824, percent=47.2, used=15398395904, free=10099191808, active=18629722112, inactive=3667324928, buffers=833912832, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+    <class 'int |           1 |     28     B
+iter = 156
+CPU usage (% each core): [12.9, 14.6, 14.5, 100.0, 13.3, 13.3, 12.8, 6.7]
+RAM usage: svmem(total=33615839232, available=17742614528, percent=47.2, used=15418675200, free=10078912512, active=18650034176, inactive=3667324928, buffers=833912832, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    224     B
+iter = 157
+CPU usage (% each core): [13.9, 14.6, 13.4, 100.0, 13.4, 12.9, 13.9, 6.7]
+RAM usage: svmem(total=33615839232, available=17762492416, percent=47.2, used=15398797312, free=10098790400, active=18630012928, inactive=3667324928, buffers=833912832, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+iter = 158
+CPU usage (% each core): [14.2, 16.6, 14.2, 99.4, 14.1, 14.1, 14.1, 13.5]
+RAM usage: svmem(total=33615839232, available=17742897152, percent=47.2, used=15418392576, free=10079195136, active=18650034176, inactive=3667324928, buffers=833912832, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    256     B
+iter = 159
+CPU usage (% each core): [13.9, 14.0, 15.2, 100.0, 13.3, 13.3, 12.8, 6.7]
+RAM usage: svmem(total=33615839232, available=17758412800, percent=47.2, used=15402876928, free=10094710784, active=18633826304, inactive=3667324928, buffers=833912832, cached=7284338688, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -106 |   -11110     B
+iter = 160
+CPU usage (% each core): [13.9, 14.6, 13.7, 99.4, 13.8, 13.8, 13.7, 13.7]
+RAM usage: svmem(total=33615839232, available=17746096128, percent=47.2, used=15415193600, free=10082385920, active=18646138880, inactive=3667333120, buffers=833912832, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    853     B
+   <class 'list |           0 |    168     B
+iter = 161
+CPU usage (% each core): [14.8, 15.4, 14.3, 100.0, 13.6, 13.5, 13.6, 12.9]
+RAM usage: svmem(total=33615839232, available=17744961536, percent=47.2, used=15416328192, free=10081251328, active=18644447232, inactive=3667333120, buffers=833912832, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |     80     B
+    <class 'int |           1 |     28     B
+iter = 162
+CPU usage (% each core): [100.0, 16.8, 15.0, 12.6, 13.2, 13.3, 13.2, 12.7]
+RAM usage: svmem(total=33615839232, available=17747030016, percent=47.2, used=15414259712, free=10083319808, active=18645536768, inactive=3667333120, buffers=833916928, cached=7284342784, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 163
+CPU usage (% each core): [7.5, 15.6, 13.1, 12.7, 100.0, 13.0, 13.1, 13.6]
+RAM usage: svmem(total=33615839232, available=17747054592, percent=47.2, used=15414231040, free=10083344384, active=18645843968, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 164
+CPU usage (% each core): [13.2, 15.7, 13.9, 14.4, 100.0, 13.3, 13.8, 13.3]
+RAM usage: svmem(total=33615839232, available=17747693568, percent=47.2, used=15413592064, free=10083983360, active=18645536768, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    128     B
+iter = 165
+CPU usage (% each core): [100.0, 13.3, 15.2, 14.5, 13.3, 13.4, 13.3, 13.9]
+RAM usage: svmem(total=33615839232, available=17759010816, percent=47.2, used=15402274816, free=10095300608, active=18633826304, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    144     B
+iter = 166
+CPU usage (% each core): [9.1, 13.5, 14.6, 14.8, 100.0, 13.4, 14.0, 13.4]
+RAM usage: svmem(total=33615839232, available=17759289344, percent=47.2, used=15401996288, free=10095579136, active=18633256960, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    160     B
+    <class 'int |          -2 |    -56     B
+iter = 167
+CPU usage (% each core): [8.0, 14.7, 13.0, 14.1, 100.0, 13.6, 13.0, 13.0]
+RAM usage: svmem(total=33615839232, available=17758253056, percent=47.2, used=15403032576, free=10094542848, active=18633568256, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    176     B
+    <class 'int |           1 |     28     B
+iter = 168
+CPU usage (% each core): [13.3, 14.6, 13.9, 14.5, 99.4, 13.9, 13.9, 13.3]
+RAM usage: svmem(total=33615839232, available=17759576064, percent=47.2, used=15401709568, free=10095865856, active=18633256960, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    200     B
+iter = 169
+CPU usage (% each core): [100.0, 15.2, 13.5, 14.8, 12.8, 12.8, 13.5, 13.4]
+RAM usage: svmem(total=33615839232, available=17758822400, percent=47.2, used=15402463232, free=10095112192, active=18633576448, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+    <class 'int |           1 |     28     B
+iter = 170
+CPU usage (% each core): [100.0, 15.2, 15.2, 14.5, 13.3, 13.4, 13.3, 13.9]
+RAM usage: svmem(total=33615839232, available=17759576064, percent=47.2, used=15401709568, free=10095865856, active=18633256960, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    224     B
+iter = 171
+CPU usage (% each core): [9.9, 14.3, 15.5, 14.3, 100.0, 14.3, 14.3, 13.7]
+RAM usage: svmem(total=33615839232, available=17758646272, percent=47.2, used=15402639360, free=10094936064, active=18633580544, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    256     B
+iter = 172
+CPU usage (% each core): [8.0, 13.7, 14.8, 14.9, 100.0, 13.7, 13.6, 13.7]
+RAM usage: svmem(total=33615839232, available=17759178752, percent=47.2, used=15402106880, free=10095468544, active=18633285632, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+    <class 'int |          -1 |    -28     B
+iter = 173
+CPU usage (% each core): [13.4, 14.6, 13.5, 16.4, 100.0, 14.5, 15.2, 13.9]
+RAM usage: svmem(total=33615839232, available=17758822400, percent=47.2, used=15402463232, free=10095112192, active=18633580544, inactive=3667333120, buffers=833916928, cached=7284346880, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+    <class 'int |           1 |       28     B
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -108 |   -11233     B
+iter = 174
+CPU usage (% each core): [100.0, 13.6, 15.3, 15.3, 8.6, 13.6, 11.7, 13.6]
+RAM usage: svmem(total=33615839232, available=17759313920, percent=47.2, used=15401971712, free=10095595520, active=18633269248, inactive=3667337216, buffers=833916928, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    932     B
+   <class 'list |           0 |    168     B
+iter = 175
+CPU usage (% each core): [35.6, 13.1, 14.3, 13.8, 12.5, 12.6, 77.3, 12.5]
+RAM usage: svmem(total=33615839232, available=17758363648, percent=47.2, used=15402934272, free=10094632960, active=18633596928, inactive=3667341312, buffers=833916928, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    168     B
+iter = 176
+CPU usage (% each core): [14.6, 14.1, 100.0, 14.5, 13.4, 13.9, 8.5, 12.7]
+RAM usage: svmem(total=33615839232, available=17759563776, percent=47.2, used=15401734144, free=10095833088, active=18633281536, inactive=3667341312, buffers=833916928, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |     96     B
+    <class 'int |          -2 |    -56     B
+iter = 177
+CPU usage (% each core): [14.9, 13.8, 100.0, 13.3, 13.1, 13.2, 7.5, 12.7]
+RAM usage: svmem(total=33615839232, available=17758363648, percent=47.2, used=15402930176, free=10094632960, active=18633601024, inactive=3667341312, buffers=833921024, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    112     B
+    <class 'int |           2 |     56     B
+iter = 178
+CPU usage (% each core): [14.2, 15.5, 42.5, 14.2, 13.6, 13.0, 66.0, 11.7]
+RAM usage: svmem(total=33615839232, available=17759690752, percent=47.2, used=15401603072, free=10095960064, active=18633281536, inactive=3667341312, buffers=833921024, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    272     B
+    <class 'int |          -1 |    -28     B
+iter = 179
+CPU usage (% each core): [13.4, 13.9, 8.5, 14.0, 13.3, 13.3, 100.0, 13.4]
+RAM usage: svmem(total=33615839232, available=17758330880, percent=47.2, used=15402962944, free=10094600192, active=18633601024, inactive=3667341312, buffers=833921024, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    160     B
+iter = 180
+CPU usage (% each core): [15.2, 14.6, 12.8, 12.8, 12.9, 13.9, 100.0, 13.4]
+RAM usage: svmem(total=33615839232, available=17759281152, percent=47.2, used=15402016768, free=10095546368, active=18633293824, inactive=3667341312, buffers=833921024, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+iter = 181
+CPU usage (% each core): [13.9, 14.5, 100.0, 15.2, 13.3, 13.3, 7.3, 13.8]
+RAM usage: svmem(total=33615839232, available=17758494720, percent=47.2, used=15402803200, free=10094759936, active=18633613312, inactive=3667341312, buffers=833921024, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    176     B
+iter = 182
+CPU usage (% each core): [17.2, 14.1, 100.0, 13.1, 14.0, 14.1, 9.3, 13.6]
+RAM usage: svmem(total=33615839232, available=17759186944, percent=47.2, used=15402110976, free=10095452160, active=18633293824, inactive=3667341312, buffers=833921024, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    200     B
+    <class 'int |           1 |     28     B
+iter = 183
+CPU usage (% each core): [22.4, 14.4, 100.0, 16.6, 13.7, 14.3, 13.6, 13.7]
+RAM usage: svmem(total=33615839232, available=17757728768, percent=47.2, used=15403556864, free=10093989888, active=18633621504, inactive=3667341312, buffers=833937408, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+    <class 'int |          -1 |    -28     B
+iter = 184
+CPU usage (% each core): [16.4, 15.7, 12.7, 14.0, 13.9, 13.8, 99.4, 13.9]
+RAM usage: svmem(total=33615839232, available=17758580736, percent=47.2, used=15402704896, free=10094841856, active=18633302016, inactive=3667341312, buffers=833937408, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    224     B
+    <class 'int |           1 |     28     B
+iter = 185
+CPU usage (% each core): [14.8, 12.3, 100.0, 13.6, 13.9, 13.6, 12.3, 14.2]
+RAM usage: svmem(total=33615839232, available=17758953472, percent=47.2, used=15402332160, free=10095214592, active=18633621504, inactive=3667341312, buffers=833937408, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    256     B
+iter = 186
+CPU usage (% each core): [15.2, 11.6, 100.0, 16.3, 14.0, 14.0, 9.7, 14.0]
+RAM usage: svmem(total=33615839232, available=17759772672, percent=47.2, used=15401529344, free=10096017408, active=18633371648, inactive=3667341312, buffers=833937408, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+    <class 'int |          -1 |    -28     B
+iter = 187
+CPU usage (% each core): [14.5, 15.9, 100.0, 14.0, 12.9, 13.3, 12.7, 13.3]
+RAM usage: svmem(total=33615839232, available=17758859264, percent=47.2, used=15402442752, free=10095104000, active=18633637888, inactive=3667341312, buffers=833937408, cached=7284355072, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+    <class 'int |           1 |       28     B
+   <class 'list |           0 |    -1736     B
+  <class 'bytes |        -106 |   -10996     B
+iter = 188
+CPU usage (% each core): [13.9, 12.8, 9.0, 13.3, 13.8, 13.3, 100.0, 13.3]
+RAM usage: svmem(total=33615839232, available=17759178752, percent=47.2, used=15402123264, free=10095415296, active=18633322496, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    932     B
+   <class 'list |           0 |    152     B
+iter = 189
+CPU usage (% each core): [15.6, 13.7, 6.3, 15.0, 13.7, 13.7, 100.0, 13.7]
+RAM usage: svmem(total=33615839232, available=17758343168, percent=47.2, used=15402958848, free=10094579712, active=18633641984, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |     88     B
+    <class 'int |          -1 |    -28     B
+iter = 190
+CPU usage (% each core): [12.3, 15.3, 8.0, 15.3, 13.7, 14.1, 100.0, 14.2]
+RAM usage: svmem(total=33615839232, available=17759195136, percent=47.2, used=15402106880, free=10095431680, active=18633322496, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    208     B
+    <class 'int |           1 |     28     B
+iter = 191
+CPU usage (% each core): [12.9, 12.3, 7.3, 12.9, 13.3, 14.0, 100.0, 13.3]
+RAM usage: svmem(total=33615839232, available=17758343168, percent=47.2, used=15402958848, free=10094579712, active=18633641984, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    128     B
+iter = 192
+CPU usage (% each core): [15.1, 14.5, 12.7, 14.5, 13.9, 13.9, 100.0, 13.3]
+RAM usage: svmem(total=33615839232, available=17759670272, percent=47.2, used=15401631744, free=10095906816, active=18633322496, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    144     B
+    <class 'int |          -1 |    -28     B
+iter = 193
+CPU usage (% each core): [15.0, 14.9, 100.0, 14.9, 13.6, 13.7, 13.0, 14.3]
+RAM usage: svmem(total=33615839232, available=17759137792, percent=47.2, used=15402164224, free=10095374336, active=18633613312, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    160     B
+    <class 'int |           1 |     28     B
+iter = 194
+CPU usage (% each core): [14.7, 15.5, 14.0, 14.2, 14.2, 14.5, 99.4, 14.7]
+RAM usage: svmem(total=33615839232, available=17758814208, percent=47.2, used=15402487808, free=10095050752, active=18633322496, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    176     B
+iter = 195
+CPU usage (% each core): [15.3, 13.7, 100.0, 14.9, 14.2, 13.7, 8.7, 13.7]
+RAM usage: svmem(total=33615839232, available=17759010816, percent=47.2, used=15402291200, free=10095247360, active=18633641984, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+    <class 'int |          -1 |    -28     B
+iter = 196
+CPU usage (% each core): [12.9, 15.1, 100.0, 14.0, 11.7, 12.9, 7.9, 13.4]
+RAM usage: svmem(total=33615839232, available=17760227328, percent=47.2, used=15401074688, free=10096463872, active=18633322496, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    200     B
+iter = 197
+CPU usage (% each core): [14.3, 13.3, 100.0, 14.5, 14.9, 13.8, 13.2, 13.2]
+RAM usage: svmem(total=33615839232, available=17759670272, percent=47.2, used=15401631744, free=10095906816, active=18633506816, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    224     B
+    <class 'int |           1 |     28     B
+iter = 198
+CPU usage (% each core): [13.8, 15.5, 7.5, 15.4, 13.7, 13.7, 100.0, 13.0]
+RAM usage: svmem(total=33615839232, available=17759371264, percent=47.2, used=15401930752, free=10095607808, active=18633326592, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+iter = 199
+CPU usage (% each core): [13.3, 13.9, 10.8, 13.3, 15.0, 13.3, 100.0, 9.6]
+RAM usage: svmem(total=33615839232, available=17758679040, percent=47.2, used=15402622976, free=10094915584, active=18633646080, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    256     B
+iter = 200
+CPU usage (% each core): [15.2, 15.3, 7.4, 14.2, 13.6, 13.4, 100.0, 14.1]
+RAM usage: svmem(total=33615839232, available=17759592448, percent=47.2, used=15401709568, free=10095828992, active=18633326592, inactive=3667345408, buffers=833937408, cached=7284363264, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+    <class 'int |          -1 |      -28     B
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -105 |   -11076     B
+iter = 201
+CPU usage (% each core): [14.7, 15.3, 13.4, 13.5, 13.5, 13.0, 99.4, 13.0]
+RAM usage: svmem(total=33615839232, available=17758941184, percent=47.2, used=15402360832, free=10095169536, active=18633650176, inactive=3667349504, buffers=833937408, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    932     B
+   <class 'list |           0 |    168     B
+iter = 202
+CPU usage (% each core): [15.3, 15.2, 14.0, 15.3, 14.0, 14.0, 98.2, 14.0]
+RAM usage: svmem(total=33615839232, available=17759744000, percent=47.2, used=15401558016, free=10095972352, active=18633330688, inactive=3667349504, buffers=833937408, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |     80     B
+iter = 203
+CPU usage (% each core): [14.7, 13.0, 100.0, 14.0, 13.5, 14.0, 9.3, 12.3]
+RAM usage: svmem(total=33615839232, available=17759178752, percent=47.2, used=15402123264, free=10095407104, active=18633650176, inactive=3667349504, buffers=833937408, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    184     B
+    <class 'int |          -1 |    -28     B
+iter = 204
+CPU usage (% each core): [13.4, 13.5, 100.0, 12.9, 13.9, 14.1, 9.1, 12.8]
+RAM usage: svmem(total=33615839232, available=17760063488, percent=47.2, used=15401234432, free=10096291840, active=18633330688, inactive=3667349504, buffers=833941504, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 205
+CPU usage (% each core): [13.9, 14.5, 100.0, 15.6, 12.8, 13.9, 13.3, 13.9]
+RAM usage: svmem(total=33615839232, available=17759227904, percent=47.2, used=15402070016, free=10095456256, active=18633641984, inactive=3667349504, buffers=833941504, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    128     B
+iter = 206
+CPU usage (% each core): [14.7, 13.0, 8.5, 13.0, 13.4, 13.4, 100.0, 13.5]
+RAM usage: svmem(total=33615839232, available=17759559680, percent=47.2, used=15401742336, free=10095783936, active=18633334784, inactive=3667349504, buffers=833941504, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    144     B
+iter = 207
+CPU usage (% each core): [15.0, 13.7, 13.1, 14.4, 13.8, 13.7, 99.4, 13.1]
+RAM usage: svmem(total=33615839232, available=17758617600, percent=47.2, used=15402684416, free=10094841856, active=18633654272, inactive=3667349504, buffers=833941504, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    160     B
+    <class 'int |          -1 |    -28     B
+iter = 208
+CPU usage (% each core): [15.2, 14.6, 100.0, 17.1, 13.4, 13.9, 12.8, 13.9]
+RAM usage: svmem(total=33615839232, available=17759526912, percent=47.2, used=15401771008, free=10095751168, active=18633359360, inactive=3667349504, buffers=833945600, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    176     B
+iter = 209
+CPU usage (% each core): [15.4, 14.8, 7.5, 12.4, 13.6, 13.6, 100.0, 13.7]
+RAM usage: svmem(total=33615839232, available=17759215616, percent=47.2, used=15402082304, free=10095439872, active=18633625600, inactive=3667349504, buffers=833945600, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    200     B
+    <class 'int |           2 |     56     B
+iter = 210
+CPU usage (% each core): [14.2, 15.3, 14.0, 14.7, 15.2, 14.7, 100.0, 17.2]
+RAM usage: svmem(total=33615839232, available=17759780864, percent=47.2, used=15401517056, free=10096005120, active=18633334784, inactive=3667349504, buffers=833945600, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+iter = 211
+CPU usage (% each core): [14.0, 12.9, 100.0, 12.8, 12.3, 12.7, 7.9, 12.7]
+RAM usage: svmem(total=33615839232, available=17758584832, percent=47.2, used=15402717184, free=10094804992, active=18633658368, inactive=3667349504, buffers=833945600, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    768     B
+   <class 'list |           0 |    224     B
+iter = 212
+CPU usage (% each core): [14.9, 13.7, 100.0, 14.2, 13.7, 13.7, 8.1, 12.5]
+RAM usage: svmem(total=33615839232, available=17759420416, percent=47.2, used=15401881600, free=10095640576, active=18633351168, inactive=3667349504, buffers=833945600, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+iter = 213
+CPU usage (% each core): [14.9, 13.7, 100.0, 13.2, 13.2, 13.2, 13.7, 14.4]
+RAM usage: svmem(total=33615839232, available=17758601216, percent=47.2, used=15402700800, free=10094821376, active=18633670656, inactive=3667349504, buffers=833945600, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           7 |    769     B
+   <class 'list |           0 |    256     B
+iter = 214
+CPU usage (% each core): [14.5, 14.0, 8.4, 13.9, 13.3, 13.3, 100.0, 13.9]
+RAM usage: svmem(total=33615839232, available=17759166464, percent=47.2, used=15402135552, free=10095386624, active=18633351168, inactive=3667349504, buffers=833945600, cached=7284371456, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1832     B
+  <class 'bytes |        -106 |   -11079     B
+iter = 215
+CPU usage (% each core): [14.5, 11.5, 13.2, 13.3, 13.2, 13.3, 100.0, 13.9]
+RAM usage: svmem(total=33615839232, available=17758195712, percent=47.2, used=15403106304, free=10094407680, active=18633674752, inactive=3667353600, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    854     B
+   <class 'list |           0 |    168     B
+iter = 216
+CPU usage (% each core): [14.1, 15.3, 100.0, 14.7, 14.7, 14.7, 8.0, 14.1]
+RAM usage: svmem(total=33615839232, available=17758838784, percent=47.2, used=15402463232, free=10095050752, active=18631258112, inactive=3667353600, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |     80     B
+    <class 'int |          -1 |    -28     B
+iter = 217
+CPU usage (% each core): [15.1, 13.8, 100.0, 15.0, 13.1, 13.7, 13.0, 14.2]
+RAM usage: svmem(total=33615839232, available=17758019584, percent=47.2, used=15403282432, free=10094231552, active=18631577600, inactive=3667353600, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    184     B
+iter = 218
+CPU usage (% each core): [15.2, 11.7, 9.1, 15.3, 14.1, 14.0, 100.0, 13.6]
+RAM usage: svmem(total=33615839232, available=17758711808, percent=47.2, used=15402590208, free=10094923776, active=18631258112, inactive=3667353600, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    112     B
+    <class 'int |           1 |     28     B
+iter = 219
+CPU usage (% each core): [15.3, 14.7, 12.9, 14.1, 14.5, 14.0, 100.0, 14.0]
+RAM usage: svmem(total=33615839232, available=17757601792, percent=47.2, used=15403700224, free=10093813760, active=18631569408, inactive=3667353600, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    128     B
+iter = 220
+CPU usage (% each core): [11.7, 15.9, 9.1, 15.9, 13.6, 13.5, 100.0, 14.0]
+RAM usage: svmem(total=33615839232, available=17759473664, percent=47.2, used=15401828352, free=10095685632, active=18631258112, inactive=3667353600, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    845     B
+   <class 'list |           0 |    144     B
+iter = 221
+CPU usage (% each core): [15.2, 13.6, 12.3, 13.7, 13.5, 13.6, 100.0, 14.8]
+RAM usage: svmem(total=33615839232, available=17758310400, percent=47.2, used=15402991616, free=10094522368, active=18631577600, inactive=3667353600, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    160     B
+    <class 'int |          -1 |    -28     B
+iter = 222
+CPU usage (% each core): [14.1, 15.3, 100.0, 15.8, 14.0, 14.5, 12.8, 14.5]
+RAM usage: svmem(total=33615839232, available=17759076352, percent=47.2, used=15402225664, free=10095288320, active=18631557120, inactive=3667353600, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    176     B
+iter = 223
+CPU usage (% each core): [14.9, 14.2, 100.0, 15.4, 14.2, 13.7, 13.0, 13.6]
+RAM usage: svmem(total=33615839232, available=17758543872, percent=47.2, used=15402758144, free=10094755840, active=18631340032, inactive=3667349504, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    200     B
+    <class 'int |           1 |     28     B
+iter = 224
+CPU usage (% each core): [15.2, 14.7, 99.4, 12.7, 13.9, 13.9, 13.3, 13.4]
+RAM usage: svmem(total=33615839232, available=17759674368, percent=47.2, used=15401627648, free=10095886336, active=18631110656, inactive=3667349504, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+    <class 'int |          -1 |    -28     B
+iter = 225
+CPU usage (% each core): [15.5, 16.2, 13.1, 13.7, 13.7, 13.7, 100.0, 14.3]
+RAM usage: svmem(total=33615839232, available=17759236096, percent=47.2, used=15402065920, free=10095448064, active=18631573504, inactive=3667349504, buffers=833945600, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |    224     B
+    <class 'int |           1 |     28     B
+iter = 226
+CPU usage (% each core): [15.0, 13.0, 100.0, 16.0, 13.7, 14.2, 13.6, 13.7]
+RAM usage: svmem(total=33615839232, available=17759182848, percent=47.2, used=15402110976, free=10095394816, active=18631286784, inactive=3667349504, buffers=833953792, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    923     B
+   <class 'list |           0 |    256     B
+    <class 'int |          -1 |    -28     B
+iter = 227
+CPU usage (% each core): [14.1, 14.6, 7.9, 13.6, 13.3, 13.4, 100.0, 13.4]
+RAM usage: svmem(total=33615839232, available=17758965760, percent=47.2, used=15402328064, free=10095177728, active=18631606272, inactive=3667349504, buffers=833953792, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           9 |    922     B
+    <class 'int |           1 |     28     B
+iter = 228
+CPU usage (% each core): [12.4, 14.4, 8.1, 14.3, 14.5, 13.2, 100.0, 13.7]
+RAM usage: svmem(total=33615839232, available=17759911936, percent=47.2, used=15401381888, free=10096123904, active=18631286784, inactive=3667349504, buffers=833953792, cached=7284379648, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |     total size
+=============== | =========== | ==============
+   <class 'list |           0 |    -1736     B
+  <class 'bytes |        -106 |   -11000     B
+iter = 229
+CPU usage (% each core): [12.1, 14.5, 8.5, 13.9, 12.7, 13.2, 100.0, 13.3]
+RAM usage: svmem(total=33615839232, available=17759608832, percent=47.2, used=15401684992, free=10095812608, active=18631348224, inactive=3667353600, buffers=833953792, cached=7284387840, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    853     B
+   <class 'list |           0 |    152     B
+iter = 230
+CPU usage (% each core): [14.0, 16.0, 13.9, 14.7, 14.0, 14.0, 100.0, 15.3]
+RAM usage: svmem(total=33615839232, available=17759649792, percent=47.2, used=15401644032, free=10095853568, active=18631114752, inactive=3667353600, buffers=833953792, cached=7284387840, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+          types |   # objects |   total size
+=============== | =========== | ============
+  <class 'bytes |           8 |    846     B
+   <class 'list |           0 |     88     B
+    <class 'int |          -1 |    -28     B
+iter = 231
+CPU usage (% each core): [27.5, 21.5, 100.0, 20.1, 23.0, 20.2, 21.3, 22.5]
+RAM usage: svmem(total=33615839232, available=17759010816, percent=47.2, used=15402283008, free=10095214592, active=18631356416, inactive=3667353600, buffers=833953792, cached=7284387840, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+                            types |   # objects |    total size
+================================= | =========== | =============
+                    <class 'bytes |           9 |     923     B
+                      <class 'str |           4 |     602     B
+                     <class 'list |           1 |     344     B
+          function (null_wrapper) |           1 |     136     B
+                     <class 'cell |           2 |      96     B
+        <class 'functools.partial |           1 |      80     B
+                   <class 'method |           1 |      64     B
+                    <class 'tuple |           1 |      64     B
+  <class 'tornado.ioloop._Timeout |           1 |      64     B
+                      <class 'int |           1 |      28     B
+                    <class 'float |           1 |      24     B
+                     <class 'dict |          -3 |   -3744     B
+iter = 232
+CPU usage (% each core): [13.9, 16.3, 13.3, 16.2, 15.9, 14.5, 100.0, 13.4]
+RAM usage: svmem(total=33615839232, available=17759883264, percent=47.2, used=15401406464, free=10096087040, active=18631307264, inactive=3667353600, buffers=833957888, cached=7284387840, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)
+                            types |   # objects |   total size
+================================= | =========== | ============
+                     <class 'dict |           3 |      3.66 KB
+                    <class 'bytes |          18 |      1.84 KB
+                     <class 'list |           0 |    224     B
+                    <class 'float |          -1 |    -24     B
+                   <class 'method |          -1 |    -64     B
+                    <class 'tuple |          -1 |    -64     B
+  <class 'tornado.ioloop._Timeout |          -1 |    -64     B
+        <class 'functools.partial |          -1 |    -80     B
+                     <class 'cell |          -2 |    -96     B
+          function (null_wrapper) |          -1 |   -136     B
+                      <class 'str |          -3 |   -522     B
+iter = 233
+CPU usage (% each core): [23.0, 21.3, 99.4, 19.1, 19.8, 20.0, 13.0, 22.8]
+RAM usage: svmem(total=33615839232, available=17758826496, percent=47.2, used=15402463232, free=10095030272, active=18631626752, inactive=3667353600, buffers=833957888, cached=7284387840, shared=41152512)
+SWAP usage: sswap(total=34263265280, used=915750912, free=33347514368, percent=2.7, sin=32251854848, sout=92937601024)

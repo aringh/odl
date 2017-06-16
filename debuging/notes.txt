@@ -97,3 +97,37 @@ The current tests below are run on Tikhonov.
 
 => I do not seem to be able to get the same results as the original problem...
 
+
+
+--------------------------------------------
+--------------------------------------------
+Current tests are run in parallell on both
+Each indicates which computer
+--------------------------------------------
+--------------------------------------------
+
+
+
+--------------------
+2017_06_16__13_35_14
+--------------------
+- Running on Tikhonov
+- Running AD skull full data, original TV-code from Chong
+- Running from commit 3fd52ace
+- Chong closed open programs on his accout first
+- Kernel died after iteration 4...
+
+=> Same as yesterday
+
+
+--------------------
+2017_06_16__13_47_11
+--------------------
+- Running on Gelfand
+- Running on Shepp-Logan phantom: 100x100x100 volume and 200x200 detector.
+- Running from odl commit 7824dd2e, which is the same commit as we ran when we ran the code on Tikhonov and reported the error.
+- The memory does NOT increase for 130 iterations, it levels out immediately.
+
+=> Something between commit 7824dd2e (2/7 - 2017) and commit 3fd52ace (29/5 - 2017) seems to alter the behaviour of memory allocation.
+
+
