@@ -140,4 +140,25 @@ Each indicates which computer
 - THIS REPRODUCES THE ERROR EXACTLY!
 
 
+--------------------
+2017_06_16__17_38_37
+--------------------
+- Running on Gelfand
+- Running on Shepp-Logan phantom: 300x300x300 volume and 500x500 detector.
+- Ran debug_memory_leak
+- Running from odl commit 7824dd2e, which is the same commit as we ran when we ran the code on Tikhonov and reported the error.
+- This does not cause a crash, but potentially there is a slight increase over the iterations: 54.6% in the begining and 55.9% in the end.
+- However, it is not clear from the pympler output what it is that consumes memory increase
+
+
+--------------------
+2017_06_16__17_40_20
+--------------------
+- Running on Tikhonov
+- Running AD skull full data
+- Ran debug_memory_leak_2
+- Running from odl commit 7824dd2e, which is the same commit as we ran when we ran the code on Tikhonov and reported the error.
+- This also reproduces the error
+- However, it is not clear from the pympler output what it is that consumes memory increase
+
 
