@@ -2608,6 +2608,16 @@ class BregmanDistance(Functional):
         """The underlying point for the Bregman distance."""
         return self.__point
 
+    @point.setter
+    def point(self, new_point):
+        self.__point = new_point
+        self.__subgrad_eval = self.subgradient_op(self.__point)
+        self.__constant = (-self.__functional(self.__point) +
+                           self.__subgrad_eval.inner(self.__point))
+        self.__bregman_dist = FunctionalQuadraticPerturb(
+            self.__functional, linear_term=-self.__subgrad_eval,
+            constant_coeff=self.__constant)
+
     @property
     def subgradient_op(self):
         """The underlying subgradient operator for the Bregman distance."""

@@ -672,5 +672,37 @@ def test_bregman_functional_l2_squared(space, sigma):
     assert all_almost_equal(prox_bregman_dist(x), prox_expected_func(x))
 
 
+def test_bregman_functional_changing_point(space, sigma):
+    """Test chaining point in the Bregman distance."""
+    sigma = float(sigma)
+
+    kl = odl.solvers.KullbackLeibler(space)
+    point = noise_element(space)
+    bregman_dist = odl.solvers.BregmanDistance(kl, point)
+
+    new_point = noise_element(space)
+    bregman_dist.point = new_point
+    expected_func = odl.solvers.BregmanDistance(kl, new_point)
+
+    x = noise_element(space)
+
+    # Function evaluation
+    assert all_almost_equal(bregman_dist(x), expected_func(x))
+
+    # Gradient evaluation
+    assert all_almost_equal(bregman_dist.gradient(x),
+                            expected_func.gradient(x))
+
+    # Convex conjugate
+    cc_bregman_dist = bregman_dist.convex_conj
+    cc_expected_func = expected_func.convex_conj
+    assert all_almost_equal(cc_bregman_dist(x), cc_expected_func(x))
+
+    # Proximal operator
+    prox_bregman_dist = bregman_dist.proximal(sigma)
+    prox_expected_func = expected_func.proximal(sigma)
+    assert all_almost_equal(prox_bregman_dist(x), prox_expected_func(x))
+
+
 if __name__ == '__main__':
     odl.util.test_file(__file__)
