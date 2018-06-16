@@ -13,7 +13,7 @@ from builtins import next
 import numpy as np
 
 from odl.operator import IdentityOperator, OperatorComp, OperatorSum
-from odl.util import normalized_scalar_param_list
+from odl.util import normalized_scalar_param_list, noise_element
 
 
 __all__ = ('landweber', 'conjugate_gradient', 'conjugate_gradient_normal',
@@ -518,6 +518,111 @@ def kaczmarz(ops, x, rhs, niter, omega=1, projection=None, random=False,
             if callback is not None and callback_loop == 'inner':
                 callback(x)
         if callback is not None and callback_loop == 'outer':
+            callback(x)
+
+
+def biconjugate_gradient(op, x, rhs, niter, r_hat=None, callback=None):
+    r"""The biconjugate gradient method.
+
+    This method solves the inverse problem (of the first kind)
+
+    .. math::
+        A(x) = y
+
+    for a linear `Operator` :math:`A`. by looking at the normal equation
+
+    .. math::
+        A^*(A(x)) == A^*(rhs)
+
+    where :math:`A^*` is the adjoint operator.
+
+    The method is described  in the `Wikipedia article
+    <https://en.wikipedia.org/wiki/Biconjugate_gradient_method>`_.
+
+    Parameters
+    ----------
+    op : linear `Operator`
+        Operator in the inverse problem. Needs to implement `op.adjoint`.
+    x : ``op.domain`` element
+        Element to which the result is written. Its initial value is
+        used as starting point of the iteration, and its values are
+        updated in each iteration step.
+    rhs : ``op.range`` element
+        Right-hand side of the equation defining the inverse problem.
+    niter : int
+        Number of iterations.
+    r_hat : ``op.adjoint.domain`` element, optional
+        Update this doc.
+    callback : callable, optional
+        Object executing code per iteration, e.g. plotting each iterate.
+
+    Notes
+    -----
+    The precondition operator is the operator called :math:`M^{-1}` in the
+    the `Wikipedia article
+    <https://en.wikipedia.org/wiki/Biconjugate_gradient_method>`_.
+
+    See Also
+    --------
+    conjugate_gradient : Solver for self-adjoint linear systems
+    """
+    # TODO: add a book reference
+
+    if x not in op.domain:
+        raise TypeError('`x` {!r} is not in the domain of `op` {!r}'
+                        ''.format(x, op.domain))
+
+    try:
+        op.adjoint
+    except NotImplementedError:
+        raise NotImplementedError('`op` {!r} does not implement `op.adjoint`'
+                                  ''.format(op))
+
+    if rhs not in op.range:
+        raise TypeError('`rhs` {!r} is not in the range of `op` {!r}'
+                        ''.format(x, op.range))
+
+    if r_hat is None:
+        # TODO(@aringh): update initial guess. Better way?
+        r_hat = noise_element(op.adjoint.range)  # Element s.t. <r_hat, r> /= 0
+    elif r_hat not in op.adjoint.range:
+        raise TypeError('`x_hat` {!r} is not in the range of `op.adjoint` '
+                        '{!r}'.format(x, op.adjoint.range))
+
+    normal_op = op.adjoint * op
+    normal_rhs = op.adjoint(rhs)
+
+    r = normal_op(x)
+    r.lincomb(1, normal_rhs, -1, r)       # r = rhs - A x
+
+
+
+    sqnorm_r_old = r.norm() ** 2  # Only recalculate norm after update
+
+    if sqnorm_r_old == 0:  # Return if no step forward
+        return
+
+    for _ in range(niter):
+        op(p, out=d)  # d = A p
+
+        inner_p_d = p.inner(d)
+
+        if inner_p_d == 0.0:  # Return if step is 0
+            return
+
+        alpha = sqnorm_r_old / inner_p_d
+
+        x.lincomb(1, x, alpha, p)            # x = x + alpha*p
+        r.lincomb(1, r, -alpha, d)           # r = r - alpha*d
+
+        sqnorm_r_new = r.norm() ** 2
+
+        beta = sqnorm_r_new / sqnorm_r_old
+        sqnorm_r_old = sqnorm_r_new
+
+        p.lincomb(1, r, beta, p)                       # p = s + b * p
+
+        if callback is not None:
             callback(x)
 
 
