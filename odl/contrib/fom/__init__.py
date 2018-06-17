@@ -8,7 +8,7 @@
 
 from __future__ import absolute_import
 
-__all__ = ('supervised', 'unsupervised', 'util')
+__all__ = ('supervised', 'unsupervised', 'util', 'eval_of_fom')
 
 from .supervised import *
 __all__ += supervised.__all__
@@ -17,3 +17,6 @@ from .unsupervised import *
 __all__ += unsupervised.__all__
 
 from . import util
+
+from .eval_of_fom import *
+__all__ += eval_of_fom.__all__

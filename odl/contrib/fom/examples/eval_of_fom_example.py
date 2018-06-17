@@ -5,9 +5,8 @@ using some FOMS and data with diffrent noise levels.
 """
 
 import odl
+import odl.contrib.fom as fom
 import numpy as np
-#import eval_of_fom
-#import fom_test_shepp_logan
 
 # Seed the randomness
 np.random.seed(1)
@@ -62,20 +61,13 @@ reco_op_list = [fbp_op_1, fbp_op_2, fbp_op_3, fbp_op_4, fbp_op_5, fbp_op_6]
 
 
 # Create a list of FOMs
-fom_list = [odl.fom.mean_square_error,
-            odl.fom.mean_absolute_error,
-            odl.fom.density_range,
-            odl.fom.false_structures,
-            odl.fom.blurring]
+fom_list = [fom.mean_squared_error,
+            fom.mean_absolute_error,
+            fom.range_difference,
+            fom.ssim,
+            fom.blurring]
 
-# output = eval_of_fom.fom_eval(fom_list, fbp_op_1, data_list, discr_phantom)
-
-# eval_of_fom.mean_confidence_interval(output[0,:]-output[1,:]))
-
-# test_mat = eval_of_fom.confidence_interval_t_dist(output, conf_level=0.95,
-#                                                  axis=1)
-
-d_mat = odl.fom.compare_reco_matrix(fom_list, reco_op_list, data_list,
-                                    discr_phantom, conf_level=0.5)
+d_mat = fom.compare_reco_matrix(fom_list, reco_op_list, data_list,
+                                discr_phantom, conf_level=0.5)
 
 print(np.round(d_mat, decimals=3))

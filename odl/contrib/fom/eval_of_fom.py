@@ -1,4 +1,4 @@
-# Copyright 2014-2017 The ODL contributors
+# Copyright 2014-2018 The ODL contributors
 #
 # This file is part of ODL.
 #
@@ -11,15 +11,16 @@ import scipy.stats
 
 __all__ = ('fom_eval', 'confidence_interval_t_dist', 'compare_reco_matrix')
 
+
 def fom_eval(fom_list, reco_op, data_list, phantom):
-    """Evaluation of figure of merits (FOM).
+    """Evaluation of several figure of merits (FOMs) on same data.
 
     Evaluates a set of FOM's for a reconstruction mehtod on a set of data.
 
     Parameters
     ----------
     fom_list : list
-        List of callable where each element corresponds to one FOM.
+        List of callables, where each element corresponds to one FOM.
     reco_op : callable
         Reconstruction operator, takes data as input and outputs a
         reconstruction.
@@ -47,10 +48,7 @@ def fom_eval(fom_list, reco_op, data_list, phantom):
 
 
 def confidence_interval_t_dist(data, conf_level=0.95, axis=1):
-    """Computes a confidence interval around the data.
-
-    This computes a confidence interval around the mean of the data, based on
-    Student's t-distribution.
+    """Computes a confidence interval around the mean of the data.
 
     Parameters
     ----------
@@ -67,24 +65,31 @@ def confidence_interval_t_dist(data, conf_level=0.95, axis=1):
     m, m-h, m+h : numpy arrays
         m is the mean values, and m-h and m+h defines the confidence interval
         [m-h, m+h].
+
+    Notes
+    -----
+    The function computes a confidence interval around the mean of the data.
+    This is done by looking at quantiles that corresponds to the sought level
+    of confidence. However, since both the mean and the standard deviation of
+    the data is unknown, the standard error (i.e., the standard deviation of
+    the observed samples) is used, and the classical normal distrubution
+    quantiles are changed to quantiles Student's t-distribution. For more
+    information, see, e.g., `this online book
+    <http://www.stat.wmich.edu/s216/book/node79.html>`_
+    or `this Wikipedia article
+    <https://en.wikipedia.org/wiki/Confidence_interval>`_.
     """
+    # TODO(@aringh): give a proper book reference.
+
     n = data.shape[1]
-    m, se = np.mean(data, axis), scipy.stats.sem(data, axis)
-    h = se * scipy.stats.t._ppf((1+conf_level)/2., n-1)
+    m = np.mean(data, axis)
+
+    # Compute the standard error of the mean from the data
+    se = scipy.stats.sem(data, axis)
+
+    # Compute a t-based confidence interval of the mean
+    h = se * scipy.stats.t.ppf((1-conf_level)/2., n-1)
     return m, m-h, m+h
-
-
-'''
-def compare_reco_confidence_interval(fom_list, reco_op_1, reco_op_2, data_list,
-                                     phantom, conf_level=0.95):
-    fom_vals_1 = fom_eval(fom_list, reco_op_1, data_list, phantom)
-    fom_vals_2 = fom_eval(fom_list, reco_op_2, data_list, phantom)
-
-    #print(fom_vals_1)
-
-    return confidence_interval_t_dist(fom_vals_1-fom_vals_2, conf_level,
-                                      axis=1)
-'''
 
 
 def compare_reco_matrix(fom_list, reco_op_list, data_list, phantom,
@@ -108,12 +113,24 @@ def compare_reco_matrix(fom_list, reco_op_list, data_list, phantom,
     Returns
     -------
     confidence_vals : numpy arrays
-        Contains matrices. Each matrix corresponds a FOM in fom_list. For i<j,
-        the ij:th entry is positive if the entire confidence interval is
-        positive, negative if the confidence intenval is strictly negative,
-        and zero if the confidence interval contains zero. Note that the
-        confidence interval is defined for the difference between the FOM-value
-        of the i:th and j:th reconstruction operator, respectively.
+        A matrix of matrices with dimension::
+
+            (len(fom_list), len(reco_op_list), len(reco_op_list)).
+
+        In particular, each submatrix k corresponds to the k:th FOM in
+        `fom_list`. For each such submatrix k, each element ij is a comparison
+        of the i:th and the j:th reconstruction operator in `reco_op_list`.
+        More specifically, the difference in the k:th FOM between ceonstruction
+        operator i and j are computed for all data in `data_list`, and a mean
+        of the difference is computed. Around this mean, and confidence
+        interval corresponding to `conf_level` is created. For elements such
+        that i<j, the ij:th entry is positive if the entire confidence interval
+        is positive, negative if the confidence intenval is strictly negative,
+        and zero if the confidence interval contains zero. A positive value
+        thus means that with confidence level `conf_level`, the j:th
+        reconstruction operator gives better reconstructions than the i:th one
+        in the k:th FOM. For elements ji, this value of ij is mapped to 1, 0,
+        or -1, depending the sign of ij.
     """
     num_reco = len(reco_op_list)
     num_fom = len(fom_list)
