@@ -87,8 +87,10 @@ def confidence_interval_t_dist(data, conf_level=0.95, axis=1):
     # Compute the standard error of the mean from the data
     se = scipy.stats.sem(data, axis)
 
-    # Compute a t-based confidence interval of the mean
-    h = se * scipy.stats.t.ppf((1-conf_level)/2., n-1)
+    # Compute a t-based confidence interval of the mean. The distribution is
+    # 0-centerd and symmetric, and this computation computes the lower quantile
+    # which is thus negative.
+    h = -se * scipy.stats.t.ppf((1-conf_level)/2., n-1)
     return m, m-h, m+h
 
 

@@ -33,7 +33,7 @@ data_noise_free = ray_trafo(discr_phantom)
 noise_list = [0.01, 0.03, 0.1, 2]
 data_list = [None] * len(noise_list)
 
-for noise_level, i in zip(noise_list, range(len(data_list))):
+for i, noise_level in enumerate(noise_list):
     noise = odl.phantom.white_noise(ray_trafo.range)
     noise = noise * data_noise_free.norm()/noise.norm()
     data_list[i] = data_noise_free + noise_level * noise

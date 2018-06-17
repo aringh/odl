@@ -9,6 +9,8 @@
 """Test for the figures of merit (FOMs) that use a known ground truth."""
 
 from __future__ import division
+import numpy as np
+import pytest
 import odl
 from odl.contrib import fom
 from odl.util.testutils import noise_elements
@@ -32,6 +34,20 @@ def test_fom_eval():
         for j, current_data in enumerate(data_list):
             expected_result = current_fom(reco_op(current_data), phantom)
             assert expected_result == result[i, j]
+
+
+def test_confidence_interval_t_dist():
+    data_1 = np.random.normal(loc=0.0, scale=0.1, size=10)
+    data_2 = np.random.normal(loc=1.0, scale=0.1, size=10)
+
+    data = np.array([data_1, data_2])
+
+    means, lower_bounds, upper_bounds = fom.confidence_interval_t_dist(
+        data=data, conf_level=0.9, axis=1)
+
+    assert (lower_bounds <= means).all()
+    assert (means <= upper_bounds).all()
+    assert means == pytest.approx([0, 1], abs=1e-1)
 
 
 if __name__ == '__main__':
