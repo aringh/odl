@@ -35,12 +35,10 @@ def fom_eval(fom_list, reco_op, data_list, phantom):
         Matrix containing evaluation of the FOM's. Each row corresponds to a
         FOM and each column corresponds to a data set.
     """
-    num_fom = len(fom_list)
-    num_data = len(data_list)
-    fom_vals = np.zeros([num_fom, num_data])
+    fom_vals = np.zeros([len(fom_list), len(data_list)])
 
-    for fom, i in zip(fom_list, range(num_fom)):
-        for data, j in zip(data_list, range(num_data)):
+    for i, fom in enumerate(fom_list):
+        for j, data in enumerate(data_list):
             reco = reco_op(data)
             fom_vals[i, j] = fom(reco, phantom)
 
@@ -141,7 +139,7 @@ def compare_reco_matrix(fom_list, reco_op_list, data_list, phantom,
     confidence_vals = np.zeros([num_fom, num_reco, num_reco])
     fom_vals = np.zeros([num_reco, num_fom, num_data])
 
-    for reco_op, i in zip(reco_op_list, range(num_reco)):
+    for i, reco_op in enumerate(reco_op_list):
         fom_vals[i, :, :] = fom_eval(fom_list, reco_op, data_list, phantom)
 
     for i in range(num_reco):
