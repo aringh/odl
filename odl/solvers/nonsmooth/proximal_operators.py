@@ -1981,12 +1981,33 @@ def proximal_huber(space, gamma):
             else:
                 norm = x.ufuncs.absolute()
 
+#            mask = norm.ufuncs.less_equal(gamma + self.sigma)
+#            out[mask] = gamma / (gamma + self.sigma) * x[mask]
+#
+#            mask.ufuncs.logical_not(out=mask)
+#            sign_x = x.ufuncs.sign()
+#            out[mask] = x[mask] - self.sigma * sign_x[mask]
+
             mask = norm.ufuncs.less_equal(gamma + self.sigma)
-            out[mask] = gamma / (gamma + self.sigma) * x[mask]
+
+            if isinstance(self.domain, ProductSpace):
+                if self.domain.is_power_space:
+                    for i in range(len(self.domain)):
+                        out[i, mask] = gamma / (gamma + self.sigma) * x[i, mask]
+                else:
+                    raise NotImplementedError("Not supported for `ProductSpace` which is not a power space.")
+            else:
+                out[mask] = gamma / (gamma + self.sigma) * x[mask]
 
             mask.ufuncs.logical_not(out=mask)
             sign_x = x.ufuncs.sign()
-            out[mask] = x[mask] - self.sigma * sign_x[mask]
+
+            if isinstance(self.domain, ProductSpace):
+                # Have already checked that it is a power space above
+                for i in range(len(self.domain)):
+                    out[i, mask] = x[i, mask] - self.sigma * sign_x[i, mask]
+            else:
+                out[mask] = x[mask] - self.sigma * sign_x[mask]
 
             return out
 

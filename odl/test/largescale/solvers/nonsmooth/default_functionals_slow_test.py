@@ -30,22 +30,28 @@ stepsize = simple_fixture('stepsize', [0.1, 1.0, 10.0])
 linear_offset = simple_fixture('linear_offset', [False, True])
 quadratic_offset = simple_fixture('quadratic_offset', [False, True])
 dual = simple_fixture('dual', [False, True])
+product_space = simple_fixture('product_space', [False, True])
 
 
-func_params = ['l1', 'l2', 'l2^2', 'kl', 'kl_cross_ent', 'const',
-               'groupl1-1', 'groupl1-2',
-               'nuclearnorm-1-1', 'nuclearnorm-1-2', 'nuclearnorm-1-inf',
-               'quadratic', 'linear', 'huber']
+#func_params = ['l1', 'l2', 'l2^2', 'kl', 'kl_cross_ent', 'const',
+#               'groupl1-1', 'groupl1-2',
+#               'nuclearnorm-1-1', 'nuclearnorm-1-2', 'nuclearnorm-1-inf',
+#               'quadratic', 'linear', 'huber']
+
+func_params = ['huber']
+
 
 func_ids = [" functional='{}' ".format(p) for p in func_params]
 
 
 @pytest.fixture(scope="module", ids=func_ids, params=func_params)
-def functional(request, linear_offset, quadratic_offset, dual):
+def functional(request, linear_offset, quadratic_offset, dual, product_space):
     """Return functional whose proximal should be tested."""
     name = request.param.strip()
 
     space = odl.uniform_discr(0, 1, 2)
+    if product_space:
+        space = odl.ProductSpace(space, 2)
 
     if name == 'l1':
         func = odl.solvers.L1Norm(space)
