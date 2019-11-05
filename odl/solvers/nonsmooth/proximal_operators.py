@@ -1989,25 +1989,36 @@ def proximal_huber(space, gamma):
 #            out[mask] = x[mask] - self.sigma * sign_x[mask]
 
             mask = norm.ufuncs.less_equal(gamma + self.sigma)
-
-            if isinstance(self.domain, ProductSpace):
-                if self.domain.is_power_space:
-                    for i in range(len(self.domain)):
-                        out[i, mask] = gamma / (gamma + self.sigma) * x[i, mask]
-                else:
-                    raise NotImplementedError("Not supported for `ProductSpace` which is not a power space.")
-            else:
-                out[mask] = gamma / (gamma + self.sigma) * x[mask]
-
-            mask.ufuncs.logical_not(out=mask)
+            inv_mask = mask.ufuncs.logical_not()
             sign_x = x.ufuncs.sign()
 
             if isinstance(self.domain, ProductSpace):
-                # Have already checked that it is a power space above
-                for i in range(len(self.domain)):
-                    out[i, mask] = x[i, mask] - self.sigma * sign_x[i, mask]
+                for (out_i, x_i, sign_xi) in zip(out, x, sign_x):
+                    out_i[mask] = gamma / (gamma + self.sigma) * x_i[mask]
+                    out_i[inv_mask] = x_i[inv_mask] - self.sigma * sign_xi[inv_mask]
             else:
-                out[mask] = x[mask] - self.sigma * sign_x[mask]
+                 out[mask] = gamma / (gamma + self.sigma) * x[mask]
+                 out[inv_mask] = x[inv_mask] - self.sigma * sign_x[inv_mask]
+
+
+#            if isinstance(self.domain, ProductSpace):
+#                if self.domain.is_power_space:
+#                    for i in range(len(self.domain)):
+#                        out[i, mask] = gamma / (gamma + self.sigma) * x[i, mask]
+#                else:
+#                    raise NotImplementedError("Not supported for `ProductSpace` which is not a power space.")
+#            else:
+#                out[mask] = gamma / (gamma + self.sigma) * x[mask]
+#
+#            mask.ufuncs.logical_not(out=mask)
+#            sign_x = x.ufuncs.sign()
+#
+#            if isinstance(self.domain, ProductSpace):
+#                # Have already checked that it is a power space above
+#                for i in range(len(self.domain)):
+#                    out[i, mask] = x[i, mask] - self.sigma * sign_x[i, mask]
+#            else:
+#                out[mask] = x[mask] - self.sigma * sign_x[mask]
 
             return out
 
